@@ -17,9 +17,13 @@ En este repositorio encontrará las siguientes carpetas:
 * [documentos](documentos/documentos.md): difertentea archivos de utilidad para el desarrollo del curso, tales como el libro guía, biliografía recomendada, ayudas gráficas, etc.
 
 
-## Sobre el curso.
+# Sobre el curso.
 
-En este curso se profundizará en la teoría de la elasticidad. Esta es una teoría básica, imprescindible para poder entender entender, con suficiencia, el método de los elementos finitos, y con el tener bases apropiadas para poder manejar con criterio los diferentes programas de análisis estructural que existen en el mercado, que son empleados no solo en ingeniería estructural, sino en ingeniería geotécnica y de pavimentos.
+<p align="center">
+ <img width="400" height="180" src="figs/main_punto.png">
+</p>
+
+En este curso se profundizará en la teoría de la elasticidad. Esta es una teoría básica, imprescindible para poder entender, con suficiencia, el método de los elementos finitos, y con el tener bases apropiadas para poder manejar con criterio los diferentes programas de análisis estructural que existen en el mercado, que son empleados no solo en ingeniería estructural, sino en ingeniería geotécnica y de pavimentos.
 
 Partiendo de los conocimientos previos sobre tensiones y deformaciones, adquiridos en el curso de mecánica tensorial, el curso se desarrolla estudiando en profundidad las relaciones entre esfuerzos y deformaciones para materiales elásticos lineales, las ecuaciones fundamentales de la teoría de la elasticidad, las teorías de falla de materiales dúctiles y frágiles y finaliza con la formulación elástica en coordenas cilíndricas, lo cual es de especial importancia no solo en la mecánica estructural sino en la de suelos.
 
@@ -36,9 +40,6 @@ La materia se desarrollará mediante clases magistrales y prácticas mediante el
 
 
 ## Logística.
-
-
-
 
 
 Remítase a la siguiente [información](informacion):
