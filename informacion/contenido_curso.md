@@ -26,9 +26,9 @@
 - Regla de la cadena (se estudió en cálculo univariado y en cálculoo vectorial)
 - Campo vectorial (definición y ejemplos sencillos)
 
-~~~
+```
 Este repaso lo debe realizar el estudiante de manera autónoma, ya que los [prerrequisitos]() de la materia implican que son temas ya vistos en cursos anteriores. Si tiene dificultades comuníquese con el profesor.
-~~~
+```
 
 ## 1. Conceptos básicos
 
