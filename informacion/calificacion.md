@@ -38,23 +38,23 @@ Refierase al [contenido del curso](contenido_curso.md) para profundizar en los t
 
 
 ### Ayudas durante el examen
-Se permite para este examen traer una hoja tamaño oficio en la cual ustedes pueden escribir (POR UN SOLO LADO) todas las fórmulas, gráficos y comandos de MAXIMA y Python que deseen. En la hoja no se pueden ni escribir programas, ni texto explicativo, ni se pueden escribir demostraciones. Dicha hoja debe ser de elaboración personal (no se pueden traer las hojas hechas por compañeros de este o semestres pasados) y debe hacerse a mano (se prohíbe explícitamente traer fotocopias/impresiones/reducciones). 
+Se permite para los Exámenes traer una hoja tamaño oficio en la cual ustedes pueden escribir (POR UN SOLO LADO) todas las fórmulas, gráficos y comandos de MAXIMA y Python que deseen. En la hoja no se pueden ni escribir programas, ni texto explicativo, ni se pueden escribir demostraciones. Dicha hoja debe ser de elaboración personal (no se pueden traer las hojas hechas por compañeros de este o semestres pasados) y debe hacerse a mano (se prohíbe explícitamente traer fotocopias/impresiones/reducciones). 
 
-El día del examen, previo a iniciar, se revisará la hoja y se le dará el visto bueno a la par que se le entrega el formulario.
+El día del examen, previo a iniciar, se revisará la hoja y se le dará el visto bueno a la par que se le entrega el formulario. Si la hoja no cumple las condiciones no podrá ser usada.
 
 
 ### Prohibiciones
-Se prohíbe en estos exámenes el uso de calculadoras Hewlett-Packard y Texas Instrument, en general cualquier calculadroa con capacidades de programación, graficación, y manejo de texto, dispositivos de cómputo, móviles, o tecnológicos. 
+Se prohíbe en estos exámenes el uso de calculadoras Hewlett-Packard y Texas Instrument, en general cualquier calculadora con capacidades de programación, graficación, y manejo de texto, dispositivos de cómputo, móviles, o tecnológicos. 
 
 
 ### Duración y Horarios
-Los exámenes se realizarán en horario de clase, en un *plazo máximo de una (1) hora*.
+Los exámenes se realizarán en horario de clase, en un **plazo máximo de una (1) hora**.
 
 
 ### Fechas
 Las fechas para los exámenes se presentarán el primer día de clases (arriba están) y **serán inmodificables**, a no ser que por causas de fuerza mayor deban reagendarze. 
 
-*Se entiende por **eventos de causas de fuerza mayor** aquellos que son inevitables, imprevisibles y extraordinarios de conformidad con el sentido común, es decir: desastres naturales, inhabilidades de transporte o ingreso a la universidad, acciones administrativas, paros, etc.* 
+*Se entiende por **eventos de causa de fuerza mayor** aquellos que son inevitables, imprevisibles y extraordinarios de conformidad con el sentido común, es decir: desastres naturales, inhabilidades de transporte o ingreso a la universidad, acciones administrativas, paros, etc.* 
 
 
 ### Falta a los exámenes
@@ -73,7 +73,7 @@ Se preguntará sobre cualquier tema explicado en clase. Algunos modelos de pregu
 - "Realice un pseudocódigo para ...", 
 - "Resuelva ...".
 
-Las preguntas serán decisión del profesor claramente.
+Las preguntas serán decisión del profesor, claramente.
 
 
 ### Material de ayuda.
@@ -91,7 +91,7 @@ Al ser quices sorpresa, se tendrán en cuenta las siguientes consideraciones:
 - No habrá una fecha definida para su realización (son sorpresa y aleatorios), pero se realizarán con cierta periodicidad, así pues, no se realizarán todos "de una sentada".
 - Se toma un *quiz* como **un examen general, puntual y breve**. 
 - Su duración será de máximo 15 minutos, en los últimos 15 minutos de la clase. 
-- Se hará una única pregunta, esta espera *una respuesta puntual y consisa*, por ello será poco el tiempo.
+- Se hará una única pregunta, esta espera *una respuesta puntual y concisa*, por ello será poco el tiempo.
 - Se preguntará por temas de clases anteriores o de la misma en la cual se realice el quiz.
 - **No necesariamente se hará la misma pregunta a todos.**
 
@@ -115,6 +115,6 @@ Su descripción se encuentra [aquí]().
 ## Fraude en los exámenes, quices  o trabajos
 Estos se penalizarán así:
 
-- Nota cero en el trabajo/examen en cuestión.
+- Nota cero (0) en el trabajo/examen en cuestión. Si es en un quiz, todos los quices siguientes, anteriores y en cuestión tendrán nota cero (0).
 - Carta a la Dirección del Departamento de Ingeniería Civil reportando el suceso.
 - Se pierden adicionalmente todos los privilegios que se tienen de una calificación con notas mayores a 5.0 en todas las notas obtenidas en el semestre.
