@@ -24,7 +24,7 @@ En este repositorio encontrará las siguientes carpetas:
 * [documentos](documentos/documentos.md): difertentea archivos de utilidad para el desarrollo del curso, tales como el libro guía, biliografía recomendada, ayudas gráficas, etc.
 
 
-# Sobre el curso.
+# Sobre el curso
 
 En este curso se profundizará en la teoría de la elasticidad. Esta es una teoría básica, imprescindible para poder entender, con suficiencia, el método de los elementos finitos, y con el tener bases apropiadas para poder manejar con criterio los diferentes programas de análisis estructural que existen en el mercado, que son empleados no solo en ingeniería estructural, sino en ingeniería geotécnica y de pavimentos.
 
@@ -42,13 +42,16 @@ La materia se desarrollará mediante clases magistrales y prácticas mediante el
 
 
 
-## Logística.
+## Logística
 
 
-Remítase a la siguiente [información](informacion):
+Remítase a la siguiente información:
 
-* [Calificación](informacion/calificacion.md)
-
+- [Calificación](informacion/calificacion.md)
+- [Guía de estudio, material y recomendaciones](informacion/guia_estudio.md)
+- [Recursos]() 
+- [Software recomendado](informacion/software_recomendado.md)
+- [Sobre el main.pdf](informacion/sobre_el_main.md)
 
 
 
