@@ -87,7 +87,6 @@ Diríjase al documento (guía de estudio)[guia_estudio.md]
 
 ## Quices
 
-
 Se realizarán durante el semestre 5 quices sorpresa, de los cuales se calificarán 2 aleatoriamente la última semana de clases (FECHA). Esto equivaldrá al 10% de la nota final de la materia.
 
 Al ser quices sorpresa, se tendrán en cuenta las siguientes consideraciones:

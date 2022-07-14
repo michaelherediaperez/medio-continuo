@@ -47,7 +47,7 @@ La materia se desarrollará mediante clases magistrales y prácticas mediante el
 
 Remítase a la siguiente [información](informacion):
 
-* Calificación
+* [Calificación](informacion/calificacion.md)
 
 
 
