@@ -1,4 +1,4 @@
-# 4100611- Mecánica de Sólidos
+# 4100611- Mecánica de Sólidos (G#)
 
 
 <p align="center">
