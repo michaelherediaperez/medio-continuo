@@ -2,32 +2,33 @@
 
 
 ## 0. Repaso de diferentes temas de álgebra lineal y cálculo vectorial.
+
 ### Repaso de álgebra lineal (teoría y ejercicios de aplicación)
-* Cosenos directores
-* Proyección de vectores
-* Producto punto, producto cruz (con todas las propiedades que aparecen en el apéndice de las notas)
-* Norma de un vector
-* Matrices
-* Determinantes
-* Valores y vectores propios
-* Espacios vectoriales
-* Vectores linealmente dependientes/independientes
-* Bases
-* Planos y líneas rectas
+- Cosenos directores
+- Proyección de vectores
+- Producto punto, producto cruz (con todas las propiedades que aparecen en el apéndice de las notas)
+- Norma de un vector
+- Matrices
+- Determinantes
+- Valores y vectores propios
+- Espacios vectoriales
+- Vectores linealmente dependientes/independientes
+- Bases
+- Planos y líneas rectas
 
 ### Repaso de cálculo vectorial:
-* Gradiente
-* Matriz jacobiana y jacobiano
-* Divergencia
-* Rotacional
-* Diferenciales (se estudió en cálculo vectorial)
-* Expansión en series de Taylor (univariada y multivariada)
-* Regla de la cadena (se estudió en cálculo univariado y en cálculoo vectorial)
-* Campo vectorial (definición y ejemplos sencillos)
+- Gradiente
+- Matriz jacobiana y jacobiano
+- Divergencia
+- Rotacional
+- Diferenciales (se estudió en cálculo vectorial)
+- Expansión en series de Taylor (univariada y multivariada)
+- Regla de la cadena (se estudió en cálculo univariado y en cálculoo vectorial)
+- Campo vectorial (definición y ejemplos sencillos)
 
-
-    Este repaso lo debe realizar el estudiante de manera autónoma, ya que los [prerrequisitos]() de la materia implican que son temas ya vistos en cursos anteriores. Si tiene dificultades comuníquese con el profesor.
-
+~~~
+Este repaso lo debe realizar el estudiante de manera autónoma, ya que los [prerrequisitos]() de la materia implican que son temas ya vistos en cursos anteriores. Si tiene dificultades comuníquese con el profesor.
+~~~
 
 ## 1. Conceptos básicos
 
