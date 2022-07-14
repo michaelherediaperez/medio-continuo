@@ -26,9 +26,9 @@
 - Regla de la cadena (se estudió en cálculo univariado y en cálculoo vectorial)
 - Campo vectorial (definición y ejemplos sencillos)
 
-```
+
 Este repaso lo debe realizar el estudiante de manera autónoma, ya que los [prerrequisitos]() de la materia implican que son temas ya vistos en cursos anteriores. Si tiene dificultades comuníquese con el profesor.
-```
+
 
 ## 1. Conceptos básicos
 
@@ -100,22 +100,4 @@ Este repaso lo debe realizar el estudiante de manera autónoma, ya que los [prer
   * Concentración de esfuerzos alrededor de grietas
   * Concentración de esfuerzos en el ensayo brasileño
   * Aplicación en ingeniería de cimentaciones: problemas de Boussinesq, Flamant, Kelvin, Cerruti y Mindlin
-
-
-
-# Bibliografía recomendada
-
-El libro guía del curso será:
-* Alvarez Diego A. (2022) - *Notas de clase del curso mecánica de sólidos*. En preparación.
-
-Este documento está en proceso de publicación, para más información contactar al profesor.
-
-## Bibliografía básica.
-
-* Ameen, M. (2005) - *Computational elasticity*. Alpha Science.
-* Ortiz-Berrocal, L. (1998) - *Elasticidad*. McGraw Hill, 3rd edition.
-* Saad, M. (2005) - *Elasticity: theory, applications and numerics*. Elsevier.
-* Solecki, R. and Conant, R. (2003) - *Advanced mechanics of materials*. Oxford University Press.
-* Timoshenko, S. P. and Goodier, J. (1970) - *Theory of Elasticity*. McGraw Hill, 3rd edition.
-* Wang, C.-T. (1953) - *Applied Elasticity*. McGraw Hill.
 

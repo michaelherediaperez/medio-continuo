@@ -15,6 +15,7 @@ El presente es el repositorio para el grupo *** del curso de Mecánica de Sólid
 | Semestre en curso | 2022b, 16 semanas                                                     |
 | Créditos          | 3                                                                     |
 
+¿qué es un crédito? [ver aquí](informacion/credito.md) 
 
 ## Contenido del repositorio.
 
@@ -38,9 +39,6 @@ Se espera que al final del curso, el estudiante esté en capacidad de:
 
 La materia se desarrollará mediante clases magistrales y prácticas mediante el uso de programas de elementos finitos.
 
-[Aquí](informacion/contenido_curso.md) podrá encontrar el contenido del curso y la bibliografía recomendada.
-
-
 
 ## Logística
 
@@ -50,9 +48,9 @@ Remítase a la siguiente información:
 - [Contenido del curso y bibliografía](informacion/contenido_curso.md)
 - [Calificación](informacion/calificacion.md)
 - [Guía de estudio, material y recomendaciones](informacion/guia_estudio.md)
-- [Recursos]() 
+- [Recursos](informacion/recursos.md):  
 - [Software recomendado](informacion/software_recomendado.md)
 - [Sobre el main.pdf](informacion/sobre_el_main.md)
 
 
-
+(Pendiente de organizar bien)

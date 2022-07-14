@@ -109,7 +109,7 @@ Atendiendo a que los quices serán sorpresa y aleatorios, si un estudiante falta
 
 **Este trabajo es opcional**, reemplazará la nota más baja entre los 3 exámenes presentados.
 
-Su descripción se encuentra [aquí]().
+Su descripción se encuentra [aquí](trabajo.md).
 
 
 ## Fraude en los exámenes, quices  o trabajos

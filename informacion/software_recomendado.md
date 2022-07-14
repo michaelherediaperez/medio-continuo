@@ -26,6 +26,9 @@ A continuación se recomiendan algunas páginas donde el estudiante puede aprend
 * Python + [sympy](https://www.sympy.org/)
 * Repositorio del profesor Diego Andrés Álvarez <https://github.com/diegoandresalvarez/programaciondecomputadores>
 
+
+(por terminar)
+
 ### Alternativas 
 * <https://www.wolframalpha.com/>
 * [Axiom](http://axiom-developer.org/)
@@ -74,8 +77,14 @@ MS WORD no es una opción para escribir documentos bonitos de una forma rápida,
 
 ![](https://jamescalixto.com/quick-guide-latex/meme.jpg)
 
-fuente: https://jamescalixto.com/quick-guide-latex/
+fuente: <https://jamescalixto.com/quick-guide-latex/>
 
 
 # ¿GitHub?
 
+(por terminar)
+
+
+![](https://miro.medium.com/max/970/1%2AR1zHcZbjMsbf8EhxGqcfZg.jpeg)
+
+fuente: <https://medium.com/@thobhani.freddy/using-git-6d3715d08cd1>
