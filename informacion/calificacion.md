@@ -2,13 +2,13 @@
 
 El curso se calificará de la siguiente manera:
 
-| Actividad     | Tipo        | Porcentaje               | Fecha      |
-| ---           | ---         | ---                      | ---        |
-| Examen 01     | Obligatorio | 30%                      | dd/mm/aaaa |
-| Examen 02     | Obligatorio | 30%                      | dd/mm/aaaa |
-| Examen 03     | Obligatorio | 30%                      | dd/mm/aaaa |
-| Quices        | Obligatorio | 10%                      | Aleatorio  |
-| Trabajo       | opcional    | reemplaza nota más baja  | dd/mm/aaaa | 
+| Actividad     | Tipo        | Porcentaje                  | Fecha      |
+| ---           | ---         | ---                         | ---        |
+| Examen 01     | Obligatorio | 30%                         | dd/mm/aaaa |
+| Examen 02     | Obligatorio | 30%                         | dd/mm/aaaa |
+| Examen 03     | Obligatorio | 30%                         | dd/mm/aaaa |
+| Quices        | Obligatorio | 10%                         | Sorpresa   |
+| Trabajo       | opcional    | reemplaza la nota más baja  | dd/mm/aaaa | 
 
 
 A continuación se explica con mayor detalle cada actividad:
@@ -16,8 +16,7 @@ A continuación se explica con mayor detalle cada actividad:
 ## Exámenes
 Se realizarán 3 exámenes, cada uno de ellos equivaldrá al 30% de la nota final de la materia y serán de obligatoria resolución. A grandes rasgos, los temás a evaluar en cada uno de ellos serán:
 
-**Examen 01**
-
+#### Examen 01
 Se dividirá en dos partes, parte A y parte B, y se realizarán con diferencia de 2 semanas.
 
 Parte A:
@@ -26,18 +25,16 @@ Parte A:
 Parte B:
 * Repaso de esfuerzos y deformaciones infinitesimales.
 
-**Examen 02**
-
+#### Examen 02
 * Circulo de Mohr en 2D y 3D para los tensores de esfuerzos y deformaciones.
 * Relación entre esfeurzos y deformaciones.
 
 
-**Examen 03**
-
+#### Examen 03
 * Ecuaciones diferenciales fundamentales de la teoría de la elasticidad.
 * Formulación en coordenadas polares y cilíndricas.
 
-Refiare al [contenido del curso](contenido_curso.md) para profundizar en los temas.
+Refierase al [contenido del curso](contenido_curso.md) para profundizar en los temas.
 
 
 ### Ayudas durante el examen
