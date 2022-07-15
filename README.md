@@ -21,7 +21,7 @@ El presente es el repositorio para el grupo *** del curso de Mecánica de Sólid
 
 En este repositorio encontrará las siguientes carpetas:
 
-* [codigos](codigos/codigos.md): códigos escritos en lenguaje Python que facilitan el desarrollo de las demostraciones del libro guía, además de resolución de ejercicios prácticos.
+* [codigos](codigos/readme.md): códigos escritos en lenguaje Python que facilitan el desarrollo de las demostraciones del libro guía, además de resolución de ejercicios prácticos.
 * [documentos](documentos/documentos.md): difertentea archivos de utilidad para el desarrollo del curso, tales como el libro guía, biliografía recomendada, ayudas gráficas, etc.
 
 
