@@ -2,7 +2,7 @@
 
 ## 02. Estudio de los esfuerzos en un punto
 
-Ver ```cap_02```.
+Ver [cap_02](cap_02).
 
 | Demostraciones                            | Ejemplos                                                                  | 
 | ---                                       | ---                                                                       | 
@@ -16,7 +16,8 @@ Ver ```cap_02```.
 | [02_09_07.ipynb](cap_02/02_09_07.ipynb)   |                                                                           |
 
 
-Adicionalmente, ver el código [circulo_mohr_2d.py](cap_02/circulo_mohr_2d.py) que muestra el proceso de graficación del Círculo de Mohr en 2D. 
+Adicionalmente: 
+* [circulo_mohr_2d.py](cap_02/circulo_mohr_2d.py) que muestra el proceso de graficación del Círculo de Mohr en 2D. 
 
 ## 03. Estudio de los desplazamientos y las deformaciones en un punto
 
