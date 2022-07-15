@@ -7,6 +7,8 @@
 | [02_06_01.ipynb](cap_02/02_06_01.ipynb)   |                                                                           |
 | [02_06_02.ipynb](cap_02/02_06_02.ipynb)   | [02_06_02_ejemplo_01.ipynb](cap_02/02_06_02_ejemplo_01.ipynb)             |
 | [02_07.ipynb](cap_02/02_07.ipynb)         |                                                                           | 
-| [02_08_02.ipynb](cap_02/02_08_02.ipynb)   | [02_08_02_ejemplo.ipynb](cap_02/02_08_02_ejemplo.ipynb)                   |
+|                                           | [02_08_01_ejemplo_01.ipynb](cap_02/02_08_01_ejemplo_01.ipynb)             |
+| [02_08_02.ipynb](cap_02/02_08_02.ipynb)   | [02_08_02_ejemplos_vf.ipynb](cap_02/02_08_02_ejemplos_vf.ipynb)           |
 |                                           | [02_08_04_ejemplo_vvf.ipynb](cap_02/02_08_04_ejemplo_vvf.ipynb)           |
+|                                           | [02_09_04_ejemplo.ipynb](cap_02/02_09_04_ejemplo.ipynb)                   |
 | [02_09_07.ipynb](cap_02/02_09_07.ipynb)   |                                                                           |
