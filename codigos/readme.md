@@ -17,7 +17,7 @@ Ver [cap_02](cap_02).
 
 
 Adicionalmente: 
-* [circulo_mohr_2d.py](cap_02/circulo_mohr_2d.py) que muestra el proceso de graficación del Círculo de Mohr en 2D, siempre en el sentido contrario a las manecillas del reloj:
+* [circulo_mohr_2d.py](cap_02/circulo_mohr_2d.py) que muestra el proceso de graficación del Círculo de Mohr en 2D. Recuerde que mientras el sólido gira en sentido antihorario, el círculo se construye en sentido horario entre [0, 180°):
 
 ![](cap_02/mygif.gif)
 
