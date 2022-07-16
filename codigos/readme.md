@@ -17,7 +17,9 @@ Ver [cap_02](cap_02).
 
 
 Adicionalmente: 
-* [circulo_mohr_2d.py](cap_02/circulo_mohr_2d.py) que muestra el proceso de graficación del Círculo de Mohr en 2D. 
+* [circulo_mohr_2d.py](cap_02/circulo_mohr_2d.py) que muestra el proceso de graficación del Círculo de Mohr en 2D, siempre en el sentido contrario a las manecillas del reloj:
+
+![](cap_02/mygif.gif)
 
 ## 03. Estudio de los desplazamientos y las deformaciones en un punto
 
