@@ -48,7 +48,7 @@ Remítase a la siguiente información:
 - [Contenido del curso y bibliografía](informacion/contenido_curso.md)
 - [Calificación](informacion/calificacion.md)
 - [Guía de estudio, material y recomendaciones](informacion/guia_estudio.md)
-- [Recursos](informacion/recursos.md):  
+- [Recursos](informacion/recursos.md)
 - [Software recomendado](informacion/software_recomendado.md)
 - [Sobre el main.pdf](informacion/sobre_el_main.md)
 
