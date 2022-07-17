@@ -15,6 +15,7 @@ El presente es el repositorio para el grupo *** del curso de Mecánica de Sólid
 | Semestre en curso                 | 2022b, 16 semanas                                                     |
 | [Créditos](informacion/credito.md)| 3                                                                     |
 
+## Presentación
 
 En este curso se profundizará en la teoría de la elasticidad. Esta es una teoría básica, imprescindible para poder entender, con suficiencia, el método de los elementos finitos, y con el tener bases apropiadas para poder manejar con criterio los diferentes programas de análisis estructural que existen en el mercado, que son empleados no solo en ingeniería estructural, sino en ingeniería geotécnica y de pavimentos.
 
