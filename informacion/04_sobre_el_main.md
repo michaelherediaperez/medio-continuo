@@ -7,4 +7,4 @@ Por favor, tenga en cuenta que el uso de este PDF es netamente personal y queda 
 
 ## ¿LaTeX?
 
-Diríjase a la sección [software recomendado](software_recomendado.md)  
+Diríjase a la sección [software recomendado](../informacion/03_software_recomendado.md).  

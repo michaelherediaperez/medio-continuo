@@ -4,8 +4,12 @@ A continaución encontrará un índice para acceder a las traducción de los có
 
 Si quiere correr por usted mismo uno de los cuadernos, o hacer una copia para estudiar y modificarlo, puede hacerlo desde el botón de la esquina superior izquierda <a href="https://colab.research.google.com/?hl=es" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> que tienen todos los notebooks.
 
+Para más información, revise la sección de [software recomendado](../informacion/03_software_recomendado.md).
 
-Para más información, revise la sección de [recursos](./informacion/recursos.md).
+
+
+### Nota: 
+En la sección 2.9.3 del ```main.pdf``` se introduce la función atan2. Se menciona que las ecuaciones (2.63) y (2.66) se pueden resolver en Matlab utilizando la función ```atan2```. En Python, se puede emplear la función ```numpy.arctan2()```. Para mayores detalles consultar la [documentación](https://numpy.org/doc/stable/reference/generated/numpy.arctan2.html).
 
 
 ## 02. Estudio de los esfuerzos en un punto

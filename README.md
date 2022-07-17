@@ -42,15 +42,12 @@ La materia se desarrollará mediante clases magistrales y prácticas mediante el
 
 ## Logística
 
-
 Remítase a la siguiente información:
 
-- [Contenido del curso y bibliografía](informacion/contenido_curso.md)
-- [Calificación](informacion/calificacion.md)
-- [Guía de estudio, material y recomendaciones](informacion/guia_estudio.md)
-- [Recursos](informacion/recursos.md)
-- [Software recomendado](informacion/software_recomendado.md)
-- [Sobre el main.pdf](informacion/sobre_el_main.md)
+01. [Contenido del curso](informacion/01_contenido_curso.md)
+02. [Bibliografía y material recomendado](informacion/02_bibliografia_material.md)
+03. [Software recomendado](informacion/03_software_recomendado.md)
+04. [Sobre el main.pdf](informacion/04_sobre_el_main.md)
+05. [Calificación](informacion/05_calificacion.md)
 
-
-(Pendiente de organizar bien)
+Adicionalmente, el repositorio del profesor Diego Andrés Álvarez, mentor del curso: <https://github.com/diegoandresalvarez/solidos>
