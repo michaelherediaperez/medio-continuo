@@ -2,7 +2,7 @@
 
 A continaución encontrará un índice para acceder a las traducción de los códigos del ```main.pdf```, que están hechos en lenguaje MAXIMA y en Matlab, a [Python](https://www.python.org/); a excepción de unos pocos, estos están en formato ```.ipynb``` porque son *Python Interactive Notebooks* o *IPython Notebooks* creados en la plataforma [Google Colab](https://colab.research.google.com/?hl=es).
 
-Si quiere correr por usted mismo uno de los cuadernos, o hacer una copia para estudiar y modificarlo, puede hacerlo desde el botón de la esquina superior izquierda <a href="https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Colab%20RDP/Colab%20RDP.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> que tienen todos los notebooks.
+Si quiere correr por usted mismo uno de los cuadernos, o hacer una copia para estudiar y modificarlo, puede hacerlo desde el botón de la esquina superior izquierda <a href="https://colab.research.google.com/?hl=es" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> que tienen todos los notebooks.
 
 
 Para más información, revise la sección de [recursos](./informacion/recursos.md).
