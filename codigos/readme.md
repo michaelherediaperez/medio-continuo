@@ -1,19 +1,27 @@
-# Codigos
+# Códigos en Python
+
+A continaución encontrará un índice para acceder a las traducción de los códigos del ```main.pdf```, que están hechos en lenguaje MAXIMA y en Matlab, a [Python](https://www.python.org/); a excepción de unos pocos, estos están en formato ```.ipynb``` porque son *Python Interactive Notebooks* o *IPython Notebooks* creados en la plataforma [Google Colab](https://colab.research.google.com/?hl=es).
+
+Si quiere correr por usted mismo uno de los cuadernos, o hacer una copia para estudiar y modificarlo, puede hacerlo desde el botón de la esquina superior izquierda <a href="https://colab.research.google.com/github/PradyumnaKrishna/Colab-Hacks/blob/master/Colab%20RDP/Colab%20RDP.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> que tienen todos los notebooks.
+
+
+Para más información, revise la sección de [recursos](./informacion/recursos.md).
+
 
 ## 02. Estudio de los esfuerzos en un punto
 
 Ver [cap_02](cap_02).
 
-| Demostraciones                            | Ejemplos                                                                  | 
-| ---                                       | ---                                                                       | 
-| [02_06_01.ipynb](cap_02/02_06_01.ipynb)   |                                                                           |
-| [02_06_02.ipynb](cap_02/02_06_02.ipynb)   | [02_06_02_ejemplo_01.ipynb](cap_02/02_06_02_ejemplo_01.ipynb)             |
-| [02_07.ipynb](cap_02/02_07.ipynb)         |                                                                           | 
-|                                           | [02_08_01_ejemplo_01.ipynb](cap_02/02_08_01_ejemplo_01.ipynb)             |
-| [02_08_02.ipynb](cap_02/02_08_02.ipynb)   | [02_08_02_ejemplos_vf.ipynb](cap_02/02_08_02_ejemplos_vf.ipynb)           |
-|                                           | [02_08_04_ejemplo_vvf.ipynb](cap_02/02_08_04_ejemplo_vvf.ipynb)           |
-|                                           | [02_09_04_ejemplo.ipynb](cap_02/02_09_04_ejemplo.ipynb)                   |
-| [02_09_07.ipynb](cap_02/02_09_07.ipynb)   |                                                                           |
+| Demostraciones                            | Ejemplos                                                         |  Ejercicios                                                   |
+| ---                                       | ---                                                              | ---                                                           | 
+| [02_06_01.ipynb](cap_02/02_06_01.ipynb)   |                                                                  |                                                               |               
+| [02_06_02.ipynb](cap_02/02_06_02.ipynb)   | [02_06_02_ejemplo_01.ipynb](cap_02/02_06_02_ejemplo_01.ipynb)    |                                                               |
+| [02_07.ipynb](cap_02/02_07.ipynb)         |                                                                  |                                                               | 
+|                                           | [02_08_01_ejemplo_01.ipynb](cap_02/02_08_01_ejemplo_01.ipynb)    |                                                               |
+| [02_08_02.ipynb](cap_02/02_08_02.ipynb)   | [02_08_02_ejemplos_vf.ipynb](cap_02/02_08_02_ejemplos_vf.ipynb)  |                                                               |
+|                                           | [02_08_04_ejemplo_vvf.ipynb](cap_02/02_08_04_ejemplo_vvf.ipynb)  |                                                               |
+|                                           | [02_09_04_ejemplo.ipynb](cap_02/02_09_04_ejemplo.ipynb)          |                                                               |
+| [02_09_07.ipynb](cap_02/02_09_07.ipynb)   |                                                                  |                                                               |
 
 
 Adicionalmente: 
@@ -23,20 +31,30 @@ Adicionalmente:
 
 ## 03. Estudio de los desplazamientos y las deformaciones en un punto
 
-| Demostraciones                            | Ejemplos                                                                  | 
-| ---                                       | ---                                                                       | 
+| Demostraciones                            | Ejemplos                                                         | Ejercicios                                                    |
+| ---                                       | ---                                                              | ---                                                           |   
+| [03_04.ipynb](cap_03/03_04.ipynb)         | [03_04_02_ejemplo.ipynb](cap_03/03_04_02_ejemplo.ipynb)          |                                                               |
+|                                           | [03_04_03_ejemplo.ipynb](cap_03/03_04_03_ejemplo.ipynb)          |                                                               |
+|                                           |                                                                  | [03_07_02_ejercicio.ipynb](cap_03/03_07_02_ejercicio.ipynb)   |
+
+
+
+
 
 ## 04. Relación entre los esfuerzos y las deformaciones
 
-| Demostraciones                            | Ejemplos                                                                  | 
-| ---                                       | ---                                                                       | 
+| Demostraciones                            | Ejemplos                                                         | Ejercicios                                                    |
+| ---                                       | ---                                                              | ---                                                           |   
+ 
+
 
 ## 05. Ecuaciones diferencailes fundamentales de la teoría de la elasticidad
 
-| Demostraciones                            | Ejemplos                                                                  | 
-| ---                                       | ---                                                                       | 
+| Demostraciones                            | Ejemplos                                                         | Ejercicios                                                    |
+| ---                                       | ---                                                              | ---                                                           |   
+
 
 ## 06. Formulación de la teoría de la elasticidad en coordenadas cilíndricas
 
-| Demostraciones                            | Ejemplos                                                                  | 
-| ---                                       | ---                                                                       | 
+| Demostraciones                            | Ejemplos                                                         | Ejercicios                                                    |
+| ---                                       | ---                                                              | ---                                                           |   
