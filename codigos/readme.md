@@ -62,7 +62,7 @@ Adicionalmente:
 
 | Demostraciones                            | Ejemplos                                                         | Ejercicios                                                    |
 | ---                                       | ---                                                              | ---                                                           |   
-
+|                                           | [05_08_ejemplo.ipynb](cap_05/05_08_ejemplo.ipynb)                |                                                               |
 
 ## 06. Formulación de la teoría de la elasticidad en coordenadas cilíndricas
 
