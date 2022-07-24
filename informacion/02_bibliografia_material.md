@@ -19,13 +19,15 @@ Este documento está en proceso de publicación, para más información contacta
 
 Los siguientes libros:
 
-* Sánchez, Rubén (2005). Fundamentos de álgebra lineal. *Identificación biblioteca: 512.5 S211f 21*
+* Acevedo Frias, Bernardo. Matemáticas fundamentales para ingenieros. [Repositorio unal](https://repositorio.unal.edu.co/bitstream/handle/unal/7173/bernardoacevedofrias.2003.pdf?sequence=1&isAllowed=y)
 * Sánchez, Rubén (1990). Curso básico de álgebra lineal. *Identificación biblioteca: 512.5 S211c5 21*
-* Sánchez, Rubén (1984). Curso básico de álgebra lineal. *Identificación biblioteca: 512.5 S211c 20*
+* Colley, S. J. (2011). Vector calculus.
 
-que se encuentran en la biblioteca, son excelentes para repasar álgebra lineal, ya que van al grano, son concisos y fáciles de entender.
+Son excelentes para repasar 
+
 
 Los siguientes son unos videotutoriales excelentes para repasar álgebra lineal:
+* [Álgebra Lineal Universidad Nacional de Colombia, sede Medellín](https://www.youtube.com/channel/UCsE2po3zBjPxGYMH8UWJQ6w)
 * [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 * [La esencia del álgebra lineal (son los mismos videos pero traducidos al español)](https://www.youtube.com/channel/UCQbsk1JQNaskUlfdoyiWJDg/videos)
 
