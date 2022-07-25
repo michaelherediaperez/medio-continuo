@@ -2,7 +2,7 @@
 
 ## Presentaciones
 
-Durante las clases se hará uso de presentaciones con los detalles y puntos claves del libro guía (ver [Bibliografía y material recomendado](../informacion/02_bibliografia_material.md)); sin embargo, esto no es más que una herramienta para dictar la clase y el estudiante debe estudiar detenidamente d ela bibliografía dada.
+Durante las clases se hará uso de presentaciones con los detalles y puntos claves del libro guía (ver [Bibliografía y material recomendado](../informacion/02_bibliografia_material.md)); sin embargo, esto no es más que una herramienta para dictar la clase y el estudiante debe estudiar detenidamente de la bibliografía dada.
 
 0. Presentación del curso: [00_PresentacionDelCurso.pdf](00_PresentacionDelCurso.pdf)
 1. Conceptos básicos: [01_ConceptosBasicos.pdf](01_ConceptosBasicos.pdf)
