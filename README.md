@@ -1,19 +1,16 @@
-# 4100611- Mecánica de Sólidos (G#)
-
+# 4100611- Mecánica de Sólidos (G2)
 
 <p align="center">
  <img width="600" height="300" src="figs/main_punto.png">
 </p>
 
-
-
-El presente es el repositorio para el grupo *** del curso de Mecánica de Sólidos de la Universdidad Nacional de Colombia sede Manizales.
-
+El presente es el repositorio para el **grupo 2** del curso de Mecánica de Sólidos de la Universdidad Nacional de Colombia sede Manizales.
 
 | Profesor                          | Michael Heredia Pérez, [mherediap@unal.edu.co](mherediap@unal.edu.co) |
 | ---                               | ---                                                                   |
 | Semestre en curso                 | 2022b, 16 semanas                                                     |
 | [Créditos](informacion/credito.md)| 3                                                                     |
+| Horario                           | miércoles (10:00 a.m. - 12:00 m) y jueves (8:00 a.m. - 10:00 a.m.)    |
 
 ## Presentación
 
@@ -28,7 +25,6 @@ Se espera que al final del curso, el estudiante esté en capacidad de:
 * Entender la deducción y rango de aplicación de ciertas formulaciones que se aplicarán más tarde en las líneas de mecánica de suelos y pavimentos.
 
 La materia se desarrollará mediante clases magistrales y prácticas mediante el uso de [notebooks](codigos/readme.md) y programas de elementos finitos.
-
 
 ## Índice
 
