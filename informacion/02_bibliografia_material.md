@@ -23,8 +23,7 @@ Los siguientes libros:
 * Sánchez, Rubén (1990). Curso básico de álgebra lineal. *Identificación biblioteca: 512.5 S211c5 21*
 * Colley, S. J. (2011). Vector calculus.
 
-Son excelentes para repasar 
-
+Son muy útiles para repasar.
 
 Los siguientes son unos videotutoriales excelentes para repasar álgebra lineal:
 * [Álgebra Lineal Universidad Nacional de Colombia, sede Medellín](https://www.youtube.com/channel/UCsE2po3zBjPxGYMH8UWJQ6w)
