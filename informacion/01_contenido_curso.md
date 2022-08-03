@@ -1,7 +1,7 @@
 # Contenido del curso
 
 
-## 0. Repaso de diferentes temas de álgebra lineal y cálculo vectorial.
+## 00. Repaso de diferentes temas de álgebra lineal, cálculo vectorial y programación de computadores.
 
 ### Repaso de álgebra lineal (teoría y ejercicios de aplicación)
 - Cosenos directores
@@ -26,78 +26,38 @@
 - Regla de la cadena (se estudió en cálculo univariado y en cálculoo vectorial)
 - Campo vectorial (definición y ejemplos sencillos)
 
+### Repaso de programación de computadores (python):
+- Tipos de datos
+- Estructuras de control
+- Librerías básicas: sympy (cálculo simbólico), numpy (cálculo algebráico) y matplotlib (graficación)
 
 Este repaso lo debe realizar el estudiante de manera autónoma, ya que los [prerrequisitos]() de la materia implican que son temas ya vistos en cursos anteriores. Si tiene dificultades comuníquese con el profesor.
 
 
-## 1. Conceptos básicos
+## 01. Conceptos básicos
 
-¿Qué es un sólido? Será la clase introductoria.
-
-
-## 2. Repaso breve de esfuerzos y deformaciones infinitesimales (estos temas se aprendieron en el curso *Mecánica Tensorial*)
-
-### Esfuerzos o tensiones
-* Fuerzas másicas y fuerzas superficiales
-* Esfuerzos cortantes y normales
-* Tensor de tensiones
-* Cambio de base
-
-### Desplazamientos y pequeñas deformaciones
-* Desplazamientos
-* Deformaciones longitudinales y angulares
-* Galgas extensiométricas
-* Especificación de la deformación en otras direcciones
-* Rotación
-* Deformaciones principales
+Se sentarán las bases para el curso con la pregunta ¿qué es la mecánica de sólidos? y se expondrán dos conceptos fundamentales: diferenciales y fuerzas en un sólido. 
 
 
-## 3. Círculo de Mohr en 2D y 3D para los tensores de esfuerzos y deformaciones
+## 02. Estudio de los esfuerzos en un punto (visto en mecánica tensorial)
+
+Se explicará el conceto de *tensión o esfuerzo*, y se analizarán en un punto del sólido desde un enfoque bidimensional y tridimensional. Se introducirán conceptos como notación tensorial y cambio de base, para así expresar la llamada *matriz de esfuerzos de Cauchy* en diferentes sistemas de coordenadas, con lo cual será posible girar el sólido en su espacio y hablar de los llamados *esfuerzos y direcciones principales*, llegando a la teoría del *círculo de Mohr* en dos y tres dimensiones.  
 
 
-## 4. Relación entre esfuerzos y deformaciones
-* Materiales frágiles y materiales dúctiles: comportamiento elastoplástico, curva esfuerzo deformación.
-* La ley de Hooke para materiales isótropos, anisótropos y ortótropos:
-  * Los módulos de Young y Poisson.
-  * Deformación de un sólido sometido a esfuerzos normales en las direcciones x, y y z.
-  * Deformación de un sólido sometido a esfuerzos tangenciales.
-* Relación entre las direcciones principales asociadas a los esfuerzos y a las deformaciones para materiales isótropos
-* Cambios de volumen y dilatación cúbica
-* Módulo de expansión volumétrica o módulo de compresibilidad.
-* Particularizaciones de tres a dos dimensiones: 
-  * Tensión plana
-  * Deformación plana
-  * Relación entre los esfuerzos principales obtenidos en el análisis bidimensional y tridimensional
-* Interpretación de los gráficos de colores de esfuerzos y deformaciones
-* Modificación de la ley de Hooke para tener en cuenta los efectos térmicos en el caso de materiales isótropos y ortótropos
+## 03. Estudio de los desplazamientos y las deformaciones en un punto (visto en mecánica tensorial)
+
+Partiendo de la definción del *campo vectorial de desplazamientos* de un sólido, se verán las doc componentes de la deformación: la *deformación lineal* y la *deformación angular*. Estudiaremos las *galgas extensométricas* como motivación para estudiar las *deformaciones en distintas direcciones*, se introducirá el concepto de *rotación* y por último, *hablaremos de las deformaciones principales y sus direcciones* 
+
+
+## 04. Relación entre esfuerzos y deformaciones
+
+
+
 
 ## 5. Ecuaciones diferenciales fundamentales de la teoría de la elasticidad
-* Ecuaciones diferenciales de equilibrio
-* Ecuaciones de compatibilidad en 2D y 3D en términos de deformaciones y esfuerzos (las ecuaciones de Saint-Venant y de  Mitchell-Beltrami)
-* Condiciones de frontera
-* Condiciones de equilibrio en la frontera en 2D y 3D
-* Cálculo de los desplazamientos a partir de las deformaciones
-* Función de tensión de Airy
-* Ecuaciones diferenciales de Navier
-* Unicidad de la solución
-* Principio de superposición
-* Principio de Saint-Venant
+
 
 ## 6. Formulación en coordenadas polares y cilíndricas
-* Los sistemas de coordenadas polares y cilíndricas
-* El gradiente, el laplaciano, la divergencia y el rotacional en coordenadas cilíndricas
-* Esfuerzos
-* Deformaciones
-* Ecuaciones diferenciales de equilibrio
-* Desplazamiento y deformación en el caso de simetría axial
-* Ley de Hooke
-* Ecuaciones diferenciales de compatibilidad en coordenadas polares y cilíndricas
-* Funciones de tensión de Airy y de Love
-* Ecuaciones diferenciales de Navier
-* Aplicaciones
-  * Cálculo de los discos y cilindros de sección constante sujetos a un estado de tensiones axisimétrico
-  * Concentración de esfuerzos alrededor de huecos circulares (el problema de Kirsch)
-  * Concentración de esfuerzos alrededor de grietas
-  * Concentración de esfuerzos en el ensayo brasileño
-  * Aplicación en ingeniería de cimentaciones: problemas de Boussinesq, Flamant, Kelvin, Cerruti y Mindlin
+
+
 
