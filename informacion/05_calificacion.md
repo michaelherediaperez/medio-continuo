@@ -13,10 +13,12 @@ El curso se calificará de la siguiente manera:
 
 A continuación se explica con mayor detalle cada actividad:
 
+---
+
 ## Exámenes
 Se realizarán 3 exámenes, cada uno de ellos equivaldrá al 30% de la nota final de la materia y serán de obligatoria resolución. A grandes rasgos, los temás a evaluar en cada uno de ellos serán:
 
-#### Examen 01
+#### <ins>Examen 01</ins>
 Se dividirá en dos partes, parte A y parte B, y se realizarán con diferencia de 2 semanas.
 
 Parte A:
@@ -25,16 +27,23 @@ Parte A:
 Parte B:
 * Repaso de esfuerzos y deformaciones infinitesimales.
 
-#### Examen 02
+#### <ins>Examen 02</ins>
 * Circulo de Mohr en 2D y 3D para los tensores de esfuerzos y deformaciones.
 * Relación entre esfeurzos y deformaciones.
 
 
-#### Examen 03
+#### <ins>Examen 03</ins>
 * Ecuaciones diferenciales fundamentales de la teoría de la elasticidad.
 * Formulación en coordenadas polares y cilíndricas.
 
 Refierase al [contenido del curso](contenido_curso.md) para profundizar en los temas.
+
+
+### Tema de los exámenes.
+
+Serán sujeto de examen **todos** los temas tratados dentro del aula y también los seleccionados como de *estudio autónomo*. Toda mención hecha en clase o por los medios de comunicación e informativos (como el repositorio) podrán ser evaluados.
+
+Se especificará lo correspondiente a cada examen para que el estudiante sea consiente y organice su plan estudio.
 
 
 ### Ayudas durante el examen
@@ -52,7 +61,7 @@ Los exámenes se realizarán en horario de clase, en un **plazo máximo de una (
 
 
 ### Fechas
-Las fechas para los exámenes se presentarán el primer día de clases (arriba están) y **serán inmodificables**, a no ser que por causas de fuerza mayor deban reagendarze. 
+Las fechas para los exámenes se presentarán máximo la segunda semana de clases, (arriba están) y **serán inmodificables**, a no ser que por causas de fuerza mayor deban reagendarze **o por poco avance en los temas según el criterio del profesor**. 
 
 *Se entiende por **eventos de causa de fuerza mayor** aquellos que son inevitables, imprevisibles y extraordinarios de conformidad con el sentido común, es decir: desastres naturales, inhabilidades de transporte o ingreso a la universidad, acciones administrativas, paros, etc.* 
 
@@ -80,7 +89,7 @@ Las preguntas serán decisión del profesor, claramente.
 
 Diríjase al documento (guía de estudio)[guia_estudio.md]
 
-
+---
 
 ## Quices
 
@@ -103,13 +112,19 @@ Nota: si está atento a clase y estudia con periodicidad los temas, de seguro es
 ### Falta a los quices
 Atendiendo a que los quices serán sorpresa y aleatorios, si un estudiante falta el día que se haga un quiz, y dicho quiz es seleccionado para la calificación final, se tomará aleatoriamente otro quiz realizado por el estudiante y este entrará a suplir el no presentado para la calificación.
 
+### Sorteo de los exámenes
 
+Mediante un algoritmo generador de números aleatorios, se seleccionará los dos quices que se le calificarán a cada alumno.
+
+---
 
 ## Trabajo
 
 **Este trabajo es opcional**, reemplazará la nota más baja entre los 3 exámenes presentados.
 
 Su descripción se encuentra [aquí](trabajo.md).
+
+    Se presentará a los alumnos máximo en la quinta semana de clase.
 
 
 ## Fraude en los exámenes, quices  o trabajos
