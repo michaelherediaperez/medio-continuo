@@ -11,7 +11,7 @@ Nota: la wiki será administrada por el profesor Diego Andrés Álvarez.
 
 Por cada corrección o sugerencia que se haga del main.pdf se concederán puntos; **dichos puntos se convertirán a décimas en la nota final**.
 
-<span style="color: #ff0000; font-size: 150%">6 puntos = 1 décima en la nota definitiva de la materia.</span>
+<span style="color: red; font-size: 150%">6 puntos = 1 décima en la nota definitiva de la materia</span>
 
 Se podrán acumular máximo 100 puntos en toda la WIKI.
 
@@ -54,7 +54,8 @@ Para ganar puntos en la WIKI, por favor considere las siguientes condiciones:
 
 **Vandalismo**: por acciones de vandalismo se entienden aquellas que destruyan, de forma deliberada o no, lo propuesto por algún otro compañero. El vandalismo será sancionado con un cero en todas las contribuciones a la WIKI hechas por el infractor.
  
- <span style="color: #ff0000; font-size: 150%">Nota: es potestad del profesor valer una contribucion o no. Se otorgaran puntos unicamente cuando el profesor en verdad considere que el aporte mejora notablemente la claridad y presentacion del main.pdf.</span>
+ <span style="color: red; font-size: 150%">Nota: es potestad del profesor valer una contribucion o no. Se otorgaran puntos unicamente cuando el profesor en verdad considere que el aporte mejora notablemente la claridad y presentacion del main.pdf</span>
+
 
 ## Ejemplos
 
