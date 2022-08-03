@@ -25,18 +25,20 @@ Parte A:
 * Repaso de álgebra lineal y cálculo vectorial.
 
 Parte B:
-* Repaso de esfuerzos y deformaciones infinitesimales.
+* Conceptos básicos.
+* Estudio de los esfuerzos en un punto
 
 #### <ins>Examen 02</ins>
-* Circulo de Mohr en 2D y 3D para los tensores de esfuerzos y deformaciones.
-* Relación entre esfeurzos y deformaciones.
+* Estudio de los esfuerzos en un punto
+* Estudio de los desplazamientos y las deformaciones en un punto
+* Relación entre esfuerzos y deformaciones.
 
 
 #### <ins>Examen 03</ins>
 * Ecuaciones diferenciales fundamentales de la teoría de la elasticidad.
 * Formulación en coordenadas polares y cilíndricas.
 
-Refierase al [contenido del curso](contenido_curso.md) para profundizar en los temas.
+Refierase al [contenido del curso](01_contenido_curso.md) para profundizar en los temas.
 
 
 ### Tema de los exámenes.
@@ -87,7 +89,10 @@ Las preguntas serán decisión del profesor, claramente.
 
 ### Material de ayuda.
 
-Diríjase al documento (guía de estudio)[guia_estudio.md]
+Diríjase a:
+
+* [02. Bibliografía y material recomendado](02_bibliografia_material.md)
+* [06. Guía de estudio](06_guia_estudio.md)
 
 ---
 
@@ -107,7 +112,7 @@ Al ser quices sorpresa, se tendrán en cuenta las siguientes consideraciones:
 ### "Puntual y conciso" en los quices
 En todos los quices se espera una respuesta puntual y concisa como ya se dijo, esto quiere decir que las preguntas están diseñadas para responder con una oración no muy larga, con una fórmula, ecuación, nombre, dibujo, comando o cualquier expresión "puntual y concisa" que de solución. Si no se hace esto, no se tendrá en cuenta la respuesta.
 
-Nota: si está atento a clase y estudia con periodicidad los temas, de seguro este será un apoyo para la calificación final :)
+>Nota: si está atento a clase y estudia con periodicidad los temas, de seguro este será un apoyo para la calificación final :)
 
 ### Falta a los quices
 Atendiendo a que los quices serán sorpresa y aleatorios, si un estudiante falta el día que se haga un quiz, y dicho quiz es seleccionado para la calificación final, se tomará aleatoriamente otro quiz realizado por el estudiante y este entrará a suplir el no presentado para la calificación.
@@ -124,7 +129,7 @@ Mediante un algoritmo generador de números aleatorios, se seleccionará los dos
 
 Su descripción se encuentra [aquí](trabajo.md).
 
-    Se presentará a los alumnos máximo en la quinta semana de clase.
+>Se presentará a los alumnos máximo en la quinta semana de clase.
 
 
 ## Fraude en los exámenes, quices  o trabajos

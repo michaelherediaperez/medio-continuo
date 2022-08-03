@@ -3,7 +3,7 @@
 El libro guía del curso será:
 * Alvarez Diego A. (2022) - *Notas de clase del curso mecánica de sólidos*. En preparación.
 
-**Por favor no difundir este libro hasta que no sea publicado.**
+>**Por favor no difundir este libro hasta que no sea publicado.**
 
 
 ## Bibliografía básica
