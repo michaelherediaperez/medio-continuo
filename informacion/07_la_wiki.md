@@ -4,14 +4,14 @@ Registrece en la siguiente wiki y siga las indicaciones.
 
 http://mecanicadesolidos.shoutwiki.com/wiki/P%C3%A1gina_principal
 
-Nota: la wiki será administrada por el profesor Diego Andrés Álvarez.
+>Nota: la wiki será administrada por el profesor Diego Andrés Álvarez.
 
 
 ## Reglas 
 
 Por cada corrección o sugerencia que se haga del main.pdf se concederán puntos; **dichos puntos se convertirán a décimas en la nota final**.
 
-    6 puntos = 1 décima en la nota definitiva de la materia.
+>6 puntos = 1 décima en la nota definitiva de la materia.
 
 Se podrán acumular máximo 100 puntos en toda la WIKI.
 
@@ -54,7 +54,7 @@ Para ganar puntos en la WIKI, por favor considere las siguientes condiciones:
 
 **Vandalismo**: por acciones de vandalismo se entienden aquellas que destruyan, de forma deliberada o no, lo propuesto por algún otro compañero. El vandalismo será sancionado con un cero en todas las contribuciones a la WIKI hechas por el infractor.
  
-    Nota: es potestad del profesor valer una contribucion o no. Se otorgaran puntos unicamente cuando el profesor en verdad considere que el aporte mejora notablemente la claridad y presentacion del main.pdf
+>Nota: es potestad del profesor valer una contribucion o no. Se otorgaran puntos unicamente cuando el profesor en verdad considere que el aporte mejora notablemente la claridad y presentacion del main.pdf
 
 
 ## Ejemplos
