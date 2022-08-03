@@ -46,7 +46,11 @@ Se explicará el conceto de *tensión o esfuerzo*, y se analizarán en un punto 
 
 ## 03. Estudio de los desplazamientos y las deformaciones en un punto (visto en mecánica tensorial)
 
-Partiendo de la definción del *campo vectorial de desplazamientos* de un sólido, se verán las doc componentes de la deformación: la *deformación lineal* y la *deformación angular*. Estudiaremos las *galgas extensométricas* como motivación para estudiar las *deformaciones en distintas direcciones*, se introducirá el concepto de *rotación* y por último, *hablaremos de las deformaciones principales y sus direcciones* 
+Partiendo de la definción del **campo vectorial de desplazamientos** de un sólido, se verán las 
+doc componentes de la deformación: la *deformación lineal* y la *deformación angular*. 
+Estudiaremos las *galgas extensométricas* como motivación para estudiar las *deformaciones en 
+distintas direcciones*, se introducirá el concepto de *rotación* y por último, *hablaremos de 
+las deformaciones principales y sus direcciones*
 
 
 ## 04. Relación entre esfuerzos y deformaciones
