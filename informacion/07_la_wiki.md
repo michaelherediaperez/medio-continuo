@@ -1,6 +1,6 @@
 # Sobre la WIKI
 
-Registrece en la siguiente wiki y siga las indicaciones.
+Regístrece en la siguiente wiki y siga las indicaciones.
 
 http://mecanicadesolidos.shoutwiki.com/wiki/P%C3%A1gina_principal
 
