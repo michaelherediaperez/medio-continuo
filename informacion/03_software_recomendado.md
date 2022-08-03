@@ -26,6 +26,8 @@ También estos 3 videos tutoriales familiarizándose con los notebooks:
 * [Sobre numpy](https://www.youtube.com/watch?v=DcfYgePyedM&ab_channel=Mr.PSolver)
 * [Sobre matplotlib](https://www.youtube.com/watch?v=cTJBJH8hacc&ab_channel=Mr.PSolver)
 
+Para ver ejemplos de ```sympy```, entren a esta página <https://gamma.sympy.org/>
+
 
 ## MAXIMA
 **MAXIMA** es un software libre para la manipulación de expresiones simbólicas y numéricas, incluyendo diferenciación, integración, expansión en series de Taylor, ecuaciones diferenciales ordinarias, sistemas de ecuaciones lineales, y vectores, matrices y tensores. **MAXIMA** produce resultados con alta precisión usando fracciones exactas y representaciones con aritmética de coma flotante arbitraria. Adicionalmente puede graficar funciones y datos en dos y tres dimensiones. Estas propiedades lo hacen útil para resolver ciertos problemas en mecánica de sólidos. A continuación se recomiendan algunas páginas donde el estudiante puede aprender por cuenta propia dicho lenguaje:
