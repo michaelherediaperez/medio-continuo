@@ -3,7 +3,8 @@
 El libro guía del curso será:
 * Alvarez Diego A. (2022) - *Notas de clase del curso mecánica de sólidos*. En preparación.
 
-Este documento está en proceso de publicación, para más información contactar al profesor.
+**Por favor no difundir este libro hasta que no sea publicado.**
+
 
 ## Bibliografía básica
 
@@ -36,6 +37,7 @@ Los siguientes son unos videotutoriales excelentes para repasar álgebra lineal:
 * [Gráficos del cubo con los esfuerzos en 3D](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/Examen_1_estudio_tensiones/paralelepipedo_infinitesimal.pdf) (solo abre en Acrobat Reader)
 * [Gráficos del tetraedro con los esfuerzos en 3D](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/Examen_1_estudio_tensiones/tetraedro_infinitesimal.pdf) (solo abre en Acrobat Reader)
 
+
 # Video tutoriales de mecánica de sólidos en YouTube
 
 * [Diego Andrés Alvarez Marín](https://www.youtube.com/channel/UCV0FtSuauv5WbcY-lLRMZ4g)
@@ -56,6 +58,3 @@ Los siguientes son unos videotutoriales excelentes para repasar álgebra lineal:
 * [The Efficient Engineer](https://www.youtube.com/channel/UCXAS_Ekkq0iFJ9dSUIkcAkw): explica varios temas de la estática, la resistencia de materiales y la mecáncia de sólidos mediante asombrosas animaciones, está en inglés, pero eso no es impedimento para disfrutar de los videos.
 * [expertfea.com](https://www.youtube.com/c/expertfeacom/featured): si quieren ver animaciones increibles hechas mediante análisis con elementos finitos.
 * [Marcelo Pardo](https://www.youtube.com/user/hondamarz): es mi favorito, encuentran explicaciones cortas pero sustanciosas sobre diversos temas de la ingeniería estructrual, procesos constructivos, entre otros.
-
-
-(pendiente)
