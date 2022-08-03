@@ -36,7 +36,7 @@ Remítase a la siguiente información:
 04. [Sobre el main.pdf](informacion/04_sobre_el_main.md)
 05. [Calificación](informacion/05_calificacion.md)
 06. [Recomendaciones para estudiar](documentos/06_guia_estudio.md)
-07. [Presentaciones de clase](documentos/readme.md)
-
+07. [La wiki](documentos/07_la_wiki.md)
+08. [Presentaciones de clase](documentos/readme.md)
 
 Adicionalmente, el repositorio del profesor Diego Andrés Álvarez, mentor del curso: <https://github.com/diegoandresalvarez/solidos>
