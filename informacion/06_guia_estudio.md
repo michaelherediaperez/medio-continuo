@@ -8,5 +8,4 @@ Les recomiendo que antes de comenzar a estudiar para sus materias de este semest
 
 Link al video, [aquí](https://www.youtube.com/watch?v=MI-oDMh9dJs)
 
-
-[![](http://img.youtube.com/vi/MI-oDMh9dJs/0.jpg)](http://www.youtube.com/watch?v=MI-oDMh9dJs)
+[![](http://img.youtube.com/vi/MI-oDMh9dJs/1.jpg)](http://www.youtube.com/watch?v=MI-oDMh9dJs)
