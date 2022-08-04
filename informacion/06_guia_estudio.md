@@ -6,6 +6,6 @@ Les recomiendo que antes de comenzar a estudiar para sus materias de este semest
 
 ¿Sabes aprender? 
 
-[![](http://img.youtube.com/vi/MI-oDMh9dJs/0.jpg)](http://www.youtube.com/watch?v=MI-oDMh9dJs?t=2050)
+[![](http://img.youtube.com/vi/MI-oDMh9dJs/0.jpg)](http://www.youtube.com/watch?v=MI-oDMh9dJs?t=2080)
 
-Link al video, [aquí](https://www.youtube.com/watch?v=MI-oDMh9dJs?t=2050).
+Link al video, [aquí](https://www.youtube.com/watch?v=MI-oDMh9dJs?t=2080).
