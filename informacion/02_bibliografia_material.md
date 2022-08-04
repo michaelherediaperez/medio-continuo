@@ -58,3 +58,5 @@ Los siguientes son unos videotutoriales excelentes para repasar álgebra lineal:
 * [The Efficient Engineer](https://www.youtube.com/channel/UCXAS_Ekkq0iFJ9dSUIkcAkw): explica varios temas de la estática, la resistencia de materiales y la mecáncia de sólidos mediante asombrosas animaciones, está en inglés, pero eso no es impedimento para disfrutar de los videos.
 * [expertfea.com](https://www.youtube.com/c/expertfeacom/featured): si quieren ver animaciones increibles hechas mediante análisis con elementos finitos.
 * [Marcelo Pardo](https://www.youtube.com/user/hondamarz): es mi favorito, encuentran explicaciones cortas pero sustanciosas sobre diversos temas de la ingeniería estructrual, procesos constructivos, entre otros.
+
+Ver lista de reproducción en YouTUbe de: [aplicaciones de los temas](https://youtube.com/playlist?list=PLFB8R5rtkrDov9yK8WiK7-nuxuR2iAddL). 
