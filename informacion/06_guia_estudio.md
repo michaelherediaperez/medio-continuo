@@ -8,10 +8,12 @@ Les recomiendo que antes de comenzar a estudiar para sus materias de este semest
 
 Link al video, aquí<https://www.youtube.com/watch?v=MI-oDMh9dJs>
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=MI-oDMh9dJs
+" target="_blank"><img src="http://img.youtube.com/vi/MI-oDMh9dJs/0.jpg" 
+ width="240" height="180" border="10" /></a>
 
-<p align="center">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MI-oDMh9dJs?start=2065" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+
+[![](http://img.youtube.com/vi/MI-oDMh9dJs/0.jpg)](http://www.youtube.com/watch?v=MI-oDMh9dJs)
 
 
 
