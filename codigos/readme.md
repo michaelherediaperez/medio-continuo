@@ -57,8 +57,7 @@ Otras herramientas para estudiar el círculo de Mohr:
 | Demostraciones                             | Ejemplos                                                         | Ejercicios                                                    |
 | ---                                        | ---                                                              | ---                                                           |   
 | [04_03_02.ipynb](cap_04/04_03_02.ipynb)    |                                                                  |                                                               |               
-| [04_03_03_a.ipynb](cap_04/04_03_03_a.ipynb)|                                                                  |                                                               |               
-| [04_03_03_b.ipynb](cap_04/04_03_03_b.ipynb)|                                                                  |                                                               |               
+| [04_03_03.ipynb](cap_04/04_03_03.ipynb)    |                                                                  |                                                               |               
 |                                            | [04_08_03_ejemplo_DP.ipynb](cap_04/04_08_03_ejemplo_DP.ipynb)    |                                                               |
 |                                            | [04_08_03_ejemplo_TP.ipynb](cap_04/04_08_03_ejemplo_TP.ipynb)    |                                                               |
 | [04_09_04.ipynb](cap_04/04_09_04.ipynb)    |                                                                  |                                                               |
