@@ -16,15 +16,16 @@ El libro guía del curso será:
 * Wang, C.-T. (1953) - *Applied Elasticity*. McGraw Hill.
 
 
-## Para repasar Álgebra Lineal y Cálculos 
+## Para repasar Álgebra Lineal, cálculos y programación
 
 Los siguientes libros:
 
-* Acevedo Frias, Bernardo. Matemáticas fundamentales para ingenieros. [Repositorio unal](https://repositorio.unal.edu.co/bitstream/handle/unal/7173/bernardoacevedofrias.2003.pdf?sequence=1&isAllowed=y)
-* Sánchez, Rubén (1990). Curso básico de álgebra lineal. *Identificación biblioteca: 512.5 S211c5 21*
-* Colley, S. J. (2011). Vector calculus.
+* Acevedo Frias, Bernardo. *Matemáticas fundamentales para ingenieros*. [Repositorio unal](https://repositorio.unal.edu.co/bitstream/handle/unal/7173/bernardoacevedofrias.2003.pdf?sequence=1&isAllowed=y)
+* Sánchez, Rubén (1990). *Curso básico de álgebra lineal*. *Identificación biblioteca: 512.5 S211c5 21*
+* Colley, S. J. (2011). *Vector calculus*.
+* Buriticá, O. I. T. (1999). *La esencia de la lógica de programación*. Universidad Tecnologica de Pereira.
 
-Son muy útiles para repasar.
+Son muy útiles para repasar. Aún sí, autoevalúece para saber a qué le debe prestar más atención en el repaso.
 
 Los siguientes son unos videotutoriales excelentes para repasar álgebra lineal:
 * [Álgebra Lineal Universidad Nacional de Colombia, sede Medellín](https://www.youtube.com/channel/UCsE2po3zBjPxGYMH8UWJQ6w)
