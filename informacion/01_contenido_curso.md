@@ -26,10 +26,10 @@
 - Regla de la cadena (se estudió en cálculo univariado y en cálculoo vectorial)
 - Campo vectorial (definición y ejemplos sencillos)
 
-### Repaso de programación de computadores (python):
+### Repaso de programación de computadores:
 - Tipos de datos
 - Estructuras de control
-- Librerías básicas: sympy (cálculo simbólico), numpy (cálculo algebráico) y matplotlib (graficación)
+- Librerías básicas de Python: sympy (cálculo simbólico), numpy (cálculo algebráico) y matplotlib (graficación)
 
 Este repaso lo debe realizar el estudiante de manera autónoma, ya que los [prerrequisitos]() de la materia implican que son temas ya vistos en cursos anteriores. Si tiene dificultades comuníquese con el profesor.
 
