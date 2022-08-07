@@ -76,7 +76,7 @@ En todos los exámenes se debe relacionar con palabras las fórmulas y motivar f
 
 ### Estructura para posibles preguntas.
 
-Los exámenes tendrán máximo 2 preguntas. 
+Los exámenes tendrán máximo 3 preguntas. 
 
 Se preguntará sobre cualquier tema explicado en clase. Algunos modelos de pregunta son: 
 - "Escriba todo lo que sepa sobre ...", 
