@@ -27,17 +27,19 @@ Los siguientes libros:
 
 Son muy útiles para repasar. Aún sí, autoevalúece para saber a qué le debe prestar más atención en el repaso.
 
-Los siguientes son unos videotutoriales excelentes para repasar álgebra lineal:
-* [Álgebra Lineal Universidad Nacional de Colombia, sede Medellín](https://www.youtube.com/channel/UCsE2po3zBjPxGYMH8UWJQ6w)
-* [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-* [La esencia del álgebra lineal (son los mismos videos pero traducidos al español)](https://www.youtube.com/channel/UCQbsk1JQNaskUlfdoyiWJDg/videos)
+Los siguientes son unos videotutoriales/canales/listas excelentes para repasar álgebra lineal:
+* (lista) Este [pequeño overview del curso de álgebra lineal](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek) que dicta el prfoesor Gilbert Strang en el MIT
+* (canal) [Álgebra Lineal Universidad Nacional de Colombia, sede Medellín](https://www.youtube.com/channel/UCsE2po3zBjPxGYMH8UWJQ6w)
+* (lista) [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+* (lista) [La esencia del álgebra lineal (son los mismos videos pero traducidos al español)](https://www.youtube.com/channel/UCQbsk1JQNaskUlfdoyiWJDg/videos)
 
 
+<!---
 # Gráficos de esfuerzos 3D.
 
 * [Gráficos del cubo con los esfuerzos en 3D](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/Examen_1_estudio_tensiones/paralelepipedo_infinitesimal.pdf) (solo abre en Acrobat Reader)
 * [Gráficos del tetraedro con los esfuerzos en 3D](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/Examen_1_estudio_tensiones/tetraedro_infinitesimal.pdf) (solo abre en Acrobat Reader)
-
+--->
 
 # Video tutoriales de mecánica de sólidos en YouTube
 
