@@ -4,7 +4,8 @@ El curso se calificará de la siguiente manera:
 
 | Actividad     | Tipo        | Porcentaje                  | Fecha      |
 | ---           | ---         | ---                         | ---        |
-| Examen 01     | Obligatorio | 30%                         | dd/mm/aaaa |
+| Examen 01A    | Obligatorio | 15%                         | 07/septiembre/2022 |
+| Examen 01B    | Obligatorio | 15%                         | 21/septiembre/2022 |
 | Examen 02     | Obligatorio | 30%                         | dd/mm/aaaa |
 | Examen 03     | Obligatorio | 30%                         | dd/mm/aaaa |
 | Quices        | Obligatorio | 10%                         | Sorpresa   |
@@ -18,7 +19,7 @@ A continuación se explica con mayor detalle cada actividad:
 ## Exámenes
 Se realizarán 3 exámenes, cada uno de ellos equivaldrá al 30% de la nota final de la materia y serán de obligatoria resolución. A grandes rasgos, los temás a evaluar en cada uno de ellos serán:
 
-#### <ins>Examen 01</ins>
+#### <ins>Examen 01 (30%) </ins> 
 Se dividirá en dos partes, parte A y parte B, y se realizarán con diferencia de 2 semanas.
 
 Parte A:
@@ -28,13 +29,13 @@ Parte B:
 * Conceptos básicos.
 * Estudio de los esfuerzos en un punto
 
-#### <ins>Examen 02</ins>
+#### <ins>Examen 02 (30%)</ins>
 * Estudio de los esfuerzos en un punto
 * Estudio de los desplazamientos y las deformaciones en un punto
 * Relación entre esfuerzos y deformaciones.
 
 
-#### <ins>Examen 03</ins>
+#### <ins>Examen 03 (30%)</ins>
 * Ecuaciones diferenciales fundamentales de la teoría de la elasticidad.
 * Formulación en coordenadas polares y cilíndricas.
 
@@ -59,7 +60,7 @@ Se prohíbe en estos exámenes el uso de calculadoras Hewlett-Packard y Texas In
 
 
 ### Duración y Horarios
-Los exámenes se realizarán en horario de clase, en un **plazo máximo de una (1) hora**.
+Los exámenes se realizarán en horario de clase, en la segunda hora, y tendrán una **duración máxima de una (1) hora**.
 
 
 ### Fechas
@@ -98,7 +99,7 @@ Diríjase a:
 
 ## Quices
 
-Se realizarán durante el semestre 5 quices sorpresa, de los cuales se calificarán 2 aleatoriamente la última semana de clases (FECHA). Esto equivaldrá al 10% de la nota final de la materia.
+Se realizarán durante el semestre 5 quices sorpresa, de los cuales se calificarán 2 aleatoriamente la última semana de clases (*lunes 28 de noviembre de 2022*). Esto equivaldrá al 10% de la nota final de la materia.
 
 Al ser quices sorpresa, se tendrán en cuenta las siguientes consideraciones:
 
