@@ -77,6 +77,7 @@ LaTeX funciona con paquetes (el símil de las librerías de Python) las cuales p
 
 Para mayor información sobre $\LaTeX$ ver:
 
+* [https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1))
 * [Lista de recursos para aprender LaTeX](https://tex.stackexchange.com/questions/11/what-are-good-learning-resources-for-a-latex-beginner)
 * video ["Why LaTeX?"](https://www.youtube.com/watch?v=9eLjt5Lrocw&list=PLFB8R5rtkrDqI-HER8qio0_XuctRn7rss&index=42&ab_channel=EitanLees) 
 
