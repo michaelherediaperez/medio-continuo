@@ -18,7 +18,7 @@ Ver [cap_02](cap_02).
 
 | Demostraciones                            | Ejemplos                                                         |  Ejercicios                                                   |
 | ---                                       | ---                                                              | ---                                                           | 
-| [02_06_01.ipynb](cap_02/02_06_01.ipynb)   |                                                                  |                                                               |               
+| [02_06_01_cambio_de_base.ipynb](cap_02/02_06_01_cambio_de_base.ipynb)|                               |                                                               |               
 | [02_06_02.ipynb](cap_02/02_06_02.ipynb)   | [02_06_02_ejemplo_01.ipynb](cap_02/02_06_02_ejemplo_01.ipynb)    |                                                               |
 | [02_07.ipynb](cap_02/02_07.ipynb)         |                                                                  |                                                               | 
 |                                           | [02_08_01_ejemplo_01.ipynb](cap_02/02_08_01_ejemplo_01.ipynb)    |                                                               |
