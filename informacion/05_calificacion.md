@@ -20,7 +20,7 @@ A continuación se explica con mayor detalle cada actividad:
 Se realizarán 3 exámenes, cada uno de ellos equivaldrá al 30% de la nota final de la materia y serán de obligatoria resolución. A grandes rasgos, los temás a evaluar en cada uno de ellos serán:
 
 #### <ins>Examen 01 (30%) </ins> 
-Se dividirá en dos partes, parte A y parte B, y se realizarán con diferencia de 2 semanas.
+Se dividirá en dos partes, parte A y parte B.
 
 Parte A:
 * Repaso de álgebra lineal y cálculo vectorial.
