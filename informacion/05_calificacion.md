@@ -2,14 +2,14 @@
 
 El curso se calificará de la siguiente manera:
 
-| Actividad     | Tipo        | Porcentaje                  | Fecha      |
-| ---           | ---         | ---                         | ---        |
+| Actividad     | Tipo        | Porcentaje                  | Fecha              |
+| ---           | ---         | ---                         | ---                |
 | Examen 01A    | Obligatorio | 15%                         | 07/septiembre/2022 |
-| Examen 01B    | Obligatorio | 15%                         | 21/septiembre/2022 |
-| Examen 02     | Obligatorio | 30%                         | dd/mm/aaaa |
-| Examen 03     | Obligatorio | 30%                         | dd/mm/aaaa |
-| Quices        | Obligatorio | 10%                         | Sorpresa   |
-| Trabajo       | opcional    | reemplaza la nota más baja  | dd/mm/aaaa | 
+| Examen 01B    | Obligatorio | 15%                         | 28/septiembre/2022 |
+| Examen 02     | Obligatorio | 30%                         | 26/octubre/2022    |
+| Examen 03     | Obligatorio | 30%                         | 23/noviembre/2022  |
+| Quices        | Obligatorio | 10%                         | Sorpresa           |
+| Trabajo       | opcional    | reemplaza la nota más baja  | dd/mm/aaaa         | 
 
 
 A continuación se explica con mayor detalle cada actividad:
