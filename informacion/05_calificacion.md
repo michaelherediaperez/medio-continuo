@@ -30,7 +30,6 @@ Parte B:
 * Estudio de los esfuerzos en un punto
 
 #### <ins>Examen 02 (30%)</ins>
-* Estudio de los esfuerzos en un punto
 * Estudio de los desplazamientos y las deformaciones en un punto
 * Relación entre esfuerzos y deformaciones.
 
