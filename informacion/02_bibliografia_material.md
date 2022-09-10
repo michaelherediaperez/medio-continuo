@@ -24,6 +24,7 @@ Los siguientes libros:
 * Sánchez, Rubén (1990). *Curso básico de álgebra lineal*. *Identificación biblioteca: 512.5 S211c5 21*
 * Colley, S. J. (2011). *Vector calculus*.
 * Buriticá, O. I. T. (1999). *La esencia de la lógica de programación*. Universidad Tecnologica de Pereira.
+* Curso de álgebra lineal de la UNAL sede Medellín, [aquí](https://ciencias.medellin.unal.edu.co/cursos/algebra-lineal/clases.html).
 
 Son muy útiles para repasar. Aún sí, autoevalúece para saber a qué le debe prestar más atención en el repaso.
 
