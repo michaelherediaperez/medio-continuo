@@ -11,7 +11,7 @@ https://sukhbinder.wordpress.com/2021/09/15/comet-plot-in-python/
 """
 
 """
-On windows: 
+On windows: un
 pip inststall numpy
 pip install matplotlib
 pip install imageio
@@ -29,7 +29,6 @@ SOLAMENTE MODIFIQUE ESTO
 sx  = -1 
 sy  = 2
 txy = -3    
- 
 
 # -----------------------------------------------------------------------------
 # Cálculo de esfuerzos principales y ángulos.
@@ -42,11 +41,11 @@ sigma = np.array([[sx, txy],
 valp, vecp = np.linalg.eig(sigma) 
 
 # Recuerde que los valores propios se presentan en orden algebráico.
-s2, s1 = valp
+s2, s1 = valp 
 n2, n1 = vecp[0], vecp[1]
 
 # El cortante máximo, radio de la circunferencia.
-tmax_xy = np.sqrt( ((sx-sy)/2)**2 + txy**2 )
+tmax_xy = np.sqrt( ((sx-sy)/2)**2 + txy**2 ) 
 
 # Ángulo theta 1
 t1 = (np.arctan2(2*txy, sx-sy)/2) * 180/np.pi

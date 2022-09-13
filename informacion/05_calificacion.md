@@ -126,7 +126,7 @@ Mediante un algoritmo generador de números aleatorios, se seleccionará los dos
 
 **Este trabajo es opcional**, reemplazará la nota más baja entre los 3 exámenes presentados.
 
-Consultar el siguiente documento, [aquí](TrabajoOpcional_2022b.pdf).
+Consultar el siguiente documento, [aquí](/documentos/TrabajoOpcional_2022b.pdf).
 
 >Se presentará a los alumnos máximo en la quinta semana de clase.
 
