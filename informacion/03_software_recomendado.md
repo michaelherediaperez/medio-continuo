@@ -20,6 +20,7 @@ Les recomiendo:
 * Buscar dudas que tengan sobre funciones específicas en la documentación o directamente en google.
 * El repositorio del profesor Diego Andrés Álvarez <https://github.com/diegoandresalvarez/programaciondecomputadores>
 * El reto [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) :)
+* La guía para hacer buen código en Python, [aquí](http://web.archive.org/web/20111010053227/http://jaynes.colorado.edu/PythonGuidelines.html#module_formatting).
 
 También estos 3 videos tutoriales familiarizándose con los notebooks:
 * [Sobre simpy](https://www.youtube.com/watch?v=1yBPEPhq54M&ab_channel=Mr.PSolver)
