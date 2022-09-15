@@ -26,9 +26,9 @@ SOLAMENTE MODIFIQUE ESTO
 """
 # -----------------------------------------------------------------------------
 # Ingrese el estado de esfuerzos [Pa].
-sx  = -1 
-sy  = 2
-txy = -3    
+sx  = 5 
+sy  = -1
+txy = 4    
 
 # -----------------------------------------------------------------------------
 # Cálculo de esfuerzos principales y ángulos.
