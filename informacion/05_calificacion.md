@@ -48,7 +48,7 @@ Se especificará lo correspondiente a cada examen para que el estudiante sea con
 
 
 ### Ayudas durante el examen
-Se permite para los Exámenes traer una hoja tamaño oficio en la cual ustedes pueden escribir (POR UN SOLO LADO) todas las fórmulas, gráficos y comandos de MAXIMA y Python que deseen. En la hoja no se pueden ni escribir programas, ni texto explicativo, ni se pueden escribir demostraciones. Dicha hoja debe ser de elaboración personal (no se pueden traer las hojas hechas por compañeros de este o semestres pasados) y debe hacerse a mano (se prohíbe explícitamente traer fotocopias/impresiones/reducciones). 
+Se permite para los Exámenes traer una hoja **tamaño carta** en la cual ustedes pueden escribir (POR UN SOLO LADO) todas las fórmulas, gráficos y comandos de MAXIMA y Python que deseen. En la hoja no se pueden ni escribir programas, ni texto explicativo, ni se pueden escribir demostraciones. Dicha hoja debe ser de elaboración personal (no se pueden traer las hojas hechas por compañeros de este o semestres pasados) y debe hacerse a mano (se prohíbe explícitamente traer fotocopias/impresiones/reducciones). 
 
 El día del examen, previo a iniciar, se revisará la hoja y se le dará el visto bueno a la par que se le entrega el formulario. Si la hoja no cumple las condiciones no podrá ser usada.
 
