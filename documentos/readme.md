@@ -8,7 +8,8 @@ Durante las clases se hará uso de presentaciones con los detalles y puntos clav
 1. Conceptos básicos: [01_ConceptosBasicos.pdf](01_ConceptosBasicos.pdf)
 2. Estudio de los esfuerzos en un punto: [02_EstudioDeLosEsfuerzosEnUnPunto.pdf](02_EstudioDeLosEsfuerzosEnUnPunto.pdf)
 3. Estudio de los desplazamientos y las deformaciones en un punto: [03_EstudioDeLosDesplazamientosDeformacionesEnUnPunto.pdf](03_EstudioDeLosDesplazamientosDeformacionesEnUnPunto.pdf)
-4. Relaciones entre los esfuerzos y las deformaciones: [04_RelacionesEntreEsfuerzosDeformaciones.pdf](04_RelacionesEntreEsfuerzosDeformaciones.pdf)
+4. Relaciones entre los esfuerzos y las deformaciones: [04a_RelacionesEntreEsfuerzosDeformaciones.pdf](04a_RelacionesEntreEsfuerzosDeformaciones.pdf)
+4.9. Interpretación de los gráficos de colores de esfuerzos y deformaciones: [04b_InterpretacionDeGraficos.pdf](04b_InterpretacionDeGraficos.pdf)
 5. Ecuaciones diferenciales fundamentales de la teoría de la elasticidad: [05_EcuacionesDiferencialesFundamentales_TeoriaElasticidad.pdf](05_EcuacionesDiferencialesFundamentales_TeoriaElasticidad.pdf)
 6. Formulación de la teoría de la elasticidad en coordenadas cilíndricas: []()
 
