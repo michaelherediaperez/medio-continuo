@@ -64,8 +64,29 @@ Otras herramientas para estudiar el círculo de Mohr:
 | [04_03_03.ipynb](cap_04/04_03_03.ipynb)    |                                                                  |                                                               |               
 |                                            | [04_08_03_ejemplo_DP.ipynb](cap_04/04_08_03_ejemplo_DP.ipynb)    |                                                               |
 |                                            | [04_08_03_ejemplo_TP.ipynb](cap_04/04_08_03_ejemplo_TP.ipynb)    |                                                               |
-| [04_09_04.ipynb](cap_04/04_09_04.ipynb)    |                                                                  |                                                               |
+| [04_09_04.ipynb](cap_04/04_09_04.ipynb)    | [49_graficos_de_colores.py](cap_04/49_graficos_de_colores.py)    |                                                               |
  
+
+Estos gráficos de colores son:
+
+    NOTA: Hay que corregir los gráficos de s1, s2 y tmax porque no muestran las inclinaciones.
+
+* Esfuerzos:
+![](graficos_colores/sigma_x.png)
+![](graficos_colores/sigma_y.png)
+![](graficos_colores/tau_xy.png)
+
+* Deformaciones:
+![](graficos_colores/epsilon_x.png)
+![](graficos_colores/epsilon_y.png)
+![](graficos_colores/epsilon_z.png)
+![](graficos_colores/gamma_xy.png)
+
+* Principales:
+![](graficos_colores/s1.png)
+![](graficos_colores/s2.png)
+![](graficos_colores/tmax.png)
+
 
 
 ## 05. Ecuaciones diferencailes fundamentales de la teoría de la elasticidad
