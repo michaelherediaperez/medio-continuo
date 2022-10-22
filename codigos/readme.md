@@ -91,6 +91,7 @@ Estos gráficos de colores son:
 ![](graficos_colores/tmax.png)
 
 * Diagramas:
+
 ![](graficos_colores/vx_mx.png)
 
 
