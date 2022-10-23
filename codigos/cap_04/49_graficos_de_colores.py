@@ -41,13 +41,14 @@ def plot_esf_def(variable, titulo, nombre, angulo = None):
         
     # Para los esfuerzos principales se grafican las líneas que indiquen las
     # direcciones de los esfuerzos en cada nodo de la malla
-    #if angulo is not None:
-    #   if type(angulo) is np.ndarray: 
-    #       angulo = [ angulo ]
-    #   for ang in angulo:
-    #       ax.quiver(x, y, 
-    #            variable*np.cos(ang), variable*np.sin(ang), 
-    #            headwidth=0, headlength=0, headaxislength=0, pivot='middle', linewidths=0.5)
+    if angulo is not None:
+       if type(angulo) is np.ndarray: 
+           angulo = [ angulo ]
+       for ang in angulo:
+           ax.quiver(x, y, variable*np.cos(ang), variable*np.sin(ang), 
+                headwidth=0, headlength=0, headaxislength=0, pivot='middle', 
+                linewidths=2
+                )
     
     # Se especifican los ejes y el título, y se colocan los ejes iguales.
     ax.set_xlabel("$x$ [m]")
@@ -84,8 +85,9 @@ G = E/(2*(1+nu))  # kPa         , módulo de cortante.
 # ------------------------------------------------------------------------------
 
 # Se crea la grilla de puntos donde se harán los cálculos.
-nnds = 1000
-x, y = np.meshgrid( np.linspace(-L, L, nnds), np.linspace(-c, c, nnds) )
+nnds_x = 50
+nnds_y = 20
+x, y = np.meshgrid( np.linspace(-L, L, nnds_x), np.linspace(-c, c, nnds_y) )
 
 # Se definen los esfuerzos (en tensión plana sz = txz = tyz = 0), eq (4.46)
 sx  = -(q/(2*I))*(x**2*y - 2*y**3/3 + 2*c**2*y/5 - L**2*y)
@@ -110,7 +112,7 @@ t2 = t1 + np.pi/2                   # t1 + 90°
 # Carpeta para resultados.
 
 # Check whether the specified path exists or not and if not create it.
-path = "./graficos_colores"
+path = "/graficos_colores"
 
 if not os.path.exists(path):
     os.mkdir(path) 
@@ -121,19 +123,19 @@ print(f"\nGráficos y excel con resultados se guardarán en: {path}\n")
 # ------------------------------------------------------------------------------
 
 # esfuerzos
-plot_esf_def(sx,   r'$\sigma_x$ [Pa]', "sigma_x")
-plot_esf_def(sy,   r'$\sigma_y$ [Pa]', "sigma_y")
-plot_esf_def(txy,  r'$\tau_{xy}$ [Pa]', "tau_xy")
+plot_esf_def(sx,  r"$\sigma_x$ [Pa]", "sigma_x")
+plot_esf_def(sy,  r"$\sigma_y$ [Pa]", "sigma_y")
+plot_esf_def(txy, r"$\tau_{xy}$ [Pa]", "tau_xy")
 
 # Deformaciones
-plot_esf_def(ex,   r'$\epsilon_x$',        "epsilon_x")
-plot_esf_def(ey,   r'$\epsilon_y$',        "epsilon_y")
-plot_esf_def(ez,   r'$\epsilon_z$',        "epsilon_z")
-plot_esf_def(gxy,  r'$\gamma_{xy}$ [rad]', "gamma_xy")
+plot_esf_def(ex,  r"$\epsilon_x$",        "epsilon_x")
+plot_esf_def(ey,  r"$\epsilon_y$",        "epsilon_y")
+plot_esf_def(ez,  r"$\epsilon_z$",        "epsilon_z")
+plot_esf_def(gxy, r"$\gamma_{xy}$ [rad]", "gamma_xy")
 
 # esfuerzos principales con sus orientaciones
-plot_esf_def(s1,   r'$\sigma_1$ [Pa]',   "s1",    t1                      )
-plot_esf_def(s2,   r'$\sigma_2$ [Pa]',   "s2",    t2                      )
-plot_esf_def(tmax, r'$\tau_{máx}$ [Pa]', "tmax",[ t1-np.pi/4, t1+np.pi/4 ])
+plot_esf_def(s1,   r"$\sigma_1$ [Pa]",   "s1",    t1                     )
+plot_esf_def(s2,   r"$\sigma_2$ [Pa]",   "s2",    t2                     )
+plot_esf_def(tmax, r"$\tau_{máx}$ [Pa]", "tmax", [t1-np.pi/4, t1+np.pi/4])
 
 # Fin :)
