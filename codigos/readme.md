@@ -50,7 +50,7 @@ Otras herramientas para estudiar el círculo de Mohr:
 | [03_04_exp_otras_direcciones.ipynb](cap_03/03_04_exp_otras_direcciones.ipynb) |                               |       |
 | [03_04.ipynb](cap_03/03_04.ipynb)         | [03_04_02_ejemplo.ipynb](cap_03/03_04_02_ejemplo.ipynb)          |                                                               |
 |                                           | [03_04_03_ejemplo.ipynb](cap_03/03_04_03_ejemplo.ipynb)          |                                                               |
-|                                           |                                                                  | [03_07_02_ejercicio.ipynb](cap_03/03_07_02_ejercicio.ipynb)   |
+|                                           |                                                                  |    |
 
 
 
