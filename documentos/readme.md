@@ -4,6 +4,7 @@
 
 Durante las clases se hará uso de presentaciones con los detalles y puntos claves del libro guía (ver [Bibliografía y material recomendado](../informacion/02_bibliografia_material.md)); sin embargo, esto no es más que una herramienta para dictar la clase y el estudiante debe estudiar detenidamente de la bibliografía dada.
 
+Estas están hechas en Beamer $\LaTeX$: 
 
 00. Presentación del curso:
     * [00_PresentacionDelCurso.pdf](00_PresentacionDelCurso.pdf)  
