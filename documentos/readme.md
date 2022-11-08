@@ -4,7 +4,7 @@
 
 Durante las clases se hará uso de presentaciones con los detalles y puntos claves del libro guía (ver [Bibliografía y material recomendado](../informacion/02_bibliografia_material.md)); sin embargo, esto no es más que una herramienta para dictar la clase y el estudiante debe estudiar detenidamente de la bibliografía dada.
 
-Estas están hechas en [Beamer](https://es.overleaf.com/learn/latex/Beamer) $\LaTeX$: 
+Estas están hechas en $\LaTeX$ con el formato [Beamer](https://es.overleaf.com/learn/latex/Beamer): 
 
 00. Presentación del curso:
     * [00_PresentacionDelCurso.pdf](00_PresentacionDelCurso.pdf)  
@@ -24,7 +24,8 @@ Estas están hechas en [Beamer](https://es.overleaf.com/learn/latex/Beamer) $\La
 
 05. Ecuaciones diferenciales fundamentales de la teoría de la elasticidad: 
     * [05a_.pdf](05a_.pdf): secciones 5.1 a 5.2 (includias).
-    * [05b_.pdf](05b_.pdf): secciones 5.3 a 5.13 (includias).
+    * [05b_.pdf](05b_.pdf): secciones 5.3 a 5.7 (includias). Airy y Cauchy-Navier.
+    * [05c_.pdf](05c_.pdf): secciones 5.8 a 5.13 (includias).
     
 06. Formulación de la teoría de la elasticidad en coordenadas cilíndricas:    
 
