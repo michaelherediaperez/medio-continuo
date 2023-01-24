@@ -1,67 +1,47 @@
 # Contenido del curso
 
+Los calendarios detallados serán entregados por el docente al comenzar el curso, y en la sección de [documentos](../documentos/readme.md) encontrará un desglose de cada punto a partir de las diapositivas de clase.
 
-## 00. Repaso de diferentes temas de álgebra lineal, cálculo vectorial y programación de computadores.
+## Mecánica tensorial 
 
-### Repaso de álgebra lineal (teoría y ejercicios de aplicación)
-- Cosenos directores
-- Proyección de vectores
-- Producto punto, producto cruz (con todas las propiedades que aparecen en el apéndice de las notas)
-- Norma de un vector
-- Matrices
-- Determinantes
-- Valores y vectores propios
-- Espacios vectoriales
-- Vectores linealmente dependientes/independientes
-- Bases
-- Planos y líneas rectas
+En este curso se hará una introducción a la mecánica del medio continuo. En particular, se estudiarán los principios rectores de la mecánica de medios continuos (sólidos y fluidos) a traves de su formulación matemática por medio de tensores, en los sistemas de coordenadas espacial y material (Euler y Lagrange) y las ecuaciones fundamentales de la mecánica del medio continuo (masa, momentum, energía), de manera que se pueda comprender la formulación de toda clase de problemas de sólidos y fluidos. Se estudiarán los elementos básicos de los modelos constitutivos de Hooke, Newton y Coulomb que permiten modelar matemáticamente problemas de elasticidad, plasticidad, viscosidad, visco-elasticidad, visco-plasticidad, relajación y reptación. Se aplicarán los conceptos adquiridos a la formulación de las ecuaciones básicas de sólidos elásticos y fluidos Newtonianos.
 
-### Repaso de cálculo vectorial:
-- Gradiente
-- Matriz jacobiana y jacobiano
-- Divergencia
-- Rotacional
-- Diferenciales (se estudió en cálculo vectorial)
-- Expansión en series de Taylor (univariada y multivariada)
-- Regla de la cadena (se estudió en cálculo univariado y en cálculoo vectorial)
-- Campo vectorial (definición y ejemplos sencillos)
+Se espera que al final del curso, el estudiante esté en capacidad de:
+- Analizar y explicar como varían las tensiones y las deformaciones al interior de un sólido elástico, para pequeñas y grandes deformaciones.
+- Entender las diferentes suposiciones y limitaciones presentes en la teoría.
+- Entender la deducción y rango de aplicación de ciertas formulaciones que se aplicarán más tarde en mecánica de sólidos, de suelos, de fluidos y pavimentos.
 
-### Repaso de programación de computadores:
-- Tipos de datos
-- Estructuras de control
-- Librerías básicas de Python: sympy (cálculo simbólico), numpy (cálculo algebráico) y matplotlib (graficación)
+**Unidades**
 
-Este repaso lo debe realizar el estudiante de manera autónoma, ya que los [prerrequisitos]() de la materia implican que son temas ya vistos en cursos anteriores. Si tiene dificultades comuníquese con el profesor.
+0. Repaso de prerrequisitos
 
+>Nota: Este repaso lo debe realizar el estudiante de manera autónoma, ya que los [prerrequisitos](00_prerrequisitos.md) de la materia implican que son temas ya vistos en cursos anteriores. Si tiene dificultades comuníquese con el profesor.
+1. Conceptos básicos
+2. Estudio de los esfuerzos en un punto (visto en mecánica tensorial)
+3. Estudio de los desplazamientos y las deformaciones en un punto (visto en mecánica tensorial)
+4. Relación entre esfuerzos y deformaciones
 
-## 01. Conceptos básicos
+## Mecánica de sólidos
 
-Se sentarán las bases para el curso con la pregunta ¿qué es la mecánica de sólidos? y se expondrán dos conceptos fundamentales: diferenciales y fuerzas en un sólido. 
+En este curso se profundizará en la teoría de la elasticidad. Esta es una teoría básica, imprescindible para poder entender, con suficiencia, el método de los elementos finitos, y con el tener bases apropiadas para poder manejar con criterio los diferentes programas de análisis estructural que existen en el mercado, que son empleados no solo en ingeniería estructural, sino en ingeniería geotécnica y de pavimentos.
+
+Partiendo de los conocimientos previos sobre tensiones y deformaciones, adquiridos en el curso de mecánica tensorial, el curso se desarrolla estudiando en profundidad las relaciones entre esfuerzos y deformaciones para materiales elásticos lineales, las ecuaciones fundamentales de la teoría de la elasticidad, las teorías de falla de materiales dúctiles y frágiles y finaliza con la formulación elástica en coordenas cilíndricas, lo cual es de especial importancia no solo en la mecánica estructural sino en la de suelos.
+
+Se espera que al final del curso, el estudiante esté en capacidad de:
+- Analizar y explicar como varían las tensiones y las deformaciones al interior de un sólido elástico.
+- Entender las diferentes suposiciones y limitaciones presentes en la teoría de la elasticidad.
+- Interpretar los diferentes criterios de falla presentes en los sólidos elásticos.
+- Entender la deducción y rango de aplicación de ciertas formulaciones que se aplicarán más tarde en las líneas de mecánica de suelos y pavimentos.
 
 
-## 02. Estudio de los esfuerzos en un punto (visto en mecánica tensorial)
+**Unidades**
 
-Se explicará el conceto de *tensión o esfuerzo*, y se analizarán en un punto del sólido desde un enfoque bidimensional y tridimensional. Se introducirán conceptos como notación tensorial y cambio de base, para así expresar la llamada *matriz de esfuerzos de Cauchy* en diferentes sistemas de coordenadas, con lo cual será posible girar el sólido en su espacio y hablar de los llamados *esfuerzos y direcciones principales*, llegando a la teoría del *círculo de Mohr* en dos y tres dimensiones.  
+0. Repaso de prerrequisitos
 
+>Nota: Este repaso lo debe realizar el estudiante de manera autónoma, ya que los [prerrequisitos](00_prerrequisitos.md) de la materia implican que son temas ya vistos en cursos anteriores. Si tiene dificultades comuníquese con el profesor.
 
-## 03. Estudio de los desplazamientos y las deformaciones en un punto (visto en mecánica tensorial)
+5. Ecuaciones diferenciales fundamentales de la teoría de la elasticidad
+6. Formulación en coordenadas polares y cilíndricas
 
-Partiendo de la definción del **campo vectorial de desplazamientos** de un sólido, se verán las 
-doc componentes de la deformación: la *deformación lineal* y la *deformación angular*. 
-Estudiaremos las *galgas extensométricas* como motivación para estudiar las *deformaciones en 
-distintas direcciones*, se introducirá el concepto de *rotación* y por último, *hablaremos de 
-las deformaciones principales y sus direcciones*
-
-
-## 04. Relación entre esfuerzos y deformaciones
-
-
-
-
-## 5. Ecuaciones diferenciales fundamentales de la teoría de la elasticidad
-
-
-## 6. Formulación en coordenadas polares y cilíndricas
-
-
+...
 

@@ -1,66 +1,59 @@
-# Bibliografía recomendada
+# Recursos
+
+## Bibliografía
 
 El libro guía del curso será:
-* Alvarez Diego A. (2022) - *Notas de clase del curso mecánica de sólidos*. En preparación.
+- Alvarez Diego A. (2022) - *Notas de clase del curso mecánica de sólidos*. En preparación.
 
 >**Por favor no difundir este libro hasta que no sea publicado.**
 
 
-## Bibliografía básica
+## Mecánica tensorial
 
-* Ameen, M. (2005) - *Computational elasticity*. Alpha Science.
-* Ortiz-Berrocal, L. (1998) - *Elasticidad*. McGraw Hill, 3rd edition.
-* Saad, M. (2005) - *Elasticity: theory, applications and numerics*. Elsevier.
-* Solecki, R. and Conant, R. (2003) - *Advanced mechanics of materials*. Oxford University Press.
-* Timoshenko, S. P. and Goodier, J. (1970) - *Theory of Elasticity*. McGraw Hill, 3rd edition.
-* Wang, C.-T. (1953) - *Applied Elasticity*. McGraw Hill.
+**Bibliografía básica**
 
+- Alvarez, Diego A. (2022) - *Notas de clase del curso mecánica de sólidos*. En preparación.
+- Lai, M., Krempl, E, Ruben, D.	(2010) - *Introduction to Continuum Mechanics*. Elsevier
+- Oliver, X., Agelet, C. (2002) - *Mecánica de Medios Continuos para Ingenieros*.
+- Bonet, J., Gil, A.J., Woods, R (2016) -* Nonlinear Solid Mechanics for Finite Element Analysis*. Cambridge.
+- Mase, G., Smelser, R.E., Mase, G.E.	(2009) - *Continuum Mechanics for Engineers*.
 
-## Para repasar Álgebra Lineal, cálculos y programación
+**Videotutoriales en YouTube**
 
-Los siguientes libros:
-
-* Acevedo Frias, Bernardo. *Matemáticas fundamentales para ingenieros*. [Repositorio unal](https://repositorio.unal.edu.co/bitstream/handle/unal/7173/bernardoacevedofrias.2003.pdf?sequence=1&isAllowed=y)
-* Sánchez, Rubén (1990). *Curso básico de álgebra lineal*. *Identificación biblioteca: 512.5 S211c5 21*
-* Colley, S. J. (2011). *Vector calculus*.
-* Buriticá, O. I. T. (1999). *La esencia de la lógica de programación*. Universidad Tecnologica de Pereira.
-* Curso de álgebra lineal de la UNAL sede Medellín, [aquí](https://ciencias.medellin.unal.edu.co/cursos/algebra-lineal/clases.html).
-
-Son muy útiles para repasar. Aún sí, autoevalúece para saber a qué le debe prestar más atención en el repaso.
-
-Los siguientes son unos videotutoriales/canales/listas excelentes para repasar álgebra lineal:
-* (lista) Este [pequeño overview del curso de álgebra lineal](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek) que dicta el prfoesor Gilbert Strang en el MIT
-* (canal) [Álgebra Lineal Universidad Nacional de Colombia, sede Medellín](https://www.youtube.com/channel/UCsE2po3zBjPxGYMH8UWJQ6w)
-* (lista) [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-* (lista) [La esencia del álgebra lineal (son los mismos videos pero traducidos al español)](https://www.youtube.com/channel/UCQbsk1JQNaskUlfdoyiWJDg/videos)
+- [Tensor Calculus](https://youtube.com/playlist?list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx)
+- [Tensors for beginners](https://www.youtube.com/playlist?list=PLJHszsWbB6hrkmmq57lX8BV-o-YIOFsiG)  
 
 
-<!---
-# Gráficos de esfuerzos 3D.
+## Mecánica de sólidos
 
-* [Gráficos del cubo con los esfuerzos en 3D](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/Examen_1_estudio_tensiones/paralelepipedo_infinitesimal.pdf) (solo abre en Acrobat Reader)
-* [Gráficos del tetraedro con los esfuerzos en 3D](https://github.com/diegoandresalvarez/solidos/blob/master/archivos/Examen_1_estudio_tensiones/tetraedro_infinitesimal.pdf) (solo abre en Acrobat Reader)
---->
+**Bibliografía básica**
 
-# Video tutoriales de mecánica de sólidos en YouTube
-
-* [Diego Andrés Alvarez Marín](https://www.youtube.com/channel/UCV0FtSuauv5WbcY-lLRMZ4g)
-* [Carlos Santiuste](https://www.youtube.com/user/karlossantiuste)
-* [Lectures by Prof. S. K. Maiti Department of Mechanical Engineering IIT Bombay](https://www.youtube.com/playlist?list=PL35EBF66D99E7A0EC)
+- Ameen, M. (2005) - *Computational elasticity*. Alpha Science.
+- Ortiz-Berrocal, L. (1998) - *Elasticidad*. McGraw Hill, 3rd edition.
+- Saad, M. (2005) - *Elasticity: theory, applications and numerics*. Elsevier.
+- Solecki, R. and Conant, R. (2003) - *Advanced mechanics of materials*. Oxford University Press.
+- Timoshenko, S. P. and Goodier, J. (1970) - *Theory of Elasticity*. McGraw Hill, 3rd edition.
+- Wang, C.-T. (1953) - *Applied Elasticity*. McGraw Hill.
 
 
-# Otro material
-* [H.G. Poulos and E.H. Davis (1974). Elastic solutions for soil and rock mechanics](http://research.engr.oregonstate.edu/usucger/PandD/PandD.htm) En este libro EN LINEA se encuentran una cantidad de ábacos cuya deducción es el resultado de la aplicación de la mecánica de sólidos en ingeniería geotécnica.
-<!---
-* [Página vieja del curso](http://sites.google.com/site/diegoandresalvarezmarin/s1_2009_solidos)
---->
-* [Video realizado por Santiago Suarez Aristizábal](http://www.vimeo.com/28563461) que explica como utilizar algunas de las funcionalidades ocultas que traen las calculadoras CASIO
+**Videotutoriales en YouTube**
+
+- [Diego Andrés Alvarez Marín](https://www.youtube.com/channel/UCV0FtSuauv5WbcY-lLRMZ4g)
+- [Carlos Santiuste](https://www.youtube.com/user/karlossantiuste)
+- [Lectures by Prof. S. K. Maiti Department of Mechanical Engineering IIT Bombay](https://www.youtube.com/playlist?list=PL35EBF66D99E7A0EC)
 
 
-# Canales de YouTube recomendados
+## Otro material
+- [H.G. Poulos and E.H. Davis (1974). Elastic solutions for soil and rock mechanics](http://research.engr.oregonstate.edu/usucger/PandD/PandD.htm) En este libro EN LINEA se encuentran una cantidad de ábacos cuya deducción es el resultado de la aplicación de la mecánica de sólidos en ingeniería geotécnica.
+- [Video realizado por Santiago Suarez Aristizábal](http://www.vimeo.com/28563461) que explica como utilizar algunas de las funcionalidades ocultas que traen las calculadoras CASIO
 
-* [The Efficient Engineer](https://www.youtube.com/channel/UCXAS_Ekkq0iFJ9dSUIkcAkw): explica varios temas de la estática, la resistencia de materiales y la mecáncia de sólidos mediante asombrosas animaciones, está en inglés, pero eso no es impedimento para disfrutar de los videos.
-* [expertfea.com](https://www.youtube.com/c/expertfeacom/featured): si quieren ver animaciones increibles hechas mediante análisis con elementos finitos.
-* [Marcelo Pardo](https://www.youtube.com/user/hondamarz): es mi favorito, encuentran explicaciones cortas pero sustanciosas sobre diversos temas de la ingeniería estructrual, procesos constructivos, entre otros.
+
+## Canales de YouTube recomendados
+
+- [The Efficient Engineer](https://www.youtube.com/channel/UCXAS_Ekkq0iFJ9dSUIkcAkw)
+- [expertfea.com](https://www.youtube.com/c/expertfeacom/featured)
+- [Marcelo Pardo](https://www.youtube.com/user/hondamarz)
+- [Steven Brunton](https://www.youtube.com/@Eigensteve)
+
 
 Ver lista de reproducción en YouTUbe de: [aplicaciones de los temas](https://youtube.com/playlist?list=PLFB8R5rtkrDov9yK8WiK7-nuxuR2iAddL). 

@@ -1,36 +1,32 @@
-# 4100611- Mecánica de Sólidos (G2)
+# Teoría de la elasticidad
 
 <p align="center">
  <img width="600" height="300" src="figs/main_punto.png">
 </p>
 
-El presente es el repositorio para el **grupo 2** del curso de Mecánica de Sólidos de la Universdidad Nacional de Colombia sede Manizales.
+
+## Cursos
+
+En la [Universidad Nacional de Colombia sede Manizales](https://www.manizales.unal.edu.co/):
+
+* **4100611 - MECÁNICA DE SÓLIDOS (G2)**
+* **4200687 - MECÁNICA TENSORIAL (G2)**
 
 | Profesor                          | Michael Heredia Pérez, [mherediap@unal.edu.co](mherediap@unal.edu.co) |
 | ---                               | ---                                                                   |
-| Semestre en curso                 | 2022b, 16 semanas                                                     |
+| Semestre en curso                 | 2023a, 16 semanas                                                     |
 | [Créditos](informacion/credito.md)| 3                                                                     |
-| Horario                           | miércoles (10:00 a.m. - 12:00 m) y jueves (8:00 a.m. - 10:00 a.m.)    |
-
-## Presentación
-
-En este curso se profundizará en la teoría de la elasticidad. Esta es una teoría básica, imprescindible para poder entender, con suficiencia, el método de los elementos finitos, y con el tener bases apropiadas para poder manejar con criterio los diferentes programas de análisis estructural que existen en el mercado, que son empleados no solo en ingeniería estructural, sino en ingeniería geotécnica y de pavimentos.
-
-Partiendo de los conocimientos previos sobre tensiones y deformaciones, adquiridos en el curso de mecánica tensorial, el curso se desarrolla estudiando en profundidad las relaciones entre esfuerzos y deformaciones para materiales elásticos lineales, las ecuaciones fundamentales de la teoría de la elasticidad, las teorías de falla de materiales dúctiles y frágiles y finaliza con la formulación elástica en coordenas cilíndricas, lo cual es de especial importancia no solo en la mecánica estructural sino en la de suelos.
-
-Se espera que al final del curso, el estudiante esté en capacidad de:
-* Analizar y explicar como varían las tensiones y las deformaciones al interior de un sólido elástico.
-* Entender las diferentes suposiciones y limitaciones presentes en la teoría de la elasticidad.
-* Interpretar los diferentes criterios de falla presentes en los sólidos elásticos.
-* Entender la deducción y rango de aplicación de ciertas formulaciones que se aplicarán más tarde en las líneas de mecánica de suelos y pavimentos.
-
-La materia se desarrollará mediante clases magistrales y prácticas mediante el uso de [notebooks](codigos/readme.md) y programas de elementos finitos.
+| Horario Mec. de sólidos           | miércoles (10:00 a.m. - 12:00 m) y jueves (8:00 a.m. - 10:00 a.m.)    |
+| Horario Mec. tensorial            | martes (4:00 p.m. - 6:00 p.m.) y jueves (4:00 p.m. - 6:00 p.m.)    |
 
 ## Índice
 
+Los cursos se desarrollará mediante clases magistrales y prácticas mediante el uso de [notebooks](codigos/readme.md) y programas de elementos finitos (mecánica de sólidos).
+
 Remítase a la siguiente información:
 
-01. [Contenido del curso](informacion/01_contenido_curso.md)
+00. [Prerrequisitos](informacion/00_prerrequisitos.md)
+01. [Contenido de los cursos](informacion/01_contenido_curso.md)
 02. [Bibliografía y material recomendado](informacion/02_bibliografia_material.md)
 03. [Software recomendado](informacion/03_software_recomendado.md)
 04. [Sobre el main.pdf](informacion/04_sobre_el_main.md)
@@ -40,4 +36,7 @@ Remítase a la siguiente información:
 08. [Presentaciones de clase](documentos/readme.md)
 09. [Notebooks y códigos](codigos/readme.md)
 
-Adicionalmente, el repositorio del profesor Diego Andrés Álvarez, mentor del curso: <https://github.com/diegoandresalvarez/solidos>
+Adicionalmente, el repositorio del profesor Diego Andrés Álvarez, mentor del curso: 
+
+* Mecánica de sólidos: <https://github.com/diegoandresalvarez/solidos>
+* Mecánica tensorial: <https://github.com/diegoandresalvarez/tensorial>
