@@ -8,10 +8,18 @@ Ver el siguiente video desde el minuto 35. Es una charla del investigador Hector
 
 ¿Sabes aprender? 
 
-[![](http://img.youtube.com/vi/MI-oDMh9dJs/0.jpg)](http://www.youtube.com/watch?v=MI-oDMh9dJs?t=2080)
+<p align="center">
+ <img width="450" height="250" src="../figs/congreso_educacion.png">
+</p>
 
-Link al video, [aquí](https://www.youtube.com/watch?v=MI-oDMh9dJs?t=2080).
+Link al video: [https://www.youtube.com/watch?v=MI-oDMh9dJs?t=2080](https://www.youtube.com/watch?v=MI-oDMh9dJs?t=2080).
 
 ## Introducción al aprendizaje universitario
 
-En Coursera, la Pontificia Universidad Católica de Chile ha creado este curso 
+<p align="center">
+ <img width="600" height="250" src="../figs/coursera.jpeg">
+</p>
+
+Este es un  MOOC introductorio al aprendizaje universitario, a través del cual, el estudiante podrá conocer aspectos fundamentales que intervienen en el aprendizaje y rendimiento académico universitario. Representa a la vez una oportunidad para reflexionar sobre el propio quehacer académico como estudiante, así como una instancia para conocer distintas herramientas que promueven mejores prácticas en el contexto del estudio.
+
+Link al curso: [https://www.coursera.org/learn/aprendizaje-universitario-introduccion](https://www.coursera.org/learn/aprendizaje-universitario-introduccion)

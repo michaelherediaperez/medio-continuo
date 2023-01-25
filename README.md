@@ -24,7 +24,7 @@ En la [Universidad Nacional de Colombia sede Manizales](https://www.manizales.un
 Sobre el contenido y unidades de cada asignatura:
 
 - [Mecánica tensorial](informacion/a_contenido_tensorial.md)
-- [Mecánica de solidos](informacion/b_contenido_solidos.md)
+- [Mecánica de sólidos](informacion/b_contenido_solidos.md)
 
 En general:
 

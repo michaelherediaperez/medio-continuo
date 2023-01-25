@@ -74,5 +74,3 @@ Se espera que al final del curso, el estudiante esté en capacidad de:
 - Ecuación de la energía.
 - Primera y segunda ley de termodinámica
 - Principio del trabajo virtual.
-
->El calendario detallado será entregado por el docente al comenzar el curso
