@@ -29,7 +29,7 @@ Siempre que usted falte a un examen, debe haber algún documento que lo exonere 
 
 
 ### "Minuciosamente" en los exámenes
-En todos los exámenes se debe relacionar con palabras las fórmulas y motivar físicamente el porqué de un procedimiento o fórmula, las explicaciones no deben ser transcripciones del libro, lo que se espera es que sean lo más claras posibles para que no quede ningún concepto en duda o puesto *porque si*. 
+En todos los exámenes se debe relacionar con palabras las fórmulas y motivar físicamente el porqué de un procedimiento o fórmula. Las explicaciones no deben ser transcripciones del libro, lo que se espera es que sean lo más claras posibles para que no quede ningún concepto en duda o puesto *porque si*. 
 
 >Ejemplo 1: si se pide explicar "qué es un problema de valores propios", hay que tener en cuenta que no se puede entrar a definir un "valor propio" o un "vector propio" sin antes definir la ecuación de la cual vienen, igualmente, este es un concepto con un significado matemático y otro geométrico o físico según se entienda, los cuales son necesarios para una explicación completa. Por otro lado, hay una motivación o una pregunta inicial que nos lleva a plantear un problema de valores y vectores propios, ¿cuál es?
 
@@ -61,7 +61,7 @@ Diríjase a:
 
 
 ### Quices
-Cada semana se hará una evaluación corta no calificable, con el objetivo de evaluar el proceso de aprendizaje de cada estudiante. Estos *quices* se harán al finalizar la clase en una duración no mayor a 15 minutos, el profesor harpa una pregunta que los estudiantes responderán, luego procederá a dar la respuesta y los estudiantes se autoevaluarán.
+Cada semana se hará una evaluación corta no calificable, con el objetivo de evaluar el proceso de aprendizaje de cada estudiante. Estos *quices* se harán al finalizar la clase en una duración no mayor a 15 minutos, el profesor hará una pregunta que los estudiantes responderán, luego procederá a dar la respuesta y los estudiantes se autoevaluarán.
 
 
 ## Mecánica tensorial

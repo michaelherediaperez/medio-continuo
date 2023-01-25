@@ -26,7 +26,8 @@ Los cursos se desarrollará mediante clases magistrales y prácticas mediante el
 Remítase a la siguiente información:
 
 00. [Prerrequisitos](informacion/00_prerrequisitos.md)
-01. [Contenido de los cursos](informacion/01_contenido_curso.md)
+01a. [Contenido de Mecánica tensorial](informacion/01a_contenido_tensorial.md)
+01b. [Contenido de Mecánica de solidos](informacion/01b_contenido_solidos.md)
 02. [Bibliografía y material recomendado](informacion/02_bibliografia_material.md)
 03. [Software recomendado](informacion/03_software_recomendado.md)
 04. [Sobre el main.pdf](informacion/04_sobre_el_main.md)
