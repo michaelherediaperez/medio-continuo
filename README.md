@@ -21,21 +21,22 @@ En la [Universidad Nacional de Colombia sede Manizales](https://www.manizales.un
 
 ## Índice
 
-Los cursos se desarrollará mediante clases magistrales y prácticas mediante el uso de [notebooks](codigos/readme.md) y programas de elementos finitos (mecánica de sólidos).
+Sobre el contenido y unidades de cada asignatura:
 
-Remítase a la siguiente información:
+- [Mecánica tensorial](informacion/a_contenido_tensorial.md)
+- [Mecánica de solidos](informacion/b_contenido_solidos.md)
+
+En general:
 
 00. [Prerrequisitos](informacion/00_prerrequisitos.md)
-01a. [Contenido de Mecánica tensorial](informacion/01a_contenido_tensorial.md)
-01b. [Contenido de Mecánica de solidos](informacion/01b_contenido_solidos.md)
-02. [Bibliografía y material recomendado](informacion/02_bibliografia_material.md)
-03. [Software recomendado](informacion/03_software_recomendado.md)
-04. [Sobre el main.pdf](informacion/04_sobre_el_main.md)
-05. [Calificación](informacion/05_calificacion.md)
-06. [Recomendaciones para estudiar](informacion/06_guia_estudio.md)
-07. [La wiki](informacion/07_la_wiki.md)
-08. [Presentaciones de clase](documentos/readme.md)
-09. [Notebooks y códigos](codigos/readme.md)
+01. [Bibliografía y material recomendado](informacion/01_bibliografia_material.md)
+02. [Software recomendado](informacion/02_software_recomendado.md)
+03. [Sobre el main.pdf](informacion/03_sobre_el_main.md)
+04. [Calificación y evaluación](informacion/04_calificacion.md)
+05. [Recomendaciones para estudiar](informacion/05_guia_estudio.md)
+06. [La wiki](informacion/06_la_wiki.md)
+07. [Presentaciones de clase](documentos/readme.md)
+18. [Notebooks y códigos](codigos/readme.md)
 
 Adicionalmente, el repositorio del profesor Diego Andrés Álvarez, mentor del curso: 
 
