@@ -55,6 +55,8 @@ Otras herramientas para estudiar el círculo de Mohr:
 
 ### 03. Estudio de los desplazamientos y las deformaciones en un punto
 
+Ver [cap_03](cap_03).
+
 **Demostraciones**
 - [03_04_exp_otras_direcciones.ipynb](cap_03/03_04_exp_otras_direcciones.ipynb)
 - [03_04.ipynb](cap_03/03_04.ipynb)
@@ -67,6 +69,8 @@ Otras herramientas para estudiar el círculo de Mohr:
 - ...
 
 ### 04. Relación entre los esfuerzos y las deformaciones
+
+Ver [cap_04](cap_04).
 
 **Demostraciones**
 - [04_03_02.ipynb](cap_04/04_03_02.ipynb)
@@ -106,6 +110,8 @@ Estos gráficos de colores son:
 
 ### 05. Ecuaciones diferencailes fundamentales de la teoría de la elasticidad
 
+Ver [cap_05](cap_05).
+
 **Demostraciones**
 - ...
 
@@ -117,6 +123,8 @@ Estos gráficos de colores son:
 
 
 ### 06. Formulación de la teoría de la elasticidad en coordenadas cilíndricas
+
+Ver [cap_06](cap_06).
 
 **Demostraciones**
 - ...
