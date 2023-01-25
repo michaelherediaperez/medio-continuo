@@ -29,8 +29,11 @@ Siempre que usted falte a un examen, debe haber algún documento que lo exonere 
 
 
 ### "Minuciosamente" en los exámenes
-En todos los exámenes se debe relacionar con palabras las fórmulas y motivar físicamente el por qué de un procedimiento o fórmula (es decir, se debe escribir la explicación suponiendo que usted está escribiendo un libro). Si no se hace esto, se le rebajará en ese punto en particular el 50% de la nota.
+En todos los exámenes se debe relacionar con palabras las fórmulas y motivar físicamente el porqué de un procedimiento o fórmula, las explicaciones no deben ser transcripciones del libro, lo que se espera es que sean lo más claras posibles para que no quede ningún concepto en duda o puesto *porque si*. 
 
+>Ejemplo 1: si se pide explicar "qué es un problema de valores propios", hay que tener en cuenta que no se puede entrar a definir un "valor propio" o un "vector propio" sin antes definir la ecuación de la cual vienen, igualmente, este es un concepto con un significado matemático y otro geométrico o físico según se entienda, los cuales son necesarios para una explicación completa. Por otro lado, hay una motivación o una pregunta inicial que nos lleva a plantear un problema de valores y vectores propios, ¿cuál es?
+
+>Ejemplo 2: si se pide "calcular los vectores propios asociados a una matriz", no basta con reemplazar valores en las fórmulas conocidas y presentar un resultado, ya que eso un programa de computo lo puede hacer, se espera que el estudiante explique el procedimiento que está realizando y las deciciones que toma al operar, ¿cómo le explicaría a alguien más la forma de resolver el ejercicio?
 
 ### Tema de los exámenes.
 Serán sujeto de examen **todos** los temas tratados dentro del aula y también los seleccionados como de *estudio autónomo*. Toda mención hecha en clase o por los medios de comunicación e informativos (como el repositorio) podrán ser evaluados.
