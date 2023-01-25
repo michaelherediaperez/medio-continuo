@@ -38,7 +38,7 @@ En general:
 07. [Presentaciones de clase](documentos/readme.md)
 18. [Notebooks y códigos](codigos/readme.md)
 
-Adicionalmente, el repositorio del profesor Diego Andrés Álvarez, mentor del curso: 
+Adicionalmente, los repositorios del profesor Diego Andrés Álvarez, mentor del curso: 
 
 * Mecánica de sólidos: <https://github.com/diegoandresalvarez/solidos>
 * Mecánica tensorial: <https://github.com/diegoandresalvarez/tensorial>
