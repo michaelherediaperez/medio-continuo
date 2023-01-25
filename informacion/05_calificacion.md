@@ -67,7 +67,32 @@ Cada semana se hará una evaluación corta no calificable, con el objetivo de ev
 ## Mecánica tensorial
 
 ### Exámenes
-Se realizarán 4 exámenes y serán de obligatoria resolución. A grandes rasgos, los temás a evaluar en cada uno de ellos serán:
+Se realizarán 4 exámenes y serán de obligatoria resolución.
+
+| Actividad     | Tipo        | Porcentaje                  | Fecha                   |
+| ---           | ---         | ---                         | ---                     |
+| Examen 01     | Obligatorio | 13%                         | dd/mm/aaaa              |
+| Examen 02     | Obligatorio | 20%                         | dd/mm/aaaa              |
+| Examen 03     | Obligatorio | 33%                         | dd/mm/aaaa              |
+| Examen 04     | Obligatorio | 34%                         | dd/mm/aaaa              |
+
+A grandes rasgos, los temás a evaluar en cada uno de ellos serán:
+
+**Examen 01** (13%)
+- Repaso de prerrequisitos: álgebra lineal, cálculo vectorial y programación.
+
+**Examen 02** (20%)
+- Tensores y Cálculo tensorial.
+- Concepto básicos del medio contínuo.
+- Definición de los esfuerzos en un punto.
+
+**Examen 03** (33%)
+- Desplazamientos y deformaciones en un punto.
+- Relaciones entre esfuerzos y deformaciones.
+
+**Examen 04** (34%)
+- [Por definir]
+
 
 Refierase al [contenido del curso](01_contenido_curso.md) para profundizar en los temas.
 
