@@ -9,16 +9,23 @@
 
 En la [Universidad Nacional de Colombia sede Manizales](https://www.manizales.unal.edu.co/):
 
-* **4100611 - MECÁNICA DE SÓLIDOS (G2)**
-* **4200687 - MECÁNICA TENSORIAL (G2)**
-
+- **4200687 - MECÁNICA TENSORIAL (G2)**
 | Profesor                          | Michael Heredia Pérez, [mherediap@unal.edu.co](mherediap@unal.edu.co) |
 | ---                               | ---                                                                   |
-|                                   | Diego Andrés Álvarez, [daalvarez@unal.edu.co](daalvarez@unal.edu.co) |
+|                                   | Diego Andrés Álvarez, [daalvarez@unal.edu.co](daalvarez@unal.edu.co)  |
 | Semestre en curso                 | 2023a, 16 semanas                                                     |
 | [Créditos](informacion/credito.md)| 3                                                                     |
-| Horario Mec. tensorial            | martes (4:00 p.m. - 6:00 p.m.) y jueves (4:00 p.m. - 6:00 p.m.)       |
+| Horario                           | martes (4:00 p.m. - 6:00 p.m.) y jueves (4:00 p.m. - 6:00 p.m.)       |
+
+
+- **4100611 - MECÁNICA DE SÓLIDOS (G2)**
+| Profesor                          | Diego Andrés Álvarez, [daalvarez@unal.edu.co](daalvarez@unal.edu.co)  |
+| ---                               | ---                                                                   |
+|                                   | Michael Heredia Pérez, [mherediap@unal.edu.co](mherediap@unal.edu.co) |
+| Semestre en curso                 | 2023a, 16 semanas                                                     |
+| [Créditos](informacion/credito.md)| 3                                                                     |
 | Horario Mec. de sólidos           | miércoles (10:00 a.m. - 12:00 m) y jueves (8:00 a.m. - 10:00 a.m.)    |
+
 
 ## Índice
 
