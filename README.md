@@ -14,6 +14,7 @@ En la [Universidad Nacional de Colombia sede Manizales](https://www.manizales.un
 
 | Profesor                          | Michael Heredia Pérez, [mherediap@unal.edu.co](mherediap@unal.edu.co) |
 | ---                               | ---                                                                   |
+|                                   | Diego Andrés Álvarez, [daalvarez@unal.edu.co](daalvarez@unal.edu.co) |
 | Semestre en curso                 | 2023a, 16 semanas                                                     |
 | [Créditos](informacion/credito.md)| 3                                                                     |
 | Horario Mec. tensorial            | martes (4:00 p.m. - 6:00 p.m.) y jueves (4:00 p.m. - 6:00 p.m.)       |
