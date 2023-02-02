@@ -26,7 +26,7 @@ En la [Universidad Nacional de Colombia sede Manizales](https://www.manizales.un
 |                                   | Michael Heredia Pérez, [mherediap@unal.edu.co](mherediap@unal.edu.co) |
 | Semestre en curso                 | 2023a, 16 semanas                                                     |
 | [Créditos](informacion/credito.md)| 3                                                                     |
-| Horario Mec. de sólidos           | miércoles (10:00 a.m. - 12:00 m) y jueves (8:00 a.m. - 10:00 a.m.)    |
+| Horario                           | miércoles (10:00 a.m. - 12:00 m) y jueves (8:00 a.m. - 10:00 a.m.)    |
 
 
 ## Índice
