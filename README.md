@@ -46,7 +46,7 @@ En general:
 05. [Recomendaciones para estudiar](informacion/05_guia_estudio.md)
 06. [La wiki](informacion/06_la_wiki.md)
 07. [Presentaciones de clase](documentos/readme.md)
-18. [Notebooks y códigos](codigos/readme.md)
+18. [Código](codigos/readme.md)
 
 Adicionalmente, los repositorios del profesor Diego Andrés Álvarez, mentor del curso: 
 
