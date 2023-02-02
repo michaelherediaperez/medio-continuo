@@ -10,6 +10,7 @@
 En la [Universidad Nacional de Colombia sede Manizales](https://www.manizales.unal.edu.co/):
 
 - **4200687 - MECÁNICA TENSORIAL (G2)**
+
 | Profesor                          | Michael Heredia Pérez, [mherediap@unal.edu.co](mherediap@unal.edu.co) |
 | ---                               | ---                                                                   |
 |                                   | Diego Andrés Álvarez, [daalvarez@unal.edu.co](daalvarez@unal.edu.co)  |
@@ -19,6 +20,7 @@ En la [Universidad Nacional de Colombia sede Manizales](https://www.manizales.un
 
 
 - **4100611 - MECÁNICA DE SÓLIDOS (G2)**
+
 | Profesor                          | Diego Andrés Álvarez, [daalvarez@unal.edu.co](daalvarez@unal.edu.co)  |
 | ---                               | ---                                                                   |
 |                                   | Michael Heredia Pérez, [mherediap@unal.edu.co](mherediap@unal.edu.co) |
