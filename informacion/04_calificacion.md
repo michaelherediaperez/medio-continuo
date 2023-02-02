@@ -15,11 +15,14 @@ Se prohíbe en estos exámenes el uso de calculadoras Hewlett-Packard y Texas In
 
 
 ### Duración y Horarios
-Los exámenes se realizarán en horario de clase y tendrán una **duración máxima de una (1:40) hora**.
+Los exámenes se realizarán en horario de clase y tendrán una **duración máxima de una (1:00) hora** cuando sean exámenes por partes, y de hasta **un bloque completo** cuando sean exámenes individuales. La metodología será explicada en la primera clase del curso.
 
 
 ### Fechas
-Las fechas para los exámenes se presentarán máximo la segunda semana de clases, (arriba están) y **serán inmodificables**, a no ser que por causas de fuerza mayor deban reagendarze **o por poco avance en los temas según el criterio del profesor**. 
+Las fechas para los exámenes se presentarán máximo la segunda semana de clases, (mire abajo) y **serán inmodificables**, a no ser que por causas de fuerza mayor deban reagendarze **o por poco avance en los temas según el criterio del profesor**. 
+
+>El estudiante debe prepararse constantemente para cada examen y no dejarlo para la última semana, pues esta debe ser para solución de dudas y repaso de los temas de mayor complejidad.
+
 
 >*Se entiende por **eventos de causa de fuerza mayor** aquellos que son inevitables, imprevisibles y extraordinarios de conformidad con el sentido común, es decir: desastres naturales, inhabilidades de transporte o ingreso a la universidad, acciones administrativas, paros, etc.* 
 
@@ -36,13 +39,14 @@ En todos los exámenes se debe relacionar con palabras las fórmulas y motivar f
 >Ejemplo 2: si se pide "calcular los vectores propios asociados a una matriz", no basta con reemplazar valores en las fórmulas conocidas y presentar un resultado, ya que eso un programa de computo lo puede hacer, se espera que el estudiante explique el procedimiento que está realizando y las deciciones que toma al operar, ¿cómo le explicaría a alguien más la forma de resolver el ejercicio?
 
 ### Tema de los exámenes.
-Serán sujeto de examen **todos** los temas tratados dentro del aula y también los seleccionados como de *estudio autónomo*. Toda mención hecha en clase o por los medios de comunicación e informativos (como el repositorio) podrán ser evaluados.
+Serán sujeto de examen **todos** los temas tratados dentro del aula y también los seleccionados como de *estudio autónomo*. Toda mención hecha en clase o por los medios de comunicación e informativos (como el repositorio), material complementario, lecturas, códigos, etc, podrán ser evaluados.
 
 Se especificará lo correspondiente a cada examen para que el estudiante sea consiente y organice su plan estudio.
 
 
+
 ### Estructura para posibles preguntas.
-Los exámenes tendrán máximo 3 preguntas. 
+Los exámenes tendrán máximo 4 preguntas. 
 
 Se preguntará sobre cualquier tema explicado en clase. Algunos modelos de pregunta son: 
 - "Escriba todo lo que sepa sobre ...", 
@@ -67,32 +71,36 @@ Cada semana se hará una evaluación corta no calificable, con el objetivo de ev
 ## Mecánica tensorial
 
 ### Exámenes
-Se realizarán 4 exámenes y serán de obligatoria resolución.
+Se realizarán 4 exámenes y serán de obligatoria resolución. El primer examen se hará en dos partes: parte A y parte B, con una separación de dos semanas. 
 
-| Actividad     | Tipo        | Porcentaje                  | Fecha                   |
-| ---           | ---         | ---                         | ---                     |
-| Examen 01     | Obligatorio | 13%                         | dd/mm/aaaa              |
-| Examen 02     | Obligatorio | 20%                         | dd/mm/aaaa              |
-| Examen 03     | Obligatorio | 33%                         | dd/mm/aaaa              |
-| Examen 04     | Obligatorio | 34%                         | dd/mm/aaaa              |
+| Actividad      | Tipo        | Porcentaje                  | Fecha                   |
+| ---            | ---         | ---                         | ---                     |
+| Examen 01A     | Obligatorio | 10%                         | 23/02/2023 (febrero)    |
+| Examen 01B     | Obligatorio | 15%                         | 09/03/2023 (marzo)      |
+| Examen 02      | Obligatorio | 25%                         | 13/04/2023 (abril)      |
+| Examen 03      | Obligatorio | 25%                         | 11/05/2023 (mayo)       |
+| Examen 04      | Obligatorio | 25%                         | 01/06/2023 (junio)      |
 
 A grandes rasgos, los temás a evaluar en cada uno de ellos serán:
 
-**Examen 01** (13%)
-- Repaso de prerrequisitos: álgebra lineal, cálculo vectorial y programación.
+**Examen 01** (25%)
+- Examen 01A (10%):
+    - Repaso de prerrequisitos: álgebra lineal, cálculo vectorial y programación.
+- Examen 01B (13%):
+    - Conceptos básicos del medio contínuo.
+    - Definición de los esfuerzos en un punto.
 
-**Examen 02** (20%)
-- Tensores y Cálculo tensorial.
-- Concepto básicos del medio contínuo.
+**Examen 02** (25%)
 - Definición de los esfuerzos en un punto.
+- Desplazamientos y deformaciones en un punto.
 
-**Examen 03** (33%)
+**Examen 03** (25%)
 - Desplazamientos y deformaciones en un punto.
 - Relaciones entre esfuerzos y deformaciones.
 
-**Examen 04** (34%)
-- [Por definir]
-
+**Examen 04** (25%)
+- Tensores y cálculo tensorial
+- Grandes deformaciones
 
 Refierase al [contenido del curso](01_contenido_curso.md) para profundizar en los temas.
 
@@ -100,14 +108,25 @@ Refierase al [contenido del curso](01_contenido_curso.md) para profundizar en lo
 ## Mecánica de sólidos
 
 ### Exámenes
+Se realizarán 4 exámenes y serán de obligatoria resolución.  
+
+| Actividad      | Tipo        | Porcentaje                  | Fecha                   |
+| ---            | ---         | ---                         | ---                     |
+| Examen 01      | Obligatorio | 25%                         | 09/03/2023 (marzo)    |
+| Examen 02      | Obligatorio | 25%                         | 13/04/2023 (abril)      |
+| Examen 03      | Obligatorio | 25%                         | 11/05/2023 (mayo)       |
+| Examen 04      | Obligatorio | 25%                         | 01/06/2023 (junio)      |
+
+A grandes rasgos, los temás a evaluar en cada uno de ellos serán los vistos entre el examen previo y la semana anterior a la respectiva fecha. Para el primer examen será desde el inicio del curso.  
+
 
 ### Trabajo
 
-**Este trabajo es opcional**, reemplazará la nota más baja entre los 3 exámenes presentados.
+**Este trabajo es opcional**, reemplazará la nota más baja entre los 4 exámenes presentados.
 
-Consultar el siguiente documento, [aquí](/documentos/TrabajoOpcional_2022b.pdf).
+Consultar el siguiente documento, [aquí](/documentos/TrabajoOpcional_2023a.pdf).
 
->Se presentará a los alumnos máximo en la quinta semana de clase.
+Se presentará en la tercera (3) semana, y se entregará en la séptima (7) semana. La nota se entregará al final del semestre.
 
 
 # Fraude en los exámenes, quices  o trabajos
