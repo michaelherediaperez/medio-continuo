@@ -10,7 +10,7 @@ Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex
 ### Mecánica tensorial
 
 00. Presentación del curso:
-    * [00_.pdf](2023a/00_.pdf)  
+    * [00t_.pdf](2023a/00t_.pdf)  
 
 01. Conceptos básicos:
     * [01a_.pdf](2023a/01a_.pdf): introducción a los tensores.
