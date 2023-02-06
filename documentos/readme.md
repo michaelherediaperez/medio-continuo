@@ -7,10 +7,10 @@ Durante las clases se hará uso de presentaciones con links de ayuda y puntos cl
 Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex/Beamer): 
 
 
-### Mecánica tensorial
 
 00. Presentación del curso:
-    * [00t_.pdf](2023a/00t_.pdf)  
+    * [00t_.pdf](2023a/00t_.pdf): presentación de Mecánica tensorial.
+    * [00s_.pdf](2023a/00s_.pdf): presentación de Mecánica de sólidos.
 
 01. Conceptos básicos:
     * [01a_.pdf](2023a/01a_.pdf): introducción a los tensores.
@@ -27,9 +27,6 @@ Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex
 04. Relaciones entre los esfuerzos y las deformaciones:
     * [04a_.pdf](2023a/04a_.pdf): secciones 4.1 a 4.8  
     * [04b_.pdf](2023a/04b_.pdf): sección 4.9. Interpretación de gráficos.  
-
-
-### Mecánica de sólidos
 
 05. Ecuaciones diferenciales fundamentales de la teoría de la elasticidad: 
     * [05a_.pdf](2023a/05a_.pdf): secciones 5.1 a 5.2
