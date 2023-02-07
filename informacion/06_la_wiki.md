@@ -1,11 +1,10 @@
-# Sobre la WIKI
-
+# WIKI para la corrección de los errores en el `main.pdf`: 
 
 >Nota: la wiki será administrada por el profesor Diego Andrés Álvarez.
 
-* [Reglas de la WIKI](https://github.com/diegoandresalvarez/solidos/blob/master/docs/WIKI_Condiciones.md)
-* [Ejemplos de contribuciones a la WIKI](https://github.com/diegoandresalvarez/solidos/blob/master/docs/WIKI_Ejemplos.md)
-* [La WIKI](http://mecanicadesolidos.shoutwiki.com/wiki/P%C3%A1gina_principal)
+  * http://mecanicadesolidos.shoutwiki.com/
+  * [Reglas de la WIKI](http://mecanicadesolidos.shoutwiki.com/wiki/Reglas_de_la_WIKI)
+  * [Ejemplos de contribuciones a la WIKI](http://mecanicadesolidos.shoutwiki.com/wiki/Ejemplos_de_contribuciones_a_la_WIKI)
 
 Algunos recursos para escribir en la WIKI:
 
