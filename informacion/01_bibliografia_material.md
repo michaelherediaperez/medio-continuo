@@ -3,7 +3,7 @@
 ## Bibliografía
 
 El libro guía del curso será:
-- Alvarez Diego A. (2023) - *Notas de clase del curso mecánica de sólidos*. En publicación.
+- Alvarez Diego A. (2023) - *Notas de clase del curso mecánica de sólidos*. En proceso de edición.
 
 >**Por favor no difundir este libro hasta que no sea publicado.**
 
@@ -12,7 +12,7 @@ El libro guía del curso será:
 
 **Bibliografía básica**
 
-- Alvarez, Diego A. (2023) - *Notas de clase del curso mecánica de sólidos*. En publicación.
+- Alvarez, Diego A. (2023) - *Notas de clase del curso mecánica de sólidos*. En proceso de edición.
 - Alvarez, Diego A. (2023) - *Notes for a course on continiuum mechanics*. En preparación.
 - Lai, M., Krempl, E, Ruben, D.	(2010) - *Introduction to Continuum Mechanics*. Elsevier
 - Oliver, X., Agelet, C. (2002) - *Mecánica de Medios Continuos para Ingenieros*.
@@ -29,7 +29,7 @@ El libro guía del curso será:
 
 **Bibliografía básica**
 
-- Alvarez, Diego A. (2023) - *Notas de clase del curso mecánica de sólidos*. En publicación.
+- Alvarez, Diego A. (2023) - *Notas de clase del curso mecánica de sólidos*. En proceso de edición.
 - Ameen, M. (2005) - *Computational elasticity*. Alpha Science.
 - Ortiz-Berrocal, L. (1998) - *Elasticidad*. McGraw Hill, 3rd edition.
 - Saad, M. (2005) - *Elasticity: theory, applications and numerics*. Elsevier.

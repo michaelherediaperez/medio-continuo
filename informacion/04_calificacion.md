@@ -73,13 +73,13 @@ Cada semana se hará una evaluación corta no calificable, con el objetivo de ev
 ### Exámenes
 Se realizarán 4 exámenes y serán de obligatoria resolución. El primer examen se hará en dos partes: parte A y parte B, con una separación de dos semanas. 
 
-| Actividad      | Tipo        | Porcentaje                  | Fecha                   |
-| ---            | ---         | ---                         | ---                     |
-| Examen 01A     | Obligatorio | 10%                         | 23/02/2023 (febrero)    |
-| Examen 01B     | Obligatorio | 15%                         | 09/03/2023 (marzo)      |
-| Examen 02      | Obligatorio | 25%                         | 13/04/2023 (abril)      |
-| Examen 03      | Obligatorio | 25%                         | 11/05/2023 (mayo)       |
-| Examen 04      | Obligatorio | 25%                         | 01/06/2023 (junio)      |
+| Actividad      | Tipo        | Porcentaje | Fecha                   |
+| ---            | ---         | ---        | ---                     |
+| Examen 01A     | Obligatorio | 10%        | 23/02/2023 (febrero)    |
+| Examen 01B     | Obligatorio | 15%        | 09/03/2023 (marzo)      |
+| Examen 02      | Obligatorio | 25%        | 13/04/2023 (abril)      |
+| Examen 03      | Obligatorio | 25%        | 11/05/2023 (mayo)       |
+| Examen 04      | Obligatorio | 25%        | 01/06/2023 (junio)      |
 
 A grandes rasgos, los temás a evaluar en cada uno de ellos serán:
 
@@ -110,12 +110,12 @@ Refierase al [contenido del curso](01_contenido_curso.md) para profundizar en lo
 ### Exámenes
 Se realizarán 4 exámenes y serán de obligatoria resolución.  
 
-| Actividad      | Tipo        | Porcentaje                  | Fecha                   |
-| ---            | ---         | ---                         | ---                     |
-| Examen 01      | Obligatorio | 25%                         | 09/03/2023 (marzo)    |
-| Examen 02      | Obligatorio | 25%                         | 13/04/2023 (abril)      |
-| Examen 03      | Obligatorio | 25%                         | 11/05/2023 (mayo)       |
-| Examen 04      | Obligatorio | 25%                         | 01/06/2023 (junio)      |
+| Actividad | Tipo        | Porcentaje | Fecha              |
+| ---       | ---         | ---        | ---                |
+| Examen 01 | Obligatorio | 25%        | 09/03/2023 (marzo) |
+| Examen 02 | Obligatorio | 25%        | 13/04/2023 (abril) |
+| Examen 03 | Obligatorio | 25%        | 11/05/2023 (mayo)  |
+| Examen 04 | Obligatorio | 25%        | 01/06/2023 (junio) |
 
 A grandes rasgos, los temás a evaluar en cada uno de ellos serán los vistos entre el examen previo y la semana anterior a la respectiva fecha. Para el primer examen será desde el inicio del curso.  
 

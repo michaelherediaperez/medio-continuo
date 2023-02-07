@@ -35,17 +35,7 @@ Se espera que al final del curso, el estudiante esté en capacidad de:
 - Principio de superposición
 - Principio de Saint-Venant
 
-### 4. Criterios de falla para materiales dúctiles y frágiles
-- Esfuerzos medios, desviadores y octaédricos
-- El espacio de esfuerzos principales, la superficie de fluencia y la región elástica
-- El sistema de coordenadas cilíndricas de Haigh-Westergaard
-   - Simetría del espacio de esfuerzos principales
-   - Comportamiento de los materiales isótropos en el rango plástico cuando se les somete a una condición de esfuerzos tridimensional
-- Energía de dilatación y energía de distorsión
-- Criterios de fluencia y superficies de plastificación en materiales dúctiles: von Mises, Tresca
-- Criterios de rotura y superficies de falla en materiales frágiles: Rankine, Mohr-Coulomb, Drucker-Prager, Matsuoka-Nakai"						
-
-### 5. Formulación en coordenadas polares y cilíndricas
+### 4. Formulación en coordenadas polares y cilíndricas
 - Los sistemas de coordenadas polares y cilíndricas
 - El gradiente, el laplaciano, la divergencia y el rotacional en coordenadas cilíndricas
 - Esfuerzos
@@ -62,6 +52,23 @@ Se espera que al final del curso, el estudiante esté en capacidad de:
    - Concentración de esfuerzos alrededor de grietas
    - Concentración de esfuerzos en el ensayo brasileño
    - Aplicación en ingeniería de cimentaciones: problemas de Boussinesq, Flamant, Kelvin, Cerruti y Mindlin
-						
+
+### 5. Criterios de falla para materiales dúctiles y frágiles
+- Esfuerzos medios, desviadores y octaédricos
+- El espacio de esfuerzos principales, la superficie de fluencia y la región elástica
+- El sistema de coordenadas cilíndricas de Haigh-Westergaard
+   - Simetría del espacio de esfuerzos principales
+   - Comportamiento de los materiales isótropos en el rango plástico cuando se les somete a una condición de esfuerzos tridimensional
+- Energía de dilatación y energía de distorsión
+- Criterios de fluencia y superficies de plastificación en materiales dúctiles: von Mises, Tresca
+- Criterios de rotura y superficies de falla en materiales frágiles: Rankine, Mohr-Coulomb, Drucker-Prager, Matsuoka-Nakai"						
+
 ### 6. Torsión
 - Hipótesis fundamentales de la teoría de Saint-Venant y Prandtl
+- Desplazamientos, deformaciones y esfuerzos en barras de sección circular y no circular.
+- Función de tensión de Prandtl, analogía de la membrana.
+- Alabeo.
+- Cálculo de la rigidez a la torsión.
+- Localización del centro de torsión.
+- Uso de chaflanes en barras sometidas a torsión.
+- Torsión de secciones de pared delgada.
