@@ -32,8 +32,9 @@ A continuación se presentan temas puntuales de cada materia y algunas fuentes p
 
 **Libros**
 - Fundamentos de Álgebra Lineal, Notas de clase del profesor Juan Carlos Cordero (UNAL Manizales).
-- Sánchez, Rubén (1990). *Curso básico de álgebra lineal*. *Identificación biblioteca: 512.5 S211c5 21*
-
+- Sánchez, Rubén (2005). Fundamentos de álgebra lineal. *Identificación biblioteca: 512.5 S211f 21*
+- Sánchez, Rubén (1990). Curso básico de álgebra lineal. *Identificación biblioteca: 512.5 S211c5 21*
+- Sánchez, Rubén (1984). Curso básico de álgebra lineal. *Identificación biblioteca: 512.5 S211c 20*
 
 
 
