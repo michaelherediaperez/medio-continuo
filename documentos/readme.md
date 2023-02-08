@@ -25,8 +25,9 @@ Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex
     * [03_.pdf](2023a/03_.pdf): capítulo 3 (completo)            
     
 04. Relaciones entre los esfuerzos y las deformaciones:
-    * [04a_.pdf](2023a/04a_.pdf): secciones 4.1 a 4.8  
-    * [04b_.pdf](2023a/04b_.pdf): sección 4.9. Interpretación de gráficos.  
+    * [04a_.pdf](2023a/04a_.pdf): secciones 4.1 a 4.7  
+    * [04b_.pdf](2023a/04b_.pdf): repaso y sección 4.8, tensión y deformación plana.
+    * [04c_.pdf](2023a/04c_.pdf): sección 4.9, Interpretación de gráficos.  
 
 05. Ecuaciones diferenciales fundamentales de la teoría de la elasticidad: 
     * [05a_.pdf](2023a/05a_.pdf): secciones 5.1 a 5.2
