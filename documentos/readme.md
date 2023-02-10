@@ -14,7 +14,7 @@ Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex
 
 01. Conceptos básicos:
     * [01a_.pdf](2023a/01a_.pdf): introducción a los tensores.
-    * [01b_.pdf](2023a/01b_.pdf): capítulo 1 (completo).
+    * [01t_.pdf](2023a/01t_.pdf): capítulo 1 (completo).
 
 02. Estudio de los esfuerzos en un punto:
     * [02a_.pdf](2023a/02a_.pdf): secciones 2.1 a 2.4
