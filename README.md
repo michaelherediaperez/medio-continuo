@@ -52,3 +52,11 @@ Adicionalmente, en estos repositorios se encuentra información relevante:
 
 * Mecánica de sólidos: <https://github.com/diegoandresalvarez/solidos>
 * Mecánica tensorial: <https://github.com/diegoandresalvarez/tensorial>
+
+## Descargar el material
+
+Se puede clonar el repositorio usando:
+
+    git clone https://github.com/michaelherediaperez/medio_continuo.git
+
+o directamente usar la opción de descarga desde GitHub.
