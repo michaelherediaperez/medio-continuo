@@ -31,7 +31,8 @@ Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex
 05. Ecuaciones diferenciales fundamentales de la teoría de la elasticidad: 
     * [05a_.pdf](diapos_actuales/05a_.pdf): secciones 5.1 a 5.2
     * [05b_.pdf](diapos_actuales/05b_.pdf): secciones 5.3 a 5.7 
-    * [05c_.pdf](diapos_actuales/05c_.pdf): secciones 5.8 a 5.13, Airy y Cauchy-Navier
+    * [05c_.pdf](diapos_actuales/05c_.pdf): secciones 5.8 a 5.13
+    * [05d_.pdf](diapos_actuales/05d_.pdf): ejemplo de aplicación
     
 06. Formulación de la teoría de la elasticidad en coordenadas cilíndricas:    
     * [06z_.pdf](diapos_actuales/06z_.pdf): introducción.
