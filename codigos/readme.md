@@ -113,7 +113,7 @@ Estos gráficos de colores son:
 Ver [cap_05](cap_05).
 
 **Demostraciones**
-- ...
+- [Verificación de las ecuaciones de Saint-Venant](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/30-ecuaciones_saint_venant.ipynb)
 
 **Ejemplos**
 - [05_08_ejemplo.ipynb](cap_05/05_08_ejemplo.ipynb)
@@ -124,16 +124,8 @@ Ver [cap_05](cap_05).
 
 ### 06. Formulación de la teoría de la elasticidad en coordenadas cilíndricas
 
-Ver [cap_06](cap_06).
+Ver: [https://github.com/diegoandresalvarez/solidos/tree/master/archivos/codigo/cap_06](https://github.com/diegoandresalvarez/solidos/tree/master/archivos/codigo/cap_06)
 
-**Demostraciones**
-- ...
-
-**Ejemplos**
-- ...
-
-**Ejercicios**
-- ...
 
 # Otros respositorios
 - Profesor Nicolás Ramirez: <https://github.com/jnramirezg/mecanica_de_solidos/tree/main/codigo>
