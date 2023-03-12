@@ -38,7 +38,7 @@ Ver [cap_02](cap_02).
 - [02_09_04_ejemplo.ipynb](cap_02/02_09_04_ejemplo.ipynb)
 
 **Ejercicios**
-- ...
+- [02_05_ejemplo.ipynb](cap_02/02_05_ejemplo.ipynb)
 
 
 **Complementarios** 
