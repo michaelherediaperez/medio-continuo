@@ -22,13 +22,13 @@ import matplotlib.pyplot as plt    # Librería para graficar.
 #import os                                   
 
 """
-SOLAMENTE MODIFIQUE ESTO
+SOLAMENTE MODIFIQUE EL ESTADO DE ESFUERZOS
 """
 # -----------------------------------------------------------------------------
-# Ingrese el estado de esfuerzos [Pa].
-sx  = 5 
-sy  = -1
-txy = 4    
+# Ingrese el estado de esfuerzos [Pa]. (ejemplo es sx = 5, sy = -1, txy = 4)
+sx  = 2 
+sy  = 3
+txy = -1    
 
 # -----------------------------------------------------------------------------
 # Cálculo de esfuerzos principales y ángulos.
@@ -38,17 +38,17 @@ sigma = np.array([[sx, txy],
                   [txy, sy]])
 
 # Cálculo de valores y vectores propios.
-valp, vecp = np.linalg.eig(sigma) 
+valp, vecp = np.linalg.eigh(sigma) 
 
 # Recuerde que los valores propios se presentan en orden algebráico.
 s2, s1 = valp 
-n2, n1 = vecp[0], vecp[1]
+n2, n1 = vecp.T
 
 # El cortante máximo, radio de la circunferencia.
 tmax_xy = np.sqrt( ((sx-sy)/2)**2 + txy**2 ) 
 
 # Ángulo theta 1
-t1 = (np.arctan2(2*txy, sx-sy)/2) * 180/np.pi
+t1 = np.rad2deg(np.arctan2(2*txy, sx-sy)) / 2
 
 # -----------------------------------------------------------------------------
 # Resultados.
@@ -67,9 +67,13 @@ print(f"+ Ángulo 1,             theta_1      = {t1.round(2)}  °\n")
 # Cálculos para el círculo de Mohr.
 
 # El círculo de mohr tiene dominio [0, 180°), esto lo calculo pero en radianes:
-tt = np.linspace(0, np.pi, 100)
+tt = np.linspace(0, np.pi, 40)  
+"""
+Se deben colocar mínimo 100 puntos, evalúe la velocidad de graficación para 
+la animación.
+"""
 
-# Realizo el cálculo de las ecuaciones (2.31) y (2.32). Como el dominio 
+# Realizo el cálculo de las ecuaciones (2.31) y (2.32). 
 ssn_t = ( sx+sy )/2 + ( sx-sy )/2*np.cos( 2*tt ) + txy*np.sin( 2*tt )
 ttn_t = txy*np.cos( 2*tt ) - ( sx-sy )/2*np.sin( 2*tt )
 
@@ -77,15 +81,13 @@ ttn_t = txy*np.cos( 2*tt ) - ( sx-sy )/2*np.sin( 2*tt )
 # Gráfico interactivo del círuclo de Mohr en 2D.
 
 # Defino un tamaño de fuente y tamaño del lienzo.
-plt.rcParams.update({'font.size': 13})
-plt.rcParams["figure.figsize"] = (8,8)  # Tamaño en pulgadas.
+plt.rcParams.update({'font.size': 14})
+#plt.rcParams["figure.figsize"] = (8,8)  # Tamaño en pulgadas.
 
 # Inicio el lienzo.
 fig = plt.figure()
-
-# Dibujo los ejes.
-plt.plot((1.3*s2, 1.3*s1), (0, 0), "-k")
-plt.plot((1.3*s2, 1.3*s2), (-1.3*tmax_xy, 1.3*tmax_xy), "-k")
+plt.tight_layout()
+plt.axis("equal")       # que el eje x mida lo mismo que el eje y.
 
 # Dibujo la recta que pasa por los puntos C y A.
 plt.plot((sy, sx), (-txy, txy), "--g")
@@ -93,8 +95,8 @@ plt.plot((sy, sx), (-txy, txy), "--g")
 plt.plot(sy, -txy, "*r")  # un 1% más abajo del punto.
 plt.plot(sx, txy,  "*r")  # un 1% más arriba del punto.
 
-plt.text(sy, -txy*1.1, r"$( \sigma_y, -\tau_{xy} )=$" + f"({sy} Pa, {-txy} Pa)")  
-plt.text(sx, txy*0.95,  r"$( \sigma_x, \tau_{xy} )=$" + f"({sx} Pa, {txy} Pa)")  
+plt.text(sy, -txy*1.1, r"$( \sigma_y, -\tau_{xy} )=$" + f"({sy}, {-txy})")  
+plt.text(sx, txy*0.95,  r"$( \sigma_x, \tau_{xy} )=$" + f"({sx}, {txy} )")  
 
 # Marco el centro de la circunferencia O.
 plt.plot((sx+sy)/2, 0, "*r")
@@ -102,23 +104,23 @@ plt.text((sx+sy)/2, 0,  "O")
 
 # Ubico los esfuerzos sx, sy 
 plt.plot(sx, 0, "*r")
-plt.text(sx, 0.1, r"$\sigma_x = $" + f"{sx} Pa")
+plt.text(sx, 0.1, r"$\sigma_x = $" + f"{sx}")
 plt.plot(sy, 0, "*r")
-plt.text(sy, 0.1, r"$\sigma_y = $" + f"{sy} Pa")
+plt.text(sy, 0.1, r"$\sigma_y = $" + f"{sy}")
 
 # Ubico los esfuerzos principales s1, s2 
 plt.plot(s1, 0, "*r")
-plt.text(s1, 0.1, r"$\sigma_1 = $" + f"{round(s1, 2)} Pa")
+plt.text(s1, 0.1, r"$(\sigma_1)_{xy} = $" + f"{round(s1, 2)}")
 plt.plot(s2, 0, "*r")
-plt.text(s2, 0.1, r"$\sigma_2 = $" + f"{round(s2, 2)} Pa")
+plt.text(s2, 0.1, r"$(\sigma_2)_{xy} = $" + f"{round(s2, 2)}")
 
 # Indico el esfuerzo cortante máximo.
 plt.plot((sx+sy)/2, tmax_xy, "*r")
-plt.text((sx+sy)/2, 1.1*tmax_xy, r"$(\tau_{max})_{xy} = $" + f"{round(tmax_xy, 4)} Pa")
+plt.text((sx+sy)/2, 1.1*tmax_xy, r"$(\tau_{max})_{xy} = $" + f"{round(tmax_xy, 4)}")
 
 # Nombre de los ejes.
-plt.xlabel("Esfuerzo normal " + r"$\sigma_n$" )
-plt.ylabel("Esfuerzo cortante " + r"$\tau_n$")
+plt.xlabel("Esfuerzo normal " + r"$\sigma_n$ [Pa]" )
+plt.ylabel("Esfuerzo cortante " + r"$\tau_n$ [Pa]")
 
 # Configuro parámetros del lienzo.
 plt.grid(which='major', linestyle='-')
@@ -129,7 +131,7 @@ time = 0.05
 # Inicio el modo interactivo de matplotlib. 
 plt.ion()
 
-# Grafico el primero los primeros datos y tomo la primera línea.
+# Grafico los primeros datos y tomo la primera línea.
 plot = plt.plot(ssn_t[0], ssn_t[0])[0]
 
 # filename container to create the gif.
