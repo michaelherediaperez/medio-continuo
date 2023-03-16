@@ -18,8 +18,8 @@ pip install imageio
 """
 import numpy as np                 # Librería para cálculo algebráico.
 import matplotlib.pyplot as plt    # Librería para graficar.
-import imageio.v2 as imageio      # Librería para hacer GIFs.
-import os                                   
+#import imageio.v2 as imageio      # Librería para hacer GIFs.
+#import os                                   
 
 """
 SOLAMENTE MODIFIQUE ESTO
@@ -121,7 +121,7 @@ plt.xlabel("Esfuerzo normal " + r"$\sigma_n$" )
 plt.ylabel("Esfuerzo cortante " + r"$\tau_n$")
 
 # Configuro parámetros del lienzo.
-plt.grid(b=True, which='major', linestyle='-')
+plt.grid(which='major', linestyle='-')
 
 # Para la circunferencia, defino el timpo que tarda en graficar cada punto.
 time = 0.05
