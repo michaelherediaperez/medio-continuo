@@ -26,9 +26,9 @@ SOLAMENTE MODIFIQUE EL ESTADO DE ESFUERZOS
 """
 # -----------------------------------------------------------------------------
 # Ingrese el estado de esfuerzos [Pa]. (ejemplo es sx = 5, sy = -1, txy = 4)
-sx  = 2 
-sy  = 3
-txy = -1    
+sx  = 5
+sy  = -1
+txy = -4    
 
 # -----------------------------------------------------------------------------
 # Cálculo de esfuerzos principales y ángulos.
@@ -67,11 +67,7 @@ print(f"+ Ángulo 1,             theta_1      = {t1.round(2)}  °\n")
 # Cálculos para el círculo de Mohr.
 
 # El círculo de mohr tiene dominio [0, 180°), esto lo calculo pero en radianes:
-tt = np.linspace(0, np.pi, 40)  
-"""
-Se deben colocar mínimo 100 puntos, evalúe la velocidad de graficación para 
-la animación.
-"""
+tt = np.linspace(0, np.pi, 100)  
 
 # Realizo el cálculo de las ecuaciones (2.31) y (2.32). 
 ssn_t = ( sx+sy )/2 + ( sx-sy )/2*np.cos( 2*tt ) + txy*np.sin( 2*tt )
@@ -84,16 +80,15 @@ ttn_t = txy*np.cos( 2*tt ) - ( sx-sy )/2*np.sin( 2*tt )
 plt.rcParams.update({'font.size': 14})
 #plt.rcParams["figure.figsize"] = (8,8)  # Tamaño en pulgadas.
 
-# Inicio el lienzo.
+# Inicio el lienzo y lo configuro.
 fig = plt.figure()
-plt.tight_layout()
-plt.axis("equal")       # que el eje x mida lo mismo que el eje y.
+plt.axis("equal")       # que una unidad en x mida lo mismo que en y.
 
 # Dibujo la recta que pasa por los puntos C y A.
 plt.plot((sy, sx), (-txy, txy), "--g")
 
-plt.plot(sy, -txy, "*r")  # un 1% más abajo del punto.
-plt.plot(sx, txy,  "*r")  # un 1% más arriba del punto.
+plt.plot(sy, -txy, "*r")  
+plt.plot(sx, txy,  "*r")  
 
 plt.text(sy, -txy*1.1, r"$( \sigma_y, -\tau_{xy} )=$" + f"({sy}, {-txy})")  
 plt.text(sx, txy*0.95,  r"$( \sigma_x, \tau_{xy} )=$" + f"({sx}, {txy} )")  
@@ -116,7 +111,7 @@ plt.text(s2, 0.1, r"$(\sigma_2)_{xy} = $" + f"{round(s2, 2)}")
 
 # Indico el esfuerzo cortante máximo.
 plt.plot((sx+sy)/2, tmax_xy, "*r")
-plt.text((sx+sy)/2, 1.1*tmax_xy, r"$(\tau_{max})_{xy} = $" + f"{round(tmax_xy, 4)}")
+plt.text((sx+sy)/2, 1.1*tmax_xy, r"$(\tau_{max})_{xy} = $" + f"{round(tmax_xy, 2)}")
 
 # Nombre de los ejes.
 plt.xlabel("Esfuerzo normal " + r"$\sigma_n$ [Pa]" )
