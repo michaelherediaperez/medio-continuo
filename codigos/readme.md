@@ -10,7 +10,6 @@ Códigos hechos por el profesor Diego Andrés Álvarez:
 - [Los tensores de Green-Lagrange y de Euler-Almansi](https://github.com/diegoandresalvarez/tensorial/blob/main/codigo/tensor_lagrangiano_euleriano.ipynb)
 
 
-
 ## Traducciones del main.pdf
 
 A continaución encontrará un índice para acceder a las traducción de los códigos del ```main.pdf```, que están hechos en lenguaje MAXIMA y en Matlab, a [Python](https://www.python.org/); a excepción de unos pocos, estos están en formato ```.ipynb``` porque son *Python Interactive Notebooks* o *IPython Notebooks*.
@@ -63,6 +62,7 @@ Ver [cap_03](cap_03).
 - [03_04.ipynb](cap_03/03_04.ipynb)
 
 **Ejemplos**
+- [03_00_taylor.ipynb](cap_03/03_00_taylor.ipynb)
 - [03_04_02_ejemplo.ipynb](cap_03/03_04_02_ejemplo.ipynb)
 - [03_04_03_ejemplo.ipynb](cap_03/03_04_03_ejemplo.ipynb)
 
