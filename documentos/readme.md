@@ -43,7 +43,3 @@ Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex
 ### Mecánica de sólidos
 * Trabajo opcional 2023a, Interpretación de gráficos de colores: [TrabajoOpcional_2023a.pdf](trabajos//TrabajoOpcional_2023a.pdf)
 
-## Otros
-
-Presentación de semestres anteriores:
-* [2022b](2022b)
