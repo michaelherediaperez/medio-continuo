@@ -82,6 +82,7 @@ Ver [cap_04](cap_04).
 - [04_08_03_ejemplo_DP.ipynb](cap_04/04_08_03_ejemplo_DP.ipynb)
 - [04_08_03_ejemplo_TP.ipynb](cap_04/04_08_03_ejemplo_TP.ipynb)
 - [04_09_graficos_colores.ipynb](cap_04/04_09_graficos_colores.ipynb)
+- [ejemplo-varias-aplicaciones.ipynb](cap_04/ejemplo-varias-aplicaciones.ipynb)
 
 Estos gráficos de colores son:
 
