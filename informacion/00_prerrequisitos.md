@@ -89,3 +89,12 @@ A continuación se presentan temas puntuales de cada materia y algunas fuentes p
 - [simpy](https://www.youtube.com/watch?v=1yBPEPhq54M&ab_channel=Mr.PSolver)
 - [numpy](https://www.youtube.com/watch?v=DcfYgePyedM&ab_channel=Mr.PSolver)
 - [matplotlib](https://www.youtube.com/watch?v=cTJBJH8hacc&ab_channel=Mr.PSolver)
+
+
+## Ecuaciones diferenciales (para mecánica de sólidos y mecánica de fluidos)
+
+La mayor dificultad en el área es entender el significado físico de las ecuaciones diferenciales y la dinámica que representan. Las siguientes listas de reproducción tiene unas muy buenas explicaciones sobre la interpretación de las ecuaciones diferenciales y su formulación más que de los métodos para resolverlas.
+
+**Videos**
+- [Engineering Math: Differential Equations and Dynamical Systems](https://youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA)
+- [Engineering Math: Vector Calculus and Partial Differential Equations](https://youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S)
