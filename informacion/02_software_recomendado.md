@@ -7,6 +7,7 @@ Durante el curso se hará uso de las siguientes herramientas, otras no son neces
 
 Les recomiendo:
 * Buscar dudas que tengan sobre funciones específicas en la documentación o directamente en google.
+* Repositorio con una breve nivelación en la programación con Python <https://github.com/amalvarezme/Python_Introduccion>
 * El repositorio del profesor Diego Andrés Álvarez <https://github.com/diegoandresalvarez/programaciondecomputadores>
 * El reto [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) :)
 * La guía para hacer buen código en Python, [aquí](http://web.archive.org/web/20111010053227/http://jaynes.colorado.edu/PythonGuidelines.html#module_formatting).
