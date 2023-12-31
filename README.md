@@ -67,3 +67,5 @@ o directamente usar la opción de descarga desde GitHub.
  <img width="933" height="224" src="figs/sizes-of-things.png">
 </p>
 
+Por Jacobo :)
+
