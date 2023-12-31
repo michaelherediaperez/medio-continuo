@@ -60,3 +60,10 @@ Se puede clonar el repositorio usando:
     git clone https://github.com/michaelherediaperez/medio_continuo.git
 
 o directamente usar la opción de descarga desde GitHub.
+
+## Sizes of things
+
+<p align="center">
+ <img width="933" height="224" src="figs/sizes-of-things.png">
+</p>
+
