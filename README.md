@@ -57,7 +57,7 @@ Adicionalmente, en estos repositorios se encuentra información relevante:
 
 Se puede clonar el repositorio usando:
 
-    git clone https://github.com/michaelherediaperez/medio_continuo.git
+    git clone https://github.com/michaelherediaperez/medio-continuo.git
 
 o directamente usar la opción de descarga desde GitHub.
 
