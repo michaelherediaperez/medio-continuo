@@ -15,22 +15,19 @@ Ver información sobre créditos [Créditos](informacion/credito.md)
 
 ## Índice
 
-Sobre el contenido y unidades de cada asignatura:
-
-- [Mecánica tensorial](informacion/a_contenido_tensorial.md)
-- [Mecánica de sólidos](informacion/b_contenido_solidos.md)
-
-En general:
-
 00. [Prerrequisitos](informacion/00_prerrequisitos.md)
 01. [Bibliografía y material recomendado](informacion/01_bibliografia_material.md)
 02. [Software recomendado](informacion/02_software_recomendado.md)
 03. [Sobre el main.pdf](informacion/03_sobre_el_main.md)
 04. [Calificación y evaluación](informacion/04_calificacion.md)
 05. [Recomendaciones para estudiar](informacion/05_guia_estudio.md)
-06. [La wiki](informacion/06_la_wiki.md)
-07. [Presentaciones de clase](documentos/readme.md)
-18. [Código](codigos/readme.md)
+06. [Presentaciones de clase](documentos/readme.md)
+07. [Código](codigos/readme.md)
+
+Sobre el contenido y unidades de cada asignatura:
+
+- [Mecánica tensorial](informacion/a_contenido_tensorial.md) (desactualizado)
+- [Mecánica de sólidos](informacion/b_contenido_solidos.md) (desactualizado)
 
 Adicionalmente, en estos repositorios se encuentra información relevante:
 

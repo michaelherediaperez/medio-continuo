@@ -7,7 +7,7 @@
 
 ## ¿Y cómo aplica esto a la materia?
 
-La materia es de 3 créditos.
+Si la materia es de 3 créditos:
 
 |                      | Horas/semana | Horas/mes          |
 | ---                  | :---:        | :---:              |

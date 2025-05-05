@@ -7,9 +7,10 @@ Durante las clases se hará uso de presentaciones con links de ayuda y puntos cl
 Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex/Beamer): 
 
 
-00. Presentación del curso:
-    * [00t_.pdf](diapos/00t_.pdf): presentación de Mecánica tensorial.
-    * [00s_.pdf](diapos/00s_.pdf): presentación de Mecánica de sólidos.
+00. Introducción:
+    * [00t_.pdf](diapos/00t_.pdf): presentación de Mecánica tensorial (**desactualizado**)
+    * [00s_intro_solidos.pdf](diapos/00s_intro_solidos.pdf): Introducción al curso de Mecánica de sólidos.
+    * [00s_intro_solid_mechanics.pdf](diapos/00s_intro_solid_mechanics.pdf): Introduction to solid mechanics.
 
 01. Conceptos básicos:
     * [01a_.pdf](diapos/01a_.pdf): introducción a los tensores.
@@ -38,8 +39,5 @@ Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex
     * [06z_.pdf](diapos/06z_.pdf): introducción.
 
 
-## Trabajos
 
-### Mecánica de sólidos
-* Trabajo opcional 2023a, Interpretación de gráficos de colores: [TrabajoOpcional_2023a.pdf](trabajos//TrabajoOpcional_2023a.pdf)
 
