@@ -3,23 +3,23 @@
 ## Bibliografía
 
 El libro guía del curso será:
-- Alvarez Diego A. (2023) - *Notas de clase del curso mecánica de sólidos*. En proceso de edición.
+- Alvarez Diego A. (2025) - **Notas de clase del curso mecánica de sólidos**. En proceso de edición.
 
 >**Por favor no difundir este libro hasta que no sea publicado.**
 
 
 ## Mecánica tensorial
 
-**Bibliografía básica**
+### Bibliografía básica
 
-- Alvarez, Diego A. (2023) - *Notas de clase del curso mecánica de sólidos*. En proceso de edición.
-- Alvarez, Diego A. (2023) - *Notes for a course on continiuum mechanics*. En preparación.
+- Álvarez Marín, D. (2023). Teoría de la elasticidad usando Matlab y Maxima. Volumen 1: Fundamentos. [Link repositorio UNAL](https://repositorio.unal.edu.co/handle/unal/84682). 
+- Alvarez, Diego A. (2025) - *Notes for a course on continiuum mechanics*. En preparación.
 - Lai, M., Krempl, E, Ruben, D.	(2010) - *Introduction to Continuum Mechanics*. Elsevier
 - Oliver, X., Agelet, C. (2002) - *Mecánica de Medios Continuos para Ingenieros*.
 - Bonet, J., Gil, A.J., Woods, R (2016) -* Nonlinear Solid Mechanics for Finite Element Analysis*. Cambridge.
 - Mase, G., Smelser, R.E., Mase, G.E.	(2009) - *Continuum Mechanics for Engineers*.
 
-**Videotutoriales en YouTube**
+### Videotutoriales en YouTube
 
 - [Tensor Calculus](https://youtube.com/playlist?list=PLJHszsWbB6hpk5h8lSfBkVrpjsqvUGTCx)
 - [Tensors for beginners](https://www.youtube.com/playlist?list=PLJHszsWbB6hrkmmq57lX8BV-o-YIOFsiG)  
@@ -27,9 +27,9 @@ El libro guía del curso será:
 
 ## Mecánica de sólidos
 
-**Bibliografía básica**
+### Bibliografía básica
 
-- Alvarez, Diego A. (2023) - *Notas de clase del curso mecánica de sólidos*. En proceso de edición.
+- Álvarez Marín, D. (2023). Teoría de la elasticidad usando Matlab y Maxima. Volumen 1: Fundamentos. [Link repositorio UNAL](https://repositorio.unal.edu.co/handle/unal/84682). 
 - Ameen, M. (2005) - *Computational elasticity*. Alpha Science.
 - Ortiz-Berrocal, L. (1998) - *Elasticidad*. McGraw Hill, 3rd edition.
 - Saad, M. (2005) - *Elasticity: theory, applications and numerics*. Elsevier.
@@ -38,7 +38,7 @@ El libro guía del curso será:
 - Wang, C.-T. (1953) - *Applied Elasticity*. McGraw Hill.
 
 
-**Videotutoriales en YouTube**
+### Videotutoriales en YouTube
 
 - [Diego Andrés Alvarez Marín](https://www.youtube.com/channel/UCV0FtSuauv5WbcY-lLRMZ4g)
 - [Carlos Santiuste](https://www.youtube.com/user/karlossantiuste)
@@ -58,4 +58,4 @@ El libro guía del curso será:
 - [Steven Brunton](https://www.youtube.com/@Eigensteve)
 
 
-Ver lista de reproducción en YouTUbe de: [aplicaciones de los temas](https://youtube.com/playlist?list=PLFB8R5rtkrDov9yK8WiK7-nuxuR2iAddL) con ejemplos vistos en clase. 
+Ver lista de reproducción en YouTube de: [aplicaciones de los temas](https://youtube.com/playlist?list=PLFB8R5rtkrDov9yK8WiK7-nuxuR2iAddL) con ejemplos vistos en clase. 

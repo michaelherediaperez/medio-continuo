@@ -22,19 +22,19 @@ A continuación se presentan temas puntuales de cada materia y algunas fuentes p
 - Bases
 - Planos y líneas rectas
 
-**Videotutoriales**
+### Videotutoriales
 - (lista) [A 2020 Vision of Linear Algebra, Spring 2020. Gilbert Strang, MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
 - (canal) [Álgebra Lineal Universidad Nacional de Colombia, sede Medellín](https://www.youtube.com/channel/UCsE2po3zBjPxGYMH8UWJQ6w)
 - (lista) [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-**Recursos virtuales**
+### Recursos virtuales
 - Curso de álgebra lineal de la UNAL sede Medellín, [aquí](https://ciencias.medellin.unal.edu.co/cursos/algebra-lineal/clases.html).
 
-**Libros**
-- Fundamentos de Álgebra Lineal, Notas de clase del profesor Juan Carlos Cordero (UNAL Manizales).
-- Sánchez, Rubén (2005). Fundamentos de álgebra lineal. *Identificación biblioteca: 512.5 S211f 21*
-- Sánchez, Rubén (1990). Curso básico de álgebra lineal. *Identificación biblioteca: 512.5 S211c5 21*
-- Sánchez, Rubén (1984). Curso básico de álgebra lineal. *Identificación biblioteca: 512.5 S211c 20*
+### Libros
+- **Fundamentos de Álgebra Lineal**, Notas de clase del profesor Juan Carlos Cordero (UNAL Manizales).
+- Sánchez, Rubén (2005). **Fundamentos de álgebra lineal**. *Identificación biblioteca: 512.5 S211f 21*
+- Sánchez, Rubén (1990). **Curso básico de álgebra lineal**. *Identificación biblioteca: 512.5 S211c5 21*
+- Sánchez, Rubén (1984). **Curso básico de álgebra lineal**. *Identificación biblioteca: 512.5 S211c 20*
 
 
 
@@ -49,25 +49,29 @@ A continuación se presentan temas puntuales de cada materia y algunas fuentes p
 - Regla de la cadena (se estudió en cálculo univariado y en cálculoo vectorial)
 - Campo vectorial (definición y ejemplos sencillos)
 
-**Videotutoriales**
+### Videotutoriales
 - (lista) [Essence of calculus](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 - (video) [Divergence and curl: The language of Maxwell's equations, fluid flow, and more](https://www.youtube.com/watch?v=rB83DpBJQsE&ab_channel=3Blue1Brown)
 - (lista) [Engineering Math: Vector Calculus and Partial Differential Equations. Steven Brunton, WUSTL](https://youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S)
 
-**Libros**
-* Acevedo Frias, Bernardo. *Matemáticas fundamentales para ingenieros*. [Repositorio unal](https://repositorio.unal.edu.co/bitstream/handle/unal/7173/bernardoacevedofrias.2003.pdf?sequence=1&isAllowed=y)
+### Libros
+* Acevedo Frias, Bernardo. **Matemáticas fundamentales para ingenieros**. [Repositorio unal](https://repositorio.unal.edu.co/bitstream/handle/unal/7173/bernardoacevedofrias.2003.pdf?sequence=1&isAllowed=y)
 * Colley, S. J. (2011). *Vector calculus*.
 
 
 
 ## Estática
 
-**Recursos virtuales**
+- Equilibrio de cuerpos bidimensionales y tridimensionales.
+- Momentos.
+
+### Recursos virtuales
 - Engineering Static: Open and interactive. Baker, Haynes. [link](https://engineeringstatics.org/Chapter_01.html)
 - Engineer4free: STATICS. [link](https://www.engineer4free.com/statics.html)
 
-**Libros**
-- Vector mechanics for engineers: statics. E. Russell Johnston & Ferdinand P. Beer (*en la biblioteca de la universidad hay varios volúmenes en físico y en español*)
+### Libros
+- **Vector mechanics for engineers: statics**. E. Russell Johnston & Ferdinand P. Beer (*en la biblioteca de la universidad hay varios volúmenes en físico y en español*)
+
 
 
 ## Programación de computadores
@@ -77,10 +81,10 @@ A continuación se presentan temas puntuales de cada materia y algunas fuentes p
 - Librerías básicas de Python: sympy (cálculo simbólico), numpy (cálculo algebráico) y matplotlib (graficación)
 - Jupyter
 
-**Libros**
-- Buriticá, O. I. T. (1999). *La esencia de la lógica de programación*. Universidad Tecnologica de Pereira.
+### Libros
+- Buriticá, O. I. T. (1999). **La esencia de la lógica de programación**. Universidad Tecnologica de Pereira.
 
-**Repositorios**
+### Repositorios
 - El repositorio del profesor Diego Andrés Álvarez <https://github.com/diegoandresalvarez/programaciondecomputadores>
 - El reto [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) :)
 - La guía para hacer buen código en Python, [aquí](http://web.archive.org/web/20111010053227/http://jaynes.colorado.edu/PythonGuidelines.html#module_formatting).
@@ -95,6 +99,6 @@ A continuación se presentan temas puntuales de cada materia y algunas fuentes p
 
 La mayor dificultad en el área es entender el significado físico de las ecuaciones diferenciales y la dinámica que representan. Las siguientes listas de reproducción tiene unas muy buenas explicaciones sobre la interpretación de las ecuaciones diferenciales y su formulación más que de los métodos para resolverlas.
 
-**Videos**
+### Videos
 - [Engineering Math: Differential Equations and Dynamical Systems](https://youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA)
 - [Engineering Math: Vector Calculus and Partial Differential Equations](https://youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S)
