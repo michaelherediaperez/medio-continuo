@@ -19,7 +19,7 @@ Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex
 | [04a_.pdf](diapos/04a_.pdf)                                           | Desactualizado | secciones 4.1 a 4.7                                     |
 | [04b_.pdf](diapos/04b_.pdf)                                           | Desactualizado | repaso y sección 4.8, tensión y deformación plana.      |
 | [04c_.pdf](diapos/04c_.pdf)                                           | Desactualizado | sección 4.9, Interpretación de gráficos.                |
-| [05_eqdiff.pdf](diapos/05d_eqdiff.pdf)                               | Actualizado | Ecuaciones diferenciales fundamentales de la teoría de la elasticidad |
+| [05_eqdiff.pdf](diapos/05_eqdiff.pdf)                               | Actualizado | Ecuaciones diferenciales fundamentales de la teoría de la elasticidad |
 | [06z_.pdf](diapos/06z_.pdf)                                           | Desactualizado | introducción.                                           |
 
 
