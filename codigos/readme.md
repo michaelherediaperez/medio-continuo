@@ -118,6 +118,7 @@ Ver [cap_05](cap_05).
 - [Verificación de las ecuaciones de Saint-Venant](https://github.com/jnramirezg/medio_continuo/blob/main/codigo/30-ecuaciones_saint_venant.ipynb)
 
 **Ejemplos**
+- [05_01_ejemplo.ipynb](cap_05/05_01_ejemplo.ipynb)
 - [05_08_ejemplo.ipynb](cap_05/05_08_ejemplo.ipynb)
 
 **Ejercicios**
