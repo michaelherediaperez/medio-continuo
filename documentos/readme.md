@@ -9,7 +9,7 @@ Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex
 
 ### Mecánica tensorial
 
-| Folder                                                                | Estado | Descripción                                             |  
+| Diapoisitva                                                                | Estado | Descripción                                             |  
 | ----------------------------------------------------------------------| ------ | ------------------------------------------------------- | 
 | [00t_.pdf](diapos/00t_.pdf)                                           | Desactualizado | Presentación de Mecánica tensorial              | 
 | [01a_.pdf](diapos/01a_.pdf)                                           | Desactualizado | introducción a los tensores.                    | 
@@ -21,7 +21,7 @@ Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex
 
 ### Mecánica de sólidos
 
-| Folder                                                                | Estado | Descripción                                             |  
+| Diapositiva                                                                | Estado | Descripción                                             |  
 | ----------------------------------------------------------------------| ------ | ------------------------------------------------------- | 
 | [00s_intro_solidos.pdf](diapos/00s_intro_solidos.pdf)                 | Actualizado | Introducción al curso de Mecánica de sólidos.      |
 | [00s_intro_solid_mechanics.pdf](diapos/00s_intro_solid_mechanics.pdf) | Actualizado | Introduction to solid mechanics.                   |
