@@ -30,4 +30,4 @@ Estas están hechas en $\LaTeX$ con [Beamer](https://es.overleaf.com/learn/latex
 | [05_eqdiff.pdf](diapos/05_eqdiff.pdf)                                 | Actualizado | Ecuaciones diferenciales fundamentales de la teoría de la elasticidad |
 | [06z_.pdf](diapos/06z_.pdf)                                           | Desactualizado | Introducción a coordenadas cilíndricas   |
 | [09_torsion.pdf](diapos/09_torsion.pdf)                               | Desactualizado | Torsión de ejes prismáticos |
-| [16_falla.pdf](diapos/16_falla.pdf)                                        | Desactualizado | Criterios de falla para materiales dúctiles y frágiles |
+| [16_fallas.pdf](diapos/16_fallas.pdf)                                 | Actualizado | Criterios de falla para materiales dúctiles y frágiles |
