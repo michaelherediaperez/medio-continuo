@@ -13,7 +13,7 @@ No se espera que el estudiante recuerde demostraciones formales extensas, pero s
 
 ## Taller de repaso de prerrequisitos
 
-Revise el [`taller-repaso-prerrequisitos.pdf`](.//documentos/bancos/taller-repaso-prerrequisitos.pdf), el taller:
+Revise el [taller-repaso-prerrequisitos.pdf](../documentos/bancos/taller-repaso-prerrequisitos.pdf), el taller:
 
 - Es **autónomo**
 - **No es calificable**
