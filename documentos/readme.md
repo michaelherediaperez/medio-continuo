@@ -14,7 +14,7 @@ Las presentaciones están elaboradas en $\LaTeX$ utilizando la clase
 
 | Diapositiva | Estado | Descripción |
 |------------|--------|-------------|
-| [2026a_tensorial-intro.pdf](diapos/2026a_tensorial-intro.pdf) | Actualizado | Presentación e introducción al curso de Mecánica Tensorial (2026-A) |
+| [2026a-tensorial-intro.pdf](diapos/2026a-tensorial-intro.pdf) | Actualizado | Presentación e introducción al curso de Mecánica Tensorial (2026-A) |
 | [01t_.pdf](diapos/01t_.pdf) | Actualizado | Conceptos básicos de cálculo tensorial |
 | [02_esfuerzos.pdf](diapos/02_esfuerzos.pdf) | Actualizado | Estudio de los esfuerzos en un punto |
 | [03_deformaciones.pdf](diapos/03_deformaciones.pdf) | Actualizado | Desplazamientos y deformaciones en un punto |
