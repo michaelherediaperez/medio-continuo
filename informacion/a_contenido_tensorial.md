@@ -1,76 +1,109 @@
-# Mecánica tensorial
+# Mecánica Tensorial
 
-En este curso se hará una introducción a la mecánica del medio continuo. En particular, se estudiarán los principios rectores de la mecánica de medios continuos (sólidos y fluidos) a traves de su formulación matemática por medio de tensores, en los sistemas de coordenadas espacial y material (Euler y Lagrange) y las ecuaciones fundamentales de la mecánica del medio continuo (masa, momentum, energía), de manera que se pueda comprender la formulación de toda clase de problemas de sólidos y fluidos. Se estudiarán los elementos básicos de los modelos constitutivos de Hooke, Newton y Coulomb que permiten modelar matemáticamente problemas de elasticidad, plasticidad, viscosidad, visco-elasticidad, visco-plasticidad, relajación y reptación. Se aplicarán los conceptos adquiridos a la formulación de las ecuaciones básicas de sólidos elásticos y fluidos Newtonianos.
+## Descripción general del curso
 
-Se espera que al final del curso, el estudiante esté en capacidad de:
-- Analizar y explicar como varían las tensiones y las deformaciones al interior de un sólido elástico, para pequeñas y grandes deformaciones.
-- Entender las diferentes suposiciones y limitaciones presentes en la teoría.
-- Entender la deducción y rango de aplicación de ciertas formulaciones que se aplicarán más tarde en mecánica de sólidos, de suelos, de fluidos y pavimentos.
-
-## Unidades
-
-### 0. Repaso de diferentes temas de álgebra lineal y cálculo vectorial.
->Nota: Este repaso lo debe realizar el estudiante de manera autónoma, ya que los [prerrequisitos](00_prerrequisitos.md) de la materia implican que son temas ya vistos en cursos anteriores. Si tiene dificultades comuníquese con el profesor.
+La asignatura **Mecánica Tensorial** introduce al estudiante en la formulación matemática de la mecánica del medio continuo mediante el uso del cálculo tensorial. El curso desarrolla los conceptos fundamentales necesarios para describir de manera rigurosa campos de esfuerzos, deformaciones y movimiento, tanto en la descripción espacial como en la material, constituyendo la base para cursos posteriores del área de mecánicas.
 
 
-### 1. Introducción al cálculo tensorial
-- Definición de tensor, notación indicial.
-- Álgebra de tensores: vectores y valores principales, invariantes, ortogonalidad.
-- Cálculo tensorial: gradiente, divergencia, rotacional, laplaciano.
-- Tensores de órdenes superiores
 
-### 2. Esfuerzos o tensiones
-- Fuerzas másicas y fuerzas superficiales
-- Tensor de esfuerzos de Cauchy. Principio de Cauchy.
-- Esfuerzos cortantes y normales
-- Tensor de tensiones
-- Cambio de base
-- Esfuerzos principales
-- Círculo de Mohr en 2D y 3D para esfuerzos
+## Objetivo general
 
-### 3. Desplazamientos y pequeñas deformaciones
-- Desplazamientos
-- Translación y rotación rígida
-- Deformaciones longitudinales y angulares, tensor de deformación infinitesimal.
-- Galgas extensiométricas
-- Especificación de la deformación en otras direcciones
-- Rotación
-- Deformaciones principales
-- Tensores de estiramiento y rotación.
-- Círculo de Mohr en 2D y 3D para deformaciones
+Proporcionar al estudiante las herramientas conceptuales y matemáticas del cálculo tensorial aplicadas a la mecánica del medio continuo, que le permitan formular y analizar problemas básicos de sólidos y fluidos, reconociendo los supuestos, alcances y limitaciones de los modelos utilizados.
 
-### 4. Relación entre esfuerzos y deformaciones
-- Materiales frágiles y materiales dúctiles: comportamiento elastoplástico, curva esfuerzo deformación.
-- La ley de Hooke para materiales isótropos, anisótropos y ortótropos:
-  - Los módulos de Young y Poisson.
-  - Deformación de un sólido sometido a esfuerzos normales en las direcciones x, y y z.
-  - Deformación de un sólido sometido a esfuerzos tangenciales.
-  - Ecuaciones de Lamé
-- Relación entre las direcciones principales asociadas a los esfuerzos y a las deformaciones para materiales isótropos
-- Cambios de volumen y dilatación cúbica
-- Teorema de la divergencia
-- Modelos básicos de materiales: Newton y Coulomb
-- Determinación experimental de las propiedades del material.
-- Modelación unidimensional de: elasticidad, plasticidad, viscosidad, visco-elasticidad, visco-plasticidad, relajación y reptación
 
-### 5. Desplazamientos y grandes deformaciones
-- Descripciones de Lagrange y Euler. 
-- Derivada material. 
+
+## Resultados de aprendizaje
+
+Al finalizar el curso, el estudiante estará en capacidad de:
+
+- Utilizar el formalismo tensorial para describir campos físicos relevantes en la mecánica del medio continuo.
+- Analizar estados de tensión y deformación en sólidos, considerando pequeñas y grandes deformaciones.
+- Comprender los modelos constitutivos básicos empleados en la descripción del comportamiento mecánico de los materiales.
+- Formular las ecuaciones fundamentales de conservación que gobiernan el comportamiento de los medios continuos.
+
+
+
+## Unidades temáticas
+
+### Unidad 0. Repaso de fundamentos matemáticos
+
+Repaso de conceptos de álgebra lineal y cálculo vectorial requeridos para el desarrollo del curso.
+
+> Nota: Este repaso debe ser realizado de manera autónoma por el estudiante, dado que corresponde a los [prerrequisitos](00_prerrequisitos) de la asignatura.
+
+
+
+### Unidad 1. Fundamentos matemáticos: cálculo tensorial
+
+- Definición de tensor. Notación indicial.
+- Álgebra de tensores: vectores y valores principales, invariantes y ortogonalidad.
+- Cálculo tensorial: gradiente, divergencia y rotacional.
+- Tensores de órdenes superiores.
+- Teorema de la divergencia.
+
+
+
+### Unidad 2. Análisis de tensiones
+
+- Fuerzas másicas y fuerzas superficiales.
+- Principio de Cauchy.
+- Tensiones normales y cortantes. Tensor de tensiones.
+- Cambio de base.
+- Tensiones principales.
+- Círculo de Mohr en dos y tres dimensiones para tensiones.
+
+
+
+### Unidad 3. Análisis de pequeñas deformaciones
+
+- Desplazamientos, traslación y rotación rígida.
+- Deformaciones longitudinales y angulares. Tensor de deformación infinitesimal.
+- Galgas extensiométricas y especificación de la deformación en otras direcciones.
+- Rotación, deformaciones principales y círculo de Mohr para deformaciones.
+
+
+
+### Unidad 4. Relación entre tensiones y deformaciones
+
+- Materiales elásticos y materiales plásticos.
+- Modelos básicos de materiales: Hooke, Newton y Coulomb.
+- Determinación experimental de las características del material.
+- Modelación unidimensional de:
+  - elasticidad
+  - plasticidad
+  - viscosidad
+  - viscoelasticidad
+  - viscoplasticidad
+  - relajación
+  - reptación
+
+
+
+### Unidad 5. Análisis de grandes deformaciones
+
+- Descripciones de Lagrange y Euler. Derivada material.
 - Tensor gradiente de deformación.
-- Tensores de Cauchy-Green, Cauchy-Lagrange, Euler-Almansi.
-- Descomposición polar. 
-- Tasa de deformación, tensor de giro, vector de velocidad angular.
-- Tensor gradiente de velocidad
+- Tensores de Cauchy–Green, Cauchy–Lagrange y Euler–Almansi.
+- Descomposición polar. Tasa de deformación.
+- Tensores de estiramiento y rotación.
 - Derivadas materiales de líneas, áreas y volúmenes.
-- Tensores de Piola-Kirchhoff
+- Tensores de Piola–Kirchhoff.
 
-### 6. Ecuaciones fundamentales de la mecánica de los medios continuos
-- Derivada material de integrales de línea, área y volumen
-- Movimiento, flujo y derivada material; velocidad, aceleración, líneas de traza, tasa de deformación y vorticidad.
-- Conservación de masa y ecuaciones de continuidad
-- Momentum. Ecuaciones de movimiento
-- Principio del momento del momentum
-- Potencia de esfuerzos. 
-- Ecuación de la energía.
-- Primera y segunda ley de termodinámica
-- Principio del trabajo virtual.
+
+
+### Unidad 6. Ecuaciones fundamentales de la mecánica de los medios continuos
+
+- Movimiento, flujo y derivada material; velocidad y aceleración.
+- Continuidad, momentum y energía; primera y segunda ley de la termodinámica.
+
+
+
+## Relación con las mecánicas posteriores
+
+La asignatura **Mecánica Tensorial** es un prerrequisito para las siguientes asignaturas del área de mecánicas:
+
+- **Mecánica de Sólidos**, donde el análisis de tensiones, deformaciones y relaciones constitutivas se desarrolla con mayor profundidad para sólidos.
+- **Mecánica de Fluidos**, en la cual los conceptos de campo, derivada material y ecuaciones de conservación se aplican al estudio del movimiento de fluidos.
+- **Mecánica de Suelos**, donde la formulación tensorial del estado de esfuerzos y deformaciones es fundamental para el análisis del comportamiento mecánico del suelo.
+
+Este curso proporciona el lenguaje matemático común y los fundamentos necesarios para abordar de manera rigurosa estas asignaturas.

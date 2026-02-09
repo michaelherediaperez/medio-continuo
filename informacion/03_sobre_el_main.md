@@ -1,10 +1,8 @@
-# Notas de clase.
+# Notas de clase
 
-El **main.pdf** será un día un libro sobre **teoría de la elasticidad**. Por el momento son simplemente unas notas de clase. Se les sugiere de todos modos mirar la bibliografía recomendada al final del libro.  El documento fue hecho en utilizando [LaTeX](http://tug.org/begin.html) e [Inkscape](http://www.inkscape.org/) todo bajo [GNU/Linux](http://www.debian.org) (software 100% libre).
+El **main.pdf** corresponde a las notas de clase utilizadas como material base en las asignaturas del área de mecánicas. Estas notas recogen los desarrollos teóricos, formulaciones y ejemplos trabajados a lo largo del curso.
 
->Por favor, tenga en cuenta que el uso de este PDF es netamente personal y queda prohibida su difusión pública a través de internet. Por lo tanto se ruega no subirlo a sitios como scribd, slideshare, rapidshare, etc. o compartirlo con personas ajenas a la Universidad Nacional.
+El documento **no reemplaza** los textos de la bibliografía recomendada. Se sugiere utilizarlo como guía principal de clase y complementar su estudio con los libros y recursos adicionales indicados en el repositorio.
 
-
-## ¿LaTeX?
-
-Diríjase a la sección [software recomendado](../informacion/03_software_recomendado.md).  
+> El uso de este documento es estrictamente académico y personal.  
+> Está prohibida su difusión pública o su publicación en plataformas externas a la Universidad Nacional de Colombia, así como su distribución a personas ajenas a la institución.

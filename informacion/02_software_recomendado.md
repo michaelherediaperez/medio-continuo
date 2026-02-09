@@ -1,6 +1,6 @@
 # Software recomendado 
 
-Durante el curso se hará uso de las siguientes herramientas, otras no son necesarias pero si de gran utilidad.
+Durante el curso se hará uso de algunas de las siguientes herramientas. Otras no son estrictamente necesarias, pero pueden resultar de gran utilidad como apoyo al aprendizaje.
 
 ## Python
 [Python](https://www.python.org/) es un lenguaje de programación libre, creado como un pasatiempo navideño y que al día de hoy, es uno de los lenguajes más empleados y universales en el mundo. Para escribir código con Python lo haremos con cuadernos interactivos hechos en [Google Colab](https://colab.research.google.com/?hl=es), aunque es solo una recomendación.
@@ -65,7 +65,7 @@ fuente: <https://www.researchgate.net/post/Why_LaTex_is_better_choice_than_Micro
 
 ## ¿GitHub?
 
-Este repositorio funcioa en [git](https://git-scm.com/), git es el sistema de versión de controles más utilizado en el mudno según la [stackoverflow survey 2022](https://survey.stackoverflow.co/2022/#technology-version-control), permite gestionar diferentes estados de un proyeto generalmente de código, en este caso: el curso de sólidos. 
+Este repositorio funcioa en [git](https://git-scm.com/), git es el sistema de control de versiones más utilizado en el mundo según la [stackoverflow survey 2022](https://survey.stackoverflow.co/2022/#technology-version-control). Permite gestionar diferentes estados de un proyeto generalmente de código, en este caso: el material de las clases. 
 
 Donde estamos parados es [GitHub](), es una interfaz web (hosting de internet) para visualizar repositorios creados con git.
 

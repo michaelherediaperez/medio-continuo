@@ -1,104 +1,140 @@
 # Prerrequisitos
 
-Para ambas materias, cada estudiante debería tener frescos algunos conceptos en las siguientes áreas: álgebra lineal, cálculo vectorial, estática y programación de computadores. 
+Las asignaturas **Mecánica Tensorial** y **Mecánica de Sólidos 1** requieren que el estudiante tenga bases sólidas en algunas áreas fundamentales de matemáticas, física y programación. Estos conocimientos se asumen como **prerrequisitos**, por lo que no serán desarrollados nuevamente en clase.
 
-No hago referencia a demostraciones detalladas de teoremas o algoritmos, pero si que el estudiante reconozca el concepto, sepa explicarlo y motivarlo si es del caso, y que esté en capacidad de resolver pequeños problemas aplicando dichos conceptos. 
+No se espera que el estudiante recuerde demostraciones formales extensas, pero sí que:
+- Reconozca los conceptos fundamentales,
+- Sea capaz de explicarlos de manera cualitativa,
+- Pueda aplicarlos en la resolución de problemas sencillos.
 
->RECOMENDACIÓN: Autoevalúece para saber a qué le debe prestar más atención al momento de repasar, ya tiene unos conocimientos previos y no está comenzando desde cero.
-
-A continuación se presentan temas puntuales de cada materia y algunas fuentes para repasar.
-
-## Álgebra lineal
-
-- Cosenos directores
-- Proyección de vectores
-- Producto punto, producto cruz (con todas las propiedades que aparecen en el apéndice de las notas)
-- Norma de un vector
-- Matrices
-- Determinantes
-- Valores y vectores propios
-- Espacios vectoriales
-- Vectores linealmente dependientes/independientes
-- Bases
-- Planos y líneas rectas
-
-### Videotutoriales
-- (lista) [A 2020 Vision of Linear Algebra, Spring 2020. Gilbert Strang, MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
-- (canal) [Álgebra Lineal Universidad Nacional de Colombia, sede Medellín](https://www.youtube.com/channel/UCsE2po3zBjPxGYMH8UWJQ6w)
-- (lista) [Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
-
-### Recursos virtuales
-- Curso de álgebra lineal de la UNAL sede Medellín, [aquí](https://ciencias.medellin.unal.edu.co/cursos/algebra-lineal/clases.html).
-
-### Libros
-- **Fundamentos de Álgebra Lineal**, Notas de clase del profesor Juan Carlos Cordero (UNAL Manizales).
-- Sánchez, Rubén (2005). **Fundamentos de álgebra lineal**. *Identificación biblioteca: 512.5 S211f 21*
-- Sánchez, Rubén (1990). **Curso básico de álgebra lineal**. *Identificación biblioteca: 512.5 S211c5 21*
-- Sánchez, Rubén (1984). **Curso básico de álgebra lineal**. *Identificación biblioteca: 512.5 S211c 20*
+> Recomendación: realice una autoevaluación honesta para identificar los temas que requieren mayor repaso. El curso no inicia desde cero.
 
 
 
-## Cálculo univariado y multivariado
+## Taller de repaso de prerrequisitos
 
-- Gradiente
-- Matriz jacobiana y jacobiano
-- Divergencia
-- Rotacional
-- Diferenciales (se estudió en cálculo vectorial)
-- Expansión en series de Taylor (univariada y multivariada)
-- Regla de la cadena (se estudió en cálculo univariado y en cálculoo vectorial)
-- Campo vectorial (definición y ejemplos sencillos)
+Revise el [`taller-repaso-prerrequisitos.pdf`](.//documentos/bancos/taller-repaso-prerrequisitos.pdf), el taller:
 
-### Videotutoriales
-- (lista) [Essence of calculus](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
-- (video) [Divergence and curl: The language of Maxwell's equations, fluid flow, and more](https://www.youtube.com/watch?v=rB83DpBJQsE&ab_channel=3Blue1Brown)
-- (lista) [Engineering Math: Vector Calculus and Partial Differential Equations. Steven Brunton, WUSTL](https://youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S)
+- Es **autónomo**
+- **No es calificable**
+- Contiene preguntas orientadas a que el estudiante evalúe su nivel en los prerrequisitos del curso
+- Está diseñado como una **herramienta de diagnóstico y repaso**, no como un examen
 
-### Libros
-* Acevedo Frias, Bernardo. **Matemáticas fundamentales para ingenieros**. [Repositorio unal](https://repositorio.unal.edu.co/bitstream/handle/unal/7173/bernardoacevedofrias.2003.pdf?sequence=1&isAllowed=y)
-* Colley, S. J. (2011). *Vector calculus*.
+Se recomienda realizarlo antes de avanzar de manera formal en los contenidos del curso.
 
 
 
-## Estática
+## Áreas y temas de repaso
 
-- Equilibrio de cuerpos bidimensionales y tridimensionales.
-- Momentos.
+### Álgebra lineal
 
-### Recursos virtuales
-- Engineering Static: Open and interactive. Baker, Haynes. [link](https://engineeringstatics.org/Chapter_01.html)
-- Engineer4free: STATICS. [link](https://www.engineer4free.com/statics.html)
+| Tema | Descripción |
+|--|-|
+| Cosenos directores | Dirección de vectores en el espacio |
+| Proyección de vectores | Proyección sobre líneas y planos |
+| Producto punto y cruz | Definición, propiedades y aplicaciones |
+| Norma de un vector | Magnitud y significado geométrico |
+| Matrices y determinantes | Operaciones básicas y propiedades |
+| Valores y vectores propios | Interpretación geométrica y física |
+| Espacios vectoriales | Definición y ejemplos |
+| Dependencia e independencia lineal | Criterios básicos |
+| Bases | Cambio de base |
+| Rectas y planos | Representación analítica |
 
-### Libros
-- **Vector mechanics for engineers: statics**. E. Russell Johnston & Ferdinand P. Beer (*en la biblioteca de la universidad hay varios volúmenes en físico y en español*)
+**Recursos recomendados**
+
+| Tipo | Enlace |
+|--|-|
+| Videotutorial | [A 2020 Vision of Linear Algebra – G. Strang (MIT)](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek) |
+| Videotutorial | [Álgebra Lineal – UNAL Medellín](https://www.youtube.com/channel/UCsE2po3zBjPxGYMH8UWJQ6w) |
+| Videotutorial | [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) |
+| Curso UNAL | [Curso de Álgebra Lineal – UNAL Medellín](https://ciencias.medellin.unal.edu.co/cursos/algebra-lineal/clases.html) |
+
+**Libros**
+- *Fundamentos de Álgebra Lineal*, Juan Carlos Cordero (UNAL Manizales).
+- Sánchez, R. **Fundamentos de álgebra lineal**.
+- Sánchez, R. **Curso básico de álgebra lineal**.
 
 
 
-## Programación de computadores
-- Tipos de datos
-- Estructuras de control
-- Uso de librerías.
-- Librerías básicas de Python: sympy (cálculo simbólico), numpy (cálculo algebráico) y matplotlib (graficación)
-- Jupyter
+### Cálculo univariado y multivariado
 
-### Libros
-- Buriticá, O. I. T. (1999). **La esencia de la lógica de programación**. Universidad Tecnologica de Pereira.
+| Tema | Descripción |
+|--|-|
+| Gradiente | Interpretación geométrica |
+| Jacobiano | Matriz jacobiana y determinante |
+| Divergencia | Significado físico |
+| Rotacional | Interpretación geométrica |
+| Diferenciales | Aproximaciones locales |
+| Series de Taylor | Univariadas y multivariadas |
+| Regla de la cadena | Aplicaciones |
+| Campos vectoriales | Definición y ejemplos |
 
-### Repositorios
-- El repositorio del profesor Diego Andrés Álvarez <https://github.com/diegoandresalvarez/programaciondecomputadores>
-- El reto [30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python) :)
-- La guía para hacer buen código en Python, [aquí](http://web.archive.org/web/20111010053227/http://jaynes.colorado.edu/PythonGuidelines.html#module_formatting).
+**Recursos recomendados**
+
+| Tipo | Enlace |
+|--|-|
+| Videotutorial | [Essence of Calculus](https://youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr) |
+| Video | [Divergence and Curl – 3Blue1Brown](https://www.youtube.com/watch?v=rB83DpBJQsE) |
+| Videotutorial | [Vector Calculus and PDE – S. Brunton](https://youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S) |
+
+**Libros**
+- Acevedo Frías, B. *Matemáticas fundamentales para ingenieros*.
+- Colley, S. J. *Vector Calculus*.
+
+
+
+### Estática
+
+| Tema | Alcance esperado |
+|--|--|
+| Equilibrio | Cuerpos en dos y tres dimensiones |
+| Momentos de área | Momento de inercia, producto de inercia y significado físico |
+
+
+**Recursos recomendados**
+
+| Tipo | Enlace |
+|--|-|
+| Recurso interactivo | [Engineering Statics](https://engineeringstatics.org/Chapter_01.html) |
+| Curso abierto | [Engineer4Free – Statics](https://www.engineer4free.com/statics.html) |
+
+**Libro**
+- Beer & Johnston, *Vector Mechanics for Engineers: Statics*.
+
+
+
+### Programación de computadores
+
+| Tema | Alcance esperado |
+|--|--|
+| Tipos de datos | Variables numéricas y lógicas |
+| Estructuras de control | Condicionales y ciclos |
+| Uso de librerías | Importación y uso básico |
+| Python | Uso introductorio de `numpy`, `sympy` y `matplotlib` |
+| Jupyter | Trabajo con notebooks |
+
+**Recursos**
+
+| Tipo | Enlace |
+|--|-|
+| Repositorio | <https://github.com/diegoandresalvarez/programaciondecomputadores> |
+| Repositorio | [30 Days of Python](https://github.com/Asabeneh/30-Days-Of-Python) |
+| Guía | [Python Style Guidelines](http://web.archive.org/web/20111010053227/http://jaynes.colorado.edu/PythonGuidelines.html#module_formatting) |
 
 **Videos**
-- [simpy](https://www.youtube.com/watch?v=1yBPEPhq54M&ab_channel=Mr.PSolver)
-- [numpy](https://www.youtube.com/watch?v=DcfYgePyedM&ab_channel=Mr.PSolver)
-- [matplotlib](https://www.youtube.com/watch?v=cTJBJH8hacc&ab_channel=Mr.PSolver)
+- `sympy`, `numpy`, `matplotlib` (Mr. P Solver)
 
 
-## Ecuaciones diferenciales (para mecánica de sólidos y mecánica de fluidos)
 
-La mayor dificultad en el área es entender el significado físico de las ecuaciones diferenciales y la dinámica que representan. Las siguientes listas de reproducción tiene unas muy buenas explicaciones sobre la interpretación de las ecuaciones diferenciales y su formulación más que de los métodos para resolverlas.
+### Ecuaciones diferenciales  
+*(especialmente relevantes para Mecánica de Sólidos y Mecánica de Fluidos)*
 
-### Videos
-- [Engineering Math: Differential Equations and Dynamical Systems](https://youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA)
-- [Engineering Math: Vector Calculus and Partial Differential Equations](https://youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S)
+El énfasis no está en los métodos de solución, sino en la **interpretación física** de las ecuaciones diferenciales y la dinámica que describen.
+
+**Recursos recomendados**
+
+| Tipo | Enlace |
+|--|-|
+| Videotutorial | [Differential Equations and Dynamical Systems – S. Brunton](https://youtube.com/playlist?list=PLMrJAkhIeNNTYaOnVI3QpH7jgULnAmvPA) |
+| Videotutorial | [Vector Calculus and PDE – S. Brunton](https://youtube.com/playlist?list=PLMrJAkhIeNNQromC4WswpU1krLOq5Ro6S) |

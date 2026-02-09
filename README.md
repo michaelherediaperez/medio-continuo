@@ -1,46 +1,73 @@
-# Mecánica del medio continuo: elasticidad
+# Mecánica del medio continuo
 
 <p align="center">
  <img width="600" height="300" src="figs/main_punto.png">
 </p>
 
+Este repositorio contiene el material académico de las asignaturas del área de mecánicas del medio continuo dictadas en la **Universidad Nacional de Colombia – Sede Manizales**. Aquí se encuentran notas de clase, presentaciones, códigos de apoyo y documentación académica relevante para el desarrollo de los cursos.
 
-## Cursos
 
-En la [Universidad Nacional de Colombia sede Manizales](https://www.manizales.unal.edu.co/):
-- **4200687 - MECÁNICA TENSORIAL** (4 créditos)
-- **4100611 - MECÁNICA DE SÓLIDOS** (3 créditos)
 
-Ver información sobre créditos [Créditos](informacion/credito.md)
+## Asignaturas
 
-## Índice
+- **4200687 – Mecánica Tensorial** (4 créditos)  
+- **4100611 – Mecánica de Sólidos 1** (3 créditos)
 
-00. [Prerrequisitos](informacion/00_prerrequisitos.md)
-01. [Bibliografía y material recomendado](informacion/01_bibliografia_material.md)
-02. [Software recomendado](informacion/02_software_recomendado.md)
-03. [Sobre el main.pdf](informacion/03_sobre_el_main.md)
-04. [Calificación y evaluación](informacion/04_calificacion.md)
-05. [Recomendaciones para estudiar](informacion/05_guia_estudio.md)
-06. [Presentaciones de clase](documentos/readme.md)
-07. [Código](codigos/readme.md)
+Ambas asignaturas tienen continuidad conceptual y constituyen la base para cursos posteriores como Mecánica de Sólidos 2, Mecánica de Fluidos, Mecánica de Suelos, Elementos Finitos y Métodos Numéricos.
 
-Sobre el contenido y unidades de cada asignatura:
+Información sobre créditos académicos puede consultarse en:  
+[Créditos](informacion/credito.md)
 
-- [Mecánica tensorial](informacion/a_contenido_tensorial.md) (desactualizado)
-- [Mecánica de sólidos](informacion/b_contenido_solidos.md) (desactualizado)
 
-Adicionalmente, en estos repositorios se encuentra información relevante:
 
-* Mecánica de sólidos: <https://github.com/diegoandresalvarez/solidos>
-* Mecánica tensorial: <https://github.com/diegoandresalvarez/tensorial>
+## Organización del repositorio
 
-## Descargar el material
+El repositorio se encuentra organizado en las siguientes secciones principales:
 
-Se puede clonar el repositorio usando:
+### Información general del curso
 
-    git clone https://github.com/michaelherediaperez/medio-continuo.git
+La carpeta `informacion/` contiene documentos académicos y administrativos que definen el contexto del curso, los prerrequisitos, la metodología de evaluación y recomendaciones generales para el estudio.
 
-o directamente usar la opción de descarga desde GitHub.
+- [Prerrequisitos](informacion/00_prerrequisitos.md)
+- [Bibliografía y material recomendado](informacion/01_bibliografia_material.md)
+- [Software recomendado](informacion/02_software_recomendado.md)
+- [Sobre las notas de clase (main.pdf)](informacion/03_sobre_el_main.md)
+- [Calificación y evaluación](informacion/04_calificacion.md)
+- [Guía de estudio](informacion/05_guia_estudio.md)
+
+Se recomienda leer esta información **al inicio del semestre**.
+
+
+
+### Contenido de las asignaturas
+
+La descripción oficial de los contenidos y el alcance de cada curso se encuentra en los siguientes documentos:
+
+- [Mecánica Tensorial – Contenido del curso](informacion/a_contenido_tensorial.md)
+- [Mecánica de Sólidos 1 – Contenido del curso](informacion/b_contenido_solidos.md)
+
+
+
+### Material académico
+
+- [Presentaciones de clase](documentos/readme.md)  
+- [Códigos de apoyo](codigos/readme.md)
+
+En estas carpetas se encuentran las diapositivas, ejemplos computacionales y material complementario utilizado durante el semestre.
+
+
+
+## Descarga del material
+
+El repositorio puede clonarse mediante:
+
+```bash
+git clone https://github.com/michaelherediaperez/medio-continuo.git
+```
+
+También es posible descargar el contenido directamente desde la interfaz web de GitHub.
+
+
 
 ## Sizes of things
 
@@ -50,8 +77,11 @@ o directamente usar la opción de descarga desde GitHub.
 
 Por Jacobo :)
 
-## Profesor
-Michael Heredia Pérez. Ing, Esp, MSc (c)
-- [mherediap@unal.edu.co](mherediap@unal.edu.co)
-- [LinkedIn](www.linkedin.com/in/michael-heredia-perez)
 
+
+## Profesor
+
+**Michael Heredia Pérez**
+
+- Correo institucional: [mherediap@unal.edu.co](mailto:mherediap@unal.edu.co)  
+- LinkedIn: https://www.linkedin.com/in/michael-heredia-perez

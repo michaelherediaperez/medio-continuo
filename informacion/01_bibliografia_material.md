@@ -3,7 +3,7 @@
 ## Bibliografía
 
 El libro guía del curso será:
-- Alvarez Diego A. (2025) - **Notas de clase del curso mecánica de sólidos**. En proceso de edición.
+- Alvarez Diego A. (2026) - **Notas de clase del curso mecánica de sólidos**. En proceso de edición.
 
 >**Por favor no difundir este libro hasta que no sea publicado.**
 
@@ -13,7 +13,7 @@ El libro guía del curso será:
 ### Bibliografía básica
 
 - Álvarez Marín, D. (2023). Teoría de la elasticidad usando Matlab y Maxima. Volumen 1: Fundamentos. [Link repositorio UNAL](https://repositorio.unal.edu.co/handle/unal/84682). 
-- Alvarez, Diego A. (2025) - *Notes for a course on continiuum mechanics*. En preparación.
+- Alvarez, Diego A. (2026) - *Notes for a course on continuum mechanics*. En preparación.
 - Lai, M., Krempl, E, Ruben, D.	(2010) - *Introduction to Continuum Mechanics*. Elsevier
 - Oliver, X., Agelet, C. (2002) - *Mecánica de Medios Continuos para Ingenieros*.
 - Bonet, J., Gil, A.J., Woods, R (2016) -* Nonlinear Solid Mechanics for Finite Element Analysis*. Cambridge.

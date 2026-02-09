@@ -1,110 +1,144 @@
 # Calificación y Evaluación
 
-La materia se evaluará mediante exámenes escritos individuales, que se realizarán dentro del horario de clase. Cada examen tendrá una calificación máxima de acuerdo con el sistema de calificación de la Universidad.
+Las asignaturas **Mecánica Tensorial** y **Mecánica de Sólidos 1** se evaluarán mediante exámenes escritos individuales y quices cortos, realizados dentro del horario de clase. La evaluación estará orientada a verificar la comprensión conceptual, la capacidad de análisis y la correcta interpretación física de las formulaciones matemáticas estudiadas.
 
-Los exámenes estarán enfocados en los fundamentos teóricos de la asignatura y evaluarán principalmente las capacidades interpretativas y argumentativas del estudiantado. El énfasis estará en la comprensión y el desarrollo de ecuaciones, así como en el análisis de las hipótesis bajo las cuales una formulación resulta válida y aplicable.
-
-Cada examen constará de un máximo de dos preguntas, seleccionadas a criterio exclusivo del profesor.
-
-Serán objeto de evaluación todos los temas tratados en clase, así como aquellos definidos como de estudio autónomo. Esto incluye cualquier contenido abordado oralmente, publicado en los medios de comunicación académicos del curso (como el repositorio), material complementario, lecturas asignadas, fragmentos de código, entre otros.
-
-Previo a cada examen se especificará el contenido correspondiente, con el fin de que el estudiante pueda organizar adecuadamente su plan de estudio.
-
-Para encontrar **material de ayuda**, diríjase a:
-* [02. Bibliografía y material recomendado](02_bibliografia_material.md)
-* [06. Guía de estudio](06_guia_estudio.md)
+El énfasis de la evaluación estará en:
+- La comprensión de los fundamentos teóricos.
+- El desarrollo y análisis de ecuaciones.
+- La identificación de las hipótesis y limitaciones de cada formulación.
 
 
-## Fechas y porcentajes de los exámenes.
-Se realizarán 3 exámenes y serán de obligatoria resolución.  
+## Método de evaluación
 
-| Actividad | Tipo        | Porcentaje | Fecha              |
-| ---       | ---         | ---        | ---                |
-| Examen 01 | Obligatorio | 33%        | Viernes, 30 de mayo de 2025 |
-| Examen 02 | Obligatorio | 33%        | Viernes, 27 de junio de 2025|
-| Examen 03 | Obligatorio | 34%        | Viernes, 25 de julio de 2025|
+### Exámenes
+
+- Se realizarán **tres (3) exámenes** por asignatura.
+- Cada examen tendrá un valor del **30 %** de la nota final.
+- Cada examen constará de **máximo dos (2) preguntas**, definidas a criterio del profesor, las cuales podrán o no tener subpuntos.
+- Los exámenes se desarrollarán durante **un bloque completo de clase**.
+- Los temas evaluados corresponderán a los contenidos vistos desde el examen anterior hasta la semana previa a la fecha del examen. Para el primer examen, el contenido será desde el inicio del curso.
 
 
-A grandes rasgos, los temás a evaluar en cada uno de ellos serán los vistos entre el examen previo y la semana anterior a la respectiva fecha. Para el primer examen será desde el inicio del curso.  
+### Quices
+
+- Se realizarán **quices sorpresa** a lo largo del semestre.
+- El promedio de los quices corresponderá al **10 %** de la nota final.
+- Cada quiz constará de **una única pregunta**, con respuesta puntual.
+- El tiempo máximo para su resolución será de **diez (10) minutos**, contados a partir de su inicio.
+
+
+
+## Fechas de los exámenes
+
+Las fechas de los exámenes se definen durante las primeras semanas del semestre y, **a partir de la segunda semana de clases**, se consideran **inmodificables**, salvo que ocurran eventos de fuerza mayor debidamente justificados y evaluados por el profesor.
+
+
+### Mecánica Tensorial – Grupo 1
+
+| Examen | Fecha |
+|------|------|
+| Examen 1 | Jueves 12 de marzo de 2026 |
+| Examen 2 | Jueves 16 de abril de 2026 |
+| Examen 3 | Jueves 21 de mayo de 2026 |
+
+
+### Mecánica Tensorial – Grupo 2
+
+| Examen | Fecha |
+|------|------|
+| Examen 1 | Miércoles 11 de marzo de 2026 |
+| Examen 2 | Miércoles 15 de abril de 2026 |
+| Examen 3 | Miércoles 20 de mayo de 2026 |
+
+
+### Mecánica de Sólidos 1 – Grupo 1
+
+| Examen | Fecha |
+|------|------|
+| Examen 1 | Viernes 13 de marzo de 2026 |
+| Examen 2 | Viernes 17 de abril de 2026 |
+| Examen 3 | Viernes 22 de mayo de 2026 |
+
+
+### Mecánica de Sólidos 1 – Grupo 2
+
+| Examen | Fecha |
+|------|------|
+| Examen 1 | Jueves 12 de marzo de 2026 |
+| Examen 2 | Jueves 22 de abril de 2026 |
+| Examen 3 | Jueves 21 de mayo de 2026 |
 
 
 ## Indicaciones generales para la realización de exámenes
 
-Con el fin de garantizar condiciones de equidad y transparencia durante la evaluación, se deberán seguir estrictamente las siguientes normas. El incumplimiento de cualquiera de estas prohibiciones invalidará al estudiante para presentar el examen o conllevará a su anulación.
+Con el fin de garantizar condiciones de equidad y transparencia durante la evaluación, se deberán seguir estrictamente las siguientes normas. El incumplimiento de cualquiera de estas disposiciones podrá dar lugar a la anulación del examen.
 
 
-### 1. Prohibiciones durante el examen
+### Prohibiciones durante el examen
 
-Durante todo el desarrollo del examen, está terminantemente prohibido:
+Durante el desarrollo del examen está estrictamente prohibido:
 
-* Utilizar **equipos electrónicos** de cualquier tipo: calculadoras, celulares, tablets, computadores, relojes inteligentes, audífonos u otros dispositivos similares.
-* Consultar **material académico**: cuadernos, apuntes, libros, resúmenes, hojas de fórmulas o de comandos, entre otros.
-* Portar **cartucheras, estuches o portalápices** sobre el pupitre.
-
-
-### 2. Material permitido
-
-Únicamente se permitirá tener sobre el pupitre los siguientes elementos:
-
-* Lapicero
-* Lápiz o portaminas
-* Borrador
-* Sacapuntas
-* Corrector líquido o en cinta
-
-No se permitirá el préstamo de útiles entre estudiantes durante la prueba.
-
-### 3. Organización en el aula
-
-* Los **morrales y bolsos** deberán ubicarse **al frente del salón**, debajo del tablero, antes de iniciar el examen.
-* Los **celulares deberán estar apagados** y guardados dentro del morral durante toda la jornada de evaluación.
-* Los estudiantes deberán ocupar los **puestos asignados por el profesor**, quien llevará registro de la distribución.
-
-### 4. Material del examen
-
-* El profesor proporcionará todas las **hojas necesarias para el desarrollo del examen**. No se admitirán hojas traídas por los estudiantes. Al momento de calificar no se tendrán en cuenta hojas diferentes a las distribuidas por el profesor.
+- Utilizar **equipos electrónicos** de cualquier tipo: calculadoras, celulares, tablets, computadores, relojes inteligentes, audífonos u otros dispositivos similares.
+- Consultar **material académico**: cuadernos, apuntes, libros, resúmenes, hojas de fórmulas o material impreso o digital.
+- Portar **cartucheras, estuches o portalápices** sobre el pupitre.
 
 
-## Consideraciones generales
+### Material permitido
 
-### Duración y Horarios
-La actividad evaluativa se realizará en horario de clase y se les dedicará **un bloque completo** de clase. 
+Únicamente se permitirá tener sobre el pupitre:
 
-### Fechas
-Las fechas para los exámenes se presentarán máximo la segunda semana de clases y **serán inmodificables**, a no ser que por causas de fuerza mayor deban reagendarze **o por poco avance en los temas según el criterio del profesor**. 
+- Lapicero **negro**
+- Lápiz o portaminas **negro**
+- Borrador
+- Sacapuntas
+- Corrector líquido o en cinta
 
->El estudiante debe prepararse constantemente para cada examen y no dejarlo para la última semana, pues esta debe ser para solución de dudas y repaso de los temas de mayor complejidad.
-
->Se entiende por **eventos de causa de fuerza mayor** aquellos que son inevitables, imprevisibles y extraordinarios de conformidad con el sentido común, es decir: desastres naturales, inhabilidades de transporte o ingreso a la universidad, acciones administrativas, paros, etc.
-
-
-### Falta a los exámenes
-Toda inasistencia a un examen deberá ser justificada con el **soporte documental correspondiente**, el cual será evaluado por el profesor para determinar si procede la exoneración.
-
-En caso de presentarse una situación de fuerza mayor que impida la asistencia al examen, el estudiante deberá **informar al profesor con antelación**, a través del correo electrónico institucional.
-
-La justificación deberá estar respaldada, en lo posible, con documentos formales como:
-
-- Excusa médica
-- Tiquetes de transporte
-- Invitación oficial a eventos académicos o institucionales
-- Cualquier otro soporte válido que justifique la ausencia
-
-La ausencia no justificada será considerada como falta al examen, y se aplicarán las disposiciones correspondientes según el reglamento académico.
+No se permitirá el préstamo de útiles entre estudiantes durante el examen.
 
 
-### Calidad de las respuestas del examen.
-En todos los exámenes se debe relacionar con palabras las fórmulas y motivar físicamente el porqué de un procedimiento o fórmula. Las explicaciones no deben ser transcripciones del libro, lo que se espera es que sean lo más claras posibles para que no quede ningún concepto en duda o puesto *porque si*. 
+### Organización en el aula
 
->Ejemplo 1: si se pide explicar "qué es un problema de valores propios", hay que tener en cuenta que no se puede entrar a definir un "valor propio" o un "vector propio" sin antes definir la ecuación de la cual vienen, igualmente, este es un concepto con un significado matemático y otro geométrico o físico según se entienda, los cuales son necesarios para una explicación completa. Por otro lado, hay una motivación o una pregunta inicial que nos lleva a plantear un problema de valores y vectores propios, ¿cuál es?
-
->Ejemplo 2: si se pide "calcular los vectores propios asociados a una matriz", no basta con reemplazar valores en las fórmulas conocidas y presentar un resultado, ya que eso un programa de computo lo puede hacer, se espera que el estudiante explique el procedimiento que está realizando y las deciciones que toma al operar, ¿cómo le explicaría a alguien más la forma de resolver el ejercicio?
-
+- Los **morrales y bolsos** deberán ubicarse al frente del salón, debajo del tablero, antes de iniciar el examen.
+- Los **celulares deberán permanecer apagados** y guardados dentro del morral durante toda la evaluación.
+- Los estudiantes deberán ocupar los **puestos asignados por el profesor**, quien llevará registro de la distribución en el aula.
 
 
-# Fraude en los mecánismos evaluativos
+### Material del examen
 
-El fraude se penalizará así:
+- El profesor proporcionará todas las **hojas necesarias** para el desarrollo del examen.
+- No se admitirán hojas traídas por los estudiantes.
+- Al momento de calificar, **solo se tendrán en cuenta** las hojas suministradas por el profesor.
 
-- Nota cero (0) en el trabajo/examen en cuestión. Si es en un quiz, todos los quices siguientes, anteriores y en cuestión tendrán nota cero (0).
-- Carta a la Dirección del Departamento de Ingeniería Civil reportando el suceso.
+
+## Consideraciones adicionales
+
+### Inasistencia a los exámenes
+
+Toda inasistencia deberá ser justificada mediante **soporte documental**, el cual será evaluado por el profesor para determinar si procede o no la exoneración.
+
+En caso de fuerza mayor, el estudiante deberá **informar con antelación** al profesor a través del correo electrónico institucional.
+
+Ejemplos de soportes válidos incluyen, entre otros:
+- Incapacidad médica
+- Tiquetes o certificados de transporte
+- Invitaciones oficiales a eventos académicos, institucionales o familiares.
+
+La inasistencia no justificada será considerada como falta al examen y se aplicarán las disposiciones correspondientes según el reglamento académico vigente.
+
+
+### Calidad de las respuestas
+
+En todos los exámenes se espera que el estudiante:
+- Explique con palabras las fórmulas utilizadas.
+- Justifique físicamente los procedimientos realizados.
+- Evite respuestas del tipo “porque sí” o transcripciones literales de libros.
+
+El énfasis estará en la **claridad conceptual** y en la capacidad de comunicar el razonamiento seguido.
+
+
+## Fraude en los mecanismos evaluativos
+
+El fraude en cualquier actividad evaluativa será sancionado de la siguiente manera:
+
+- Nota **cero (0)** en el examen, quiz o actividad correspondiente.  
+- Comunicación formal del caso a la **Dirección del Departamento de Ingeniería Civil**.
