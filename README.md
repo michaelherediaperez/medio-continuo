@@ -32,7 +32,7 @@ La carpeta `informacion/` contiene documentos académicos y administrativos que 
 - [Sobre las notas de clase (main.pdf)](informacion/03_sobre_el_main.md)
 - [Calificación y evaluación](informacion/04_calificacion.md)
 - [Guía de estudio](informacion/05_guia_estudio.md)
-- [Sobre el uso de la IA como herramienta de estudio](06_sobre_ia.md) 
+- [Sobre el uso de la IA como herramienta de estudio](informacion/06_sobre_ia.md) 
 
 Se recomienda leer esta información **al inicio del semestre**.
 
