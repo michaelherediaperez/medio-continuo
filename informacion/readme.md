@@ -9,8 +9,6 @@ Los archivos aquí contenidos **no corresponden a material teórico de clase**, 
 
 Se recomienda a los estudiantes **leer cuidadosamente estos documentos al inicio del semestre** y consultarlos cuando sea necesario a lo largo del curso.
 
----
-
 ## Contenido de la carpeta
 
 | Archivo | Descripción |
@@ -21,8 +19,8 @@ Se recomienda a los estudiantes **leer cuidadosamente estos documentos al inicio
 | [03_sobre_el_main.md](03_sobre_el_main.md) | Descripción y alcance de las notas de clase (`main.pdf`) |
 | [04_calificacion.md](04_calificacion.md) | Criterios de evaluación, metodología de calificación y calendario de exámenes |
 | [05_guia_estudio.md](05_guia_estudio.md) | Recomendaciones generales sobre hábitos de estudio y aprendizaje |
+| [06_sobre_ia.md](06_sobre_ia.md) | Uso de la inteligencia artificial como herramienta de estudio |
 
----
 
 ## Observación importante
 
