@@ -78,3 +78,9 @@ Por el contrario, una forma más adecuada de preguntar sería:
 * Contraste siempre las respuestas con apuntes de clase, libros y notas propias.
 
 El objetivo es fortalecer las bases conceptuales, mejorar el lenguaje técnico y ganar autonomía en el estudio de la mecánica del medio continuo y la mecánica de sólidos.
+
+## Material de otras clases
+
+En algunas oportunidaes he impartido clases sobre IA en la Universidad de Caldas para los estudiantes de las áreas de ciencias de la salud y ciencias sociales, contextualizando sobre el uso y funcionamiento de la Inteligencia Artificial. 
+
+Aquí una de las presentaciones usadas: [2025b--presentacion-ia-ucaldas-meges.pdf](../documentos/2025b--presentacion-ia-ucaldas-meges.pdf)
