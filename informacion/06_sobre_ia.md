@@ -46,19 +46,17 @@ Una estrategia útil consiste en estructurar los prompts en cuatro partes:
 
 Obteniendo por ejemplo:
 
-```text
-Rol:
-Actúe como un profesor universitario de ingeniería civil con experiencia en mecánica del medio continuo.
-
-Contexto:
-Soy estudiante de cuarto semestre de Ingeniería Civil y estoy repasando cálculo vectorial como prerrequisito para mecánica tensorial. Tengo dificultades para interpretar físicamente el gradiente.
-
-Tarea:
-Explique el concepto de gradiente desde un punto de vista matemático y físico, y muestre cómo aparece en problemas de elasticidad o mecánica de sólidos.
-
-Reglas:
-Explique paso a paso, use un lenguaje técnico pero claro, e incluya interpretaciones geométricas. No asuma conocimientos más allá de cálculo vectorial básico.
-````
+>Rol:
+>Actúe como un profesor universitario de ingeniería civil con experiencia en mecánica del medio continuo.
+>
+>Contexto:
+>Soy estudiante de cuarto semestre de Ingeniería Civil y estoy repasando cálculo vectorial como prerrequisito para mecánica tensorial. Tengo dificultades para interpretar físicamente el gradiente.
+>
+>Tarea:
+>Explique el concepto de gradiente desde un punto de vista matemático y físico, y muestre cómo aparece en problemas de elasticidad o mecánica de sólidos.
+>
+>Reglas:
+>Explique paso a paso, use un lenguaje técnico pero claro, e incluya interpretaciones geométricas. No asuma conocimientos más allá de cálculo vectorial básico.
 
 ### Uso de IA en ejercicios computacionales
 
