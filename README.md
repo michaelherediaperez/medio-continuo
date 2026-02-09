@@ -13,8 +13,6 @@ Este repositorio contiene el material académico de las asignaturas del área de
 - **4200687 – Mecánica Tensorial** (4 créditos)  
 - **4100611 – Mecánica de Sólidos 1** (3 créditos)
 
-Ambas asignaturas tienen continuidad conceptual y constituyen la base para cursos posteriores como Mecánica de Sólidos 2, Mecánica de Fluidos, Mecánica de Suelos, Elementos Finitos y Métodos Numéricos.
-
 Información sobre créditos académicos puede consultarse en:  
 [Créditos](informacion/credito.md)
 
@@ -50,16 +48,15 @@ La descripción oficial de los contenidos y el alcance de cada curso se encuentr
 
 ### Material académico
 
+En estas carpetas se encuentran las diapositivas, ejemplos computacionales y material complementario utilizado durante el semestre:
+
 - [Presentaciones de clase](documentos/readme.md)  
 - [Códigos de apoyo](codigos/readme.md)
-
-En estas carpetas se encuentran las diapositivas, ejemplos computacionales y material complementario utilizado durante el semestre.
-
 
 
 ## Descarga del material
 
-El repositorio puede clonarse mediante:
+El repositorio puede clonarse desde la terminal mediante:
 
 ```bash
 git clone https://github.com/michaelherediaperez/medio-continuo.git

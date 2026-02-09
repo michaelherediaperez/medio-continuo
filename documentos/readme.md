@@ -50,7 +50,6 @@ Este taller:
 
 Se recomienda realizarlo al inicio del semestre.
 
----
 
 ## Banco de preguntas
 
