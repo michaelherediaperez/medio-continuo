@@ -14,26 +14,31 @@ Las presentaciones están elaboradas en $\LaTeX$ utilizando la clase
 
 | Diapositiva | Estado | Descripción |
 |------------|--------|-------------|
-| [00t_.pdf](diapos/00t_.pdf) | Desactualizado | Presentación del curso de Mecánica Tensorial |
-| [01a_.pdf](diapos/01a_.pdf) | Desactualizado | Introducción a los tensores |
-| [01t_.pdf](diapos/01t_.pdf) | Desactualizado | Conceptos básicos |
+| [2026a_tensorial-intro.pdf](diapos/2026a_tensorial-intro.pdf) | Actualizado | Presentación e introducción al curso de Mecánica Tensorial (2026-A) |
+| [01t_.pdf](diapos/01t_.pdf) | Actualizado | Conceptos básicos de cálculo tensorial |
 | [02_esfuerzos.pdf](diapos/02_esfuerzos.pdf) | Actualizado | Estudio de los esfuerzos en un punto |
 | [03_deformaciones.pdf](diapos/03_deformaciones.pdf) | Actualizado | Desplazamientos y deformaciones en un punto |
-| [04a_.pdf](diapos/04a_.pdf) | Desactualizado | Secciones 4.1 a 4.7 |
-
+| [04a_.pdf](diapos/04a_.pdf) | Desactualizado | Relación esfuerzo–deformación (secciones iniciales) |
 
 ### Mecánica de Sólidos 1
 
 | Diapositiva | Estado | Descripción |
 |------------|--------|-------------|
-| [00s_intro_solidos.pdf](diapos/00s_intro_solidos.pdf) | Actualizado | Introducción al curso de Mecánica de Sólidos 1 |
+| [2026a_solidos_intro.pdf](diapos/2026a_solidos_intro.pdf) | Actualizado | Presentación e introducción al curso de Mecánica de Sólidos 1 (2026-A) |
 | [00s_intro_solid_mechanics.pdf](diapos/00s_intro_solid_mechanics.pdf) | Actualizado | Introduction to Solid Mechanics |
-| [04b_.pdf](diapos/04b_.pdf) | Desactualizado | Repaso y sección 4.8: tensión y deformación plana |
-| [04c_.pdf](diapos/04c_.pdf) | Desactualizado | Sección 4.9: interpretación de gráficos |
+| [01s_.pdf](diapos/01s_.pdf) | Actualizado | Repaso de conceptos básicos: esfuerzos, deformaciones y ley de Hooke |
+| [04b_.pdf](diapos/04b_.pdf) | Desactualizado | Tensión y deformación plana |
+| [04c_.pdf](diapos/04c_.pdf) | Desactualizado | Interpretación de gráficos esfuerzo–deformación |
 | [05_eqdiff.pdf](diapos/05_eqdiff.pdf) | Actualizado | Ecuaciones diferenciales fundamentales de la teoría de la elasticidad |
 | [06z_.pdf](diapos/06z_.pdf) | Desactualizado | Introducción a coordenadas cilíndricas |
-| [09_torsion.pdf](diapos/09_torsion.pdf) | Desactualizado | Torsión de ejes prismáticos |
 | [16_fallas.pdf](diapos/16_fallas.pdf) | Actualizado | Criterios de falla para materiales dúctiles y frágiles |
+
+### Material complementario
+
+| Diapositiva | Estado | Descripción |
+|------------|--------|-------------|
+| [software-actuales.pdf](diapos/software-actuales.pdf) | Actualizado | Herramientas de software utilizadas y recomendadas en el curso |
+
 
 
 ## Taller de repaso de prerrequisitos
