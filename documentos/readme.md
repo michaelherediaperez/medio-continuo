@@ -24,7 +24,7 @@ Las presentaciones están elaboradas en $\LaTeX$ utilizando la clase
 
 | Diapositiva | Estado | Descripción |
 |------------|--------|-------------|
-| [2026a_solidos_intro.pdf](diapos/2026a_solidos_intro.pdf) | Actualizado | Presentación e introducción al curso de Mecánica de Sólidos 1 (2026-A) |
+| [2026a-solidos-intro.pdf](diapos/2026a-solidos-intro.pdf) | Actualizado | Presentación e introducción al curso de Mecánica de Sólidos 1 (2026-A) |
 | [00s_intro_solid_mechanics.pdf](diapos/00s_intro_solid_mechanics.pdf) | Actualizado | Introduction to Solid Mechanics |
 | [01s_.pdf](diapos/01s_.pdf) | Actualizado | Repaso de conceptos básicos: esfuerzos, deformaciones y ley de Hooke |
 | [04b_.pdf](diapos/04b_.pdf) | Desactualizado | Tensión y deformación plana |
