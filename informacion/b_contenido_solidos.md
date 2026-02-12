@@ -1,4 +1,4 @@
-# Mecánica de Sólidos 1
+# 4100611 - Mecánica de Sólidos 1
 
 ## Descripción general del curso
 
