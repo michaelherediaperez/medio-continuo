@@ -43,7 +43,7 @@ Las presentaciones están elaboradas en $\LaTeX$ utilizando la clase
 | Archivo | Descripción |
 |---------|-------------|
 | [software-actuales.pdf](diapos/software-actuales.pdf) | Herramientas de software utilizadas y recomendadas en el curso. |
-| [2025b-presentacion-ia-ucaldas-meges.pdf](2025b-presentacion-ia-ucaldas-meges.pdf) | Introducción a la inteligencia artificial para el uso académico, diario e investigativo. |
+| [2025b--presentacion-ia-ucaldas-meges.pdf](2025b--presentacion-ia-ucaldas-meges.pdf) | Introducción a la inteligencia artificial para el uso académico, diario e investigativo. |
 
 
 
