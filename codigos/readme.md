@@ -73,16 +73,10 @@ Ver [cap_03](cap_03).
 
 Ver [cap_04](cap_04).
 
-**Demostraciones**
-- [04_03_02.ipynb](cap_04/04_03_02.ipynb)
-- [04_03_03.ipynb](cap_04/04_03_03.ipynb)
-- [04_09_04.ipynb](cap_04/04_09_04.ipynb)
-
-**Ejemplos**
-- [04_08_03_ejemplo_DP.ipynb](cap_04/04_08_03_ejemplo_DP.ipynb)
-- [04_08_03_ejemplo_TP.ipynb](cap_04/04_08_03_ejemplo_TP.ipynb)
-- [04_09_graficos_colores.ipynb](cap_04/04_09_graficos_colores.ipynb)
-- [ejemplo-varias-aplicaciones.ipynb](cap_04/ejemplo-varias-aplicaciones.ipynb)
+- [04_09_04.ipynb](cap_04/04_09_04.ipynb), relación entre diagramas de esfuerzos, fuerza cortante y momento flector.
+- [4_9_3_relaciones_esfuerzos_pp_bidimensional_tridimensional.ipynb](cap_04/4_9_3_relaciones_esfuerzos_pp_bidimensional_tridimensional.ipynb), relación entre los esfuerzos principales obtenidos en el análisis bidimensional y tridimensional.
+- [04_09_graficos_colores.ipynb](cap_04/04_09_graficos_colores.ipynb), obtención de gráficos de colores.
+- [ejemplo-varias-aplicaciones.ipynb](cap_04/ejemplo-varias-aplicaciones.ipynb), varias aplicaciones de temas vistos.
 
 Estos gráficos de colores son:
 
