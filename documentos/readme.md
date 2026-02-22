@@ -32,6 +32,7 @@ Las presentaciones están elaboradas en $\LaTeX$ utilizando la clase
 | [00s_intro_solid_mechanics.pdf](diapos/00s_intro_solid_mechanics.pdf)                                                               | Introducción general a la mecánica de sólidos (en inglés).              |
 | [solidos--unidad--01-repaso-esfuerzos-def-relaciones.pdf](diapos/solidos--unidad-01--repaso-esfuerzos-def-relaciones.pdf)               | Repaso de esfuerzos, deformaciones infinitesimales y ley de Hooke.      |
 | [solidos--unidad--02-relacion-entre-esfuerzos-deformaciones.pdf](diapos/solidos--unidad-02--relacion-entre-esfuerzos-deformaciones.pdf) | Relaciones esfuerzo–deformación en dos dimensiones.                     |
+| [2022b--interpretacion-de-graficos.pdf](diapos/2022b--interpretacion-de-graficos.pdf) | Interprertación de gráficos de esfuerzos yd eformaciones.                     |
 | [solidos--unidad--03-eq-diff-fundamentales-elasticidad.pdf](diapos/solidos--unidad-03--eq-diff-fundamentales-elasticidad.pdf)           | Ecuaciones diferenciales fundamentales de la teoría de la elasticidad.  |
 | [solidos--unidad--04-coordenadas-cilindricas.pdf](diapos/solidos--unidad-04--coordenadas-cilindricas.pdf)                               | Formulación en coordenadas polares y cilíndricas.                       |
 | [solidos--unidad--05-criterios-de-falla.pdf](diapos/solidos--unidad-05--criterios-de-falla.pdf)                                         | Criterios de falla para materiales dúctiles y frágiles.                 |
