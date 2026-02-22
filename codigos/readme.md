@@ -1,16 +1,10 @@
 # Códigos en Python
 
-
-
-## Traducciones del main.pdf
-
 A continaución encontrará un índice para acceder a las traducción de los códigos del ```main.pdf```, que están hechos en lenguaje MAXIMA y en Matlab, a [Python](https://www.python.org/); a excepción de unos pocos, estos están en formato ```.ipynb``` porque son *Python Interactive Notebooks* o *IPython Notebooks*.
-
-Si quiere correr por usted mismo uno de los cuadernos, o hacer una copia para estudiar y modificarlo, puede hacerlo desde el botón de la esquina superior izquierda <a href="https://colab.research.google.com/?hl=es" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a> que tienen todos los notebooks. O, descárguelo y lo trabaja en [jupyter](https://jupyter.org/).
 
 Para más información, revise la sección de [software recomendado](../informacion/03_software_recomendado.md).
 
-### 02. Estudio de los esfuerzos en un punto
+## 02. Estudio de los esfuerzos en un punto
 
 Ver [cap_02](cap_02).
 
@@ -45,7 +39,7 @@ Otras herramientas para estudiar el círculo de Mohr:
 
 
 
-### 03. Estudio de los desplazamientos y las deformaciones en un punto
+## 03. Estudio de los desplazamientos y las deformaciones en un punto
 
 Ver [cap_03](cap_03).
 
@@ -61,7 +55,7 @@ Ver [cap_03](cap_03).
 **Ejercicios**
 - ...
 
-### 04. Relación entre los esfuerzos y las deformaciones
+## 04. Relación entre los esfuerzos y las deformaciones
 
 Ver [cap_04](cap_04).
 
@@ -97,7 +91,7 @@ Se obtienen los siguientes gráficos:
 ![](cap_04/results_plots/momento_flector.png)
 
 
-### 05. Ecuaciones diferencailes fundamentales de la teoría de la elasticidad
+## 05. Ecuaciones diferencailes fundamentales de la teoría de la elasticidad
 
 Ver [cap_05](cap_05).
 
@@ -112,7 +106,7 @@ Ver [cap_05](cap_05).
 - ...
 
 
-### 06. Formulación de la teoría de la elasticidad en coordenadas cilíndricas
+## 06. Formulación de la teoría de la elasticidad en coordenadas cilíndricas
 
 Ver: [https://github.com/diegoandresalvarez/solidos/tree/master/archivos/codigo/cap_06](https://github.com/diegoandresalvarez/solidos/tree/master/archivos/codigo/cap_06)
 
