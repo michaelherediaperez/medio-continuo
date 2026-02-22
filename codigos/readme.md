@@ -1,13 +1,5 @@
 # Códigos en Python
 
-## Mecánica tensorial
-
-Códigos hechos por el profesor Diego Andrés Álvarez:
-
-- [Descomposición polar](https://github.com/diegoandresalvarez/tensorial/blob/main/codigo/Descomposici%C3%B3n%20polar.ipynb)
-- [Gradiente de deformación](https://github.com/diegoandresalvarez/tensorial/blob/main/codigo/Gradiente%20de%20deformaci%C3%B3n%20F.ipynb)
-- [Símbolo de Levi-Civita](https://github.com/diegoandresalvarez/tensorial/blob/main/codigo/S%C3%ADmbolo%20de%20Levi-Civita.ipynb)
-- [Los tensores de Green-Lagrange y de Euler-Almansi](https://github.com/diegoandresalvarez/tensorial/blob/main/codigo/tensor_lagrangiano_euleriano.ipynb)
 
 
 ## Traducciones del main.pdf
@@ -73,35 +65,36 @@ Ver [cap_03](cap_03).
 
 Ver [cap_04](cap_04).
 
-- [04_09_04.ipynb](cap_04/04_09_04.ipynb), relación entre diagramas de esfuerzos, fuerza cortante y momento flector.
 - [4_9_3_relaciones_esfuerzos_pp_bidimensional_tridimensional.ipynb](cap_04/4_9_3_relaciones_esfuerzos_pp_bidimensional_tridimensional.ipynb), relación entre los esfuerzos principales obtenidos en el análisis bidimensional y tridimensional.
-- [04_09_graficos_colores.ipynb](cap_04/04_09_graficos_colores.ipynb), obtención de gráficos de colores.
+- [4_10_analisis_de_la_viga.ipynb](cap_04/4_10_analisis_de_la_viga.ipynb), análisis de la viga para obtener los gráficos de colores.
+- [4_10_4_relacion_esf_fuerzas_internas.ipynb](cap_04/4_10_4_relacion_esf_fuerzas_internas.ipynb), relación entre diagramas de esfuerzos, fuerza cortante y momento flector.
 - [ejemplo-varias-aplicaciones.ipynb](cap_04/ejemplo-varias-aplicaciones.ipynb), varias aplicaciones de temas vistos.
 
-Estos gráficos de colores son:
+Se obtienen los siguientes gráficos:
 
 - *Esfuerzos*:
 
-![](graficos_colores/sigma_x.png)
-![](graficos_colores/sigma_y.png)
-![](graficos_colores/tau_xy.png)
+![](cap_04/results_plots/sigma_x.png)
+![](cap_04/results_plots/sigma_y.png)
+![](cap_04/results_plots/tau_xy.png)
 
 - *Deformaciones*:
 
-![](graficos_colores/epsilon_x.png)
-![](graficos_colores/epsilon_y.png)
-![](graficos_colores/epsilon_z.png)
-![](graficos_colores/gamma_xy.png)
+![](cap_04/results_plots/epsilon_x.png)
+![](cap_04/results_plots/epsilon_y.png)
+![](cap_04/results_plots/epsilon_z.png)
+![](cap_04/results_plots/gamma_xy.png)
 
 - *Esfuerzos principales*:
 
-![](graficos_colores/s1.png)
-![](graficos_colores/s2.png)
-![](graficos_colores/tmax.png)
+![](cap_04/results_plots/s1.png)
+![](cap_04/results_plots/s2.png)
+![](cap_04/results_plots/tmax.png)
 
 - *Diagramas*:
 
-![](graficos_colores/vx_mx.png)
+![](cap_04/results_plots/fuerza_cortante.png)
+![](cap_04/results_plots/momento_flector.png)
 
 
 ### 05. Ecuaciones diferencailes fundamentales de la teoría de la elasticidad
@@ -124,5 +117,14 @@ Ver [cap_05](cap_05).
 Ver: [https://github.com/diegoandresalvarez/solidos/tree/master/archivos/codigo/cap_06](https://github.com/diegoandresalvarez/solidos/tree/master/archivos/codigo/cap_06)
 
 
-# Otros respositorios
+# Otros códigos.
+
 - Profesor Nicolás Ramirez: <https://github.com/jnramirezg/mecanica_de_solidos/tree/main/codigo>
+
+
+Códigos hechos por el profesor Diego Andrés Álvarez:
+
+- [Descomposición polar](https://github.com/diegoandresalvarez/tensorial/blob/main/codigo/Descomposici%C3%B3n%20polar.ipynb)
+- [Gradiente de deformación](https://github.com/diegoandresalvarez/tensorial/blob/main/codigo/Gradiente%20de%20deformaci%C3%B3n%20F.ipynb)
+- [Símbolo de Levi-Civita](https://github.com/diegoandresalvarez/tensorial/blob/main/codigo/S%C3%ADmbolo%20de%20Levi-Civita.ipynb)
+- [Los tensores de Green-Lagrange y de Euler-Almansi](https://github.com/diegoandresalvarez/tensorial/blob/main/codigo/tensor_lagrangiano_euleriano.ipynb)
