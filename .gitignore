@@ -1,1 +1,5 @@
 informacion/trabajo.md
+
+# Ignorar gráficas en PDF y EPS, conservar solo PNG
+codigos/cap_04/results_plots/*.pdf
+codigos/cap_04/results_plots/*.eps
