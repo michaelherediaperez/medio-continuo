@@ -257,6 +257,10 @@ def plot_v_m(distancia, fuerza, titulo, nombre=None):
     fig, ax = plt.subplots(figsize=(10, 3), constrained_layout=True)
     
     ax.plot(distancia, fuerza, "-b")
+    
+    # ← Relleno en azul claro, sin distinción de signo
+    ax.fill_between(distancia, fuerza, 0, color="b", alpha=0.15)
+    
     ax.axhline(0, linewidth=0.8)
     ax.axvline(0, linewidth=0.8)
     ax.set_xlabel(r"$x$ [m]")
