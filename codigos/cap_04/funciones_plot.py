@@ -60,20 +60,23 @@ def plot_esf_def(x, y, variable, titulo, nombre=None, angulo=None, cmap="RdBu_r"
     para que no quede apretado, sin tocar rcParams globales.
 
     Args:
+        x (np.ndarray): 
+            coordenadas x de la malla.
+        y (np.ndarray): 
+            coordenadas y de la malla.
         variable (np.ndarray): 
             campo a graficar (misma forma que x,y).
         titulo (str): 
             título del gráfico.
-        nombre (str): 
-            Nombre de la figura al ser guardada.
+        nombre (str, default None): 
+            Nombre de la figura al ser guardada (sin extensión). Si es None, 
+            no se guarda la figura.
         angulo (np.ndarray | list[np.ndarray] | None): 
             ángulos para quiver.
         cmap (str): 
             colormap. 
             Recomendados: coolwarm, RdBu_r, vik (requiere ScientificColourMaps).
     """
-    # # Defino las coordenadas x, y como globales.
-    # global x, y
 
     # Creo el lienzo.
     fig, ax = plt.subplots(figsize=(10, 3), constrained_layout=True)
@@ -146,20 +149,26 @@ def plot_3d_esf_def(x, y, variable, titulo, nombre=None, cmap="RdBu_r"):
     """
     Grafica un campo escalar de esfuerzos/deformaciones como superficie 3D
     interactiva sobre la malla (x,y), con colormap centrado en cero.
+    
     Args:
+        x (np.ndarray): 
+            coordenadas x de la malla.
+        y (np.ndarray): 
+            coordenadas y de la malla.  
         variable (np.ndarray): 
             campo escalar a graficar (misma forma que x,y).
         titulo (str): 
             título del gráfico y etiqueta del eje z.
-        nombre (str): 
-            nombre de la figura al ser guardada.
+        nombre (str, default None): 
+            Nombre de la figura al ser guardada (sin extensión). Si es None, 
+            no se guarda la figura.
         cmap (str): 
             colormap.
             Recomendados: coolwarm, RdBu_r, vik (requiere ScientificColourMaps).
+            
     Notas:
         Requiere %matplotlib widget (ipympl) para interactividad en Jupyter.
     """
-    # global x, y
 
     # Normalización centrada en cero (mismo criterio que plot_esf_def)
     vmin = float(np.nanmin(variable))
@@ -203,7 +212,12 @@ def plot_3d_esf_def_interactive(x, y,variable, titulo, cmap="RdBu_r"):
     """
     Grafica un campo escalar de esfuerzos/deformaciones como superficie 3D
     interactiva usando Plotly, con colormap centrado en cero.
+    
     Args:
+        x (np.ndarray): 
+            coordenadas x de la malla.
+        y (np.ndarray): 
+            coordenadas y de la malla.
         variable (np.ndarray): 
             campo escalar a graficar (misma forma que x,y).
         titulo (str): 
@@ -212,7 +226,6 @@ def plot_3d_esf_def_interactive(x, y,variable, titulo, cmap="RdBu_r"):
             colormap.
             Recomendados: RdBu_r, coolwarm, RdYlBu.
     """
-    # global x, y
 
     # Creo la superficie 3D con el colormap centrado en cero
     fig = go.Figure(data=[go.Surface(
@@ -250,8 +263,9 @@ def plot_v_m(distancia, fuerza, titulo, nombre=None):
             en cada punto de 'distancia'. 
         titulo (str): 
             Título del gráfico (admite sintaxis LaTeX).
-        nombre (str): 
-            Nombre base del archivo al guardar la figura. 
+        nombre (str, default None): 
+            Nombre de la figura al ser guardada (sin extensión). Si es None, 
+            no se guarda la figura.
     """
     
     fig, ax = plt.subplots(figsize=(10, 3), constrained_layout=True)
