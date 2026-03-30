@@ -62,25 +62,3 @@ Este taller:
 * Sirve como herramienta de diagnóstico y repaso
 
 Se recomienda realizarlo al inicio del semestre.
-
----
-
-## Banco de preguntas
-
-En la subcarpeta `bancos/` se encuentra:
-
-* [banco-de-preguntas.pdf](bancos/banco-de-preguntas.pdf)
-
-Su objetivo:
-
-* Apoyar el estudio autónomo
-* Permitir practicar la formulación de respuestas conceptuales
-* Familiarizarse con el tipo de razonamiento esperado en los exámenes
-
-El banco de preguntas:
-
-* **No es calificable**
-* **No garantiza** que las preguntas aparezcan en los exámenes
-* No constituye una lista exhaustiva de los temas evaluables
-
-Su uso es estrictamente formativo.
