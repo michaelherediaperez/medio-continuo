@@ -85,3 +85,7 @@ Por Jacobo :)
 
 >"Considero que una buena educación básica debe contener tres ingredientes: aprender a leer, a escribir y a sumar. Todo lo demás se deriva de las habilidades en esos tres campos. Si uno termina su colegio sin saber escribir, tendrá una deficiencia básica en la vida: leer sirve para entender, pero escribir genera otro proceso, que es ordenar las ideas de una forma lógica de tal manera que las comprenda otra persona."
 >- José Antonio Ocampo, Entre la academia y el servicio público.
+
+
+>"Tu también deberías creer en ti. Vales más de lo que piensas. Créeme."
+>- Benito Antonio Ocasio Martinez.
