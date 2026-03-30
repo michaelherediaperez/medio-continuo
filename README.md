@@ -88,4 +88,4 @@ Por Jacobo :)
 
 
 >"Tu también deberías creer en ti. Vales más de lo que piensas. Créeme."
->- Benito Antonio Ocasio Martinez.
+>- Benito Antonio Ocasio Martinez, Super Bowl halftime show 2026.
