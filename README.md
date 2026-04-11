@@ -82,6 +82,7 @@ Por Jacobo :)
 - Correo institucional: [mherediap@unal.edu.co](mailto:mherediap@unal.edu.co)  
 - LinkedIn: https://www.linkedin.com/in/michael-heredia-perez
 
+## Algunas frases
 
 >"Considero que una buena educación básica debe contener tres ingredientes: aprender a leer, a escribir y a sumar. Todo lo demás se deriva de las habilidades en esos tres campos. Si uno termina su colegio sin saber escribir, tendrá una deficiencia básica en la vida: leer sirve para entender, pero escribir genera otro proceso, que es ordenar las ideas de una forma lógica de tal manera que las comprenda otra persona."
 >- _José Antonio Ocampo_, Entre la academia y el servicio público.
@@ -89,3 +90,6 @@ Por Jacobo :)
 
 >"Tu también deberías creer en ti. Vales más de lo que piensas. Créeme."
 >- _Benito Antonio Ocasio Martinez_, Super Bowl halftime show 2026.
+
+>"La teoría sin reflexión, es solo memoria."
+>- _Daniela Amaya Parra_, en una de nuestras conversaciones.
